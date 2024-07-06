@@ -48,8 +48,9 @@ theme:
 # Plugins
 plugins:
   - git-committers:  # Insiders
-      repository: timothyhull/breadpool-champs-app
       branch: main
+      repository: timothyhull/breadpool-champs-app
+      token: !ENV ["MKDOCS_TOKEN"]
   - git-revision-date-localized:
       enable_creation_date: true
       type: timeago
