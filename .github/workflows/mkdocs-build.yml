@@ -12,6 +12,10 @@ on:
   # Allows manual run of the Action
   workflow_dispatch:
 
+# Set workflow permissions
+permissions:
+  contents: write
+
 # Set environment variables
 env:
   CONFIG_FILE: mkdocs.insiders.yml
