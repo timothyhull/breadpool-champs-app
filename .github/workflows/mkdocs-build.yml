@@ -19,6 +19,7 @@ permissions:
 
 # Set environment variables
 env:
+  cache_id:  # Placeholder for value set in the Set cache_id Environment Variable step
   CONFIG_FILE: mkdocs.insiders.yml
   GIT_PREFIX: 'git+https://'
   GIT_SUFFIX: '@github.com/timothyhull/mkdocs-material-insiders.git'
