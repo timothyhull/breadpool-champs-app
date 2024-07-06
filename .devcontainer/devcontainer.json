@@ -54,5 +54,8 @@
     // Script to run after Visual Studio creates to the container
     "postCreateCommand": ["./scripts/install-mkdocs-material-insiders.sh"],
     // Script to run after Visual Studio attaches to the container
-    "postAttachCommand": ["./scripts/server-launch.sh"]
+    "postAttachCommand": ["./scripts/server-launch.sh"],
+    // Visual Studio Code environment configuration
+    // Load local environment variables from a Git-excluded file
+    "runArgs": ["--env-file",".devcontainer/devcontainer.env"]
 }
