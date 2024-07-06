@@ -47,8 +47,8 @@
             }
         }
     },
-    // Ports to forward to the devcontainer
-    "forwardPorts": [
-    //     8080
+     // Ports to forward to the devcontainer
+     "forwardPorts": [
+        8000
     ]
 }
