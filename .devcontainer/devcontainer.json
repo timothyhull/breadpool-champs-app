@@ -40,6 +40,13 @@
                         "strings": true
                     }
                 },
+                // Custom YAML tags for mkdocs.yml
+                "yaml.customTags": [
+                    "!ENV sequence",
+                    "tag:yaml.org,2002:python/name:material.extensions.emoji.twemoji",
+                    "tag:yaml.org,2002:python/name:material.extensions.emoji.to_svg",
+                    "tag:yaml.org,2002:python/name:pymdownx.superfences.fence_code_format"
+                ],
                 // Set Python configuration for runtime, syntax analysis, and linting
                 "python.analysis.useImportHeuristic": true,
                 "python.formatting.provider": "autopep8",
