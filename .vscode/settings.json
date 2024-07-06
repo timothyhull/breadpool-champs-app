@@ -1,7 +1,12 @@
 {
     "cSpell.words": [
         "breadpool",
+        "inlinehilite",
         "nosborn",
-        "pylint"
+        "pylint",
+        "pymdownx",
+        "superfences",
+        "tasklist",
+        "timeago"
     ]
 }
