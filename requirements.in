@@ -1,0 +1,16 @@
+# Material for MkDocs base
+mkdocs
+mkdocs-material
+
+# Material for MkDocs Insiders features installed separately
+## Installed automatically by "requirements/install-mkdocs-material-insiders.sh"
+## in the VS Code dev container. Installed for production documentation builds
+## with a GitHub Action using ".github/workflows/mkdocs-build.yml".
+
+# Plugin to display the contributors to each HTML page
+# https://github.com/ojacques/mkdocs-git-committers-plugin-2
+mkdocs-git-committers-plugin-2
+
+# Plugin to display the create date and the of the last Git commit to each HTML page
+# https://timvink.github.io/mkdocs-git-revision-date-localized-plugin
+mkdocs-git-revision-date-localized-plugin

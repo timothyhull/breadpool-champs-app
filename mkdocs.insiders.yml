@@ -1,0 +1,57 @@
+# Material for MkDocs Insiders configuration file.
+# Reference: https://squidfunk.github.io/mkdocs-material/insiders
+---
+# Inherit standard configuration items from mkdocs.yml
+INHERIT: mkdocs.yml
+
+# Any items below will override any items that overlap with those in mkdocs.yml
+# Configuration
+theme:
+  features:
+    - content.code.annotate  # Insiders
+    - content.tabs.link  # Insiders
+    - content.tooltips  # Insiders
+    - navigation.expand
+    - navigation.instant
+    - navigation.sections
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow  # Insiders
+    - toc.integrate
+
+  palette:
+    # Palette toggle for automatic light/dark mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
+# Plugins
+plugins:
+  - git-committers:  # Insiders
+      repository: timothyhull/breadpool-champs-app
+      branch: main
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: timeago
+  - search
+  - offline  # Insiders
