@@ -50,5 +50,7 @@
      // Ports to forward to the devcontainer
      "forwardPorts": [
         8000
-    ]
+    ],
+    // Script to run after Visual Studio creates to the container
+    "postCreateCommand": ["./scripts/install-mkdocs-material-insiders.sh"]
 }
