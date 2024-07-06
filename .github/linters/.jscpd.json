@@ -1,0 +1,13 @@
+{
+    "threshold": 0,
+    "reporters": [
+      "consoleFull"
+    ],
+    "ignore": [
+      "**/__snapshots__/**",
+      "**/node_modules/**",
+      "**/data/json/**",
+      "**/.bandit.yml"
+    ],
+    "absolute": true
+}

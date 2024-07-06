@@ -1,0 +1,5 @@
+# Data formats
+pyyaml
+
+# .env file support
+python_dotenv
