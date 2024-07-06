@@ -2,7 +2,7 @@
 // https://code.visualstudio.com/docs/remote/devcontainerjson-reference
 {
     // Docker build instructions
-    "name": "<Project_Name>",
+    "name": "breadpool-champs-app",
     "build": {
         "dockerfile": "../Dockerfile.dev",
         "context": ".."
@@ -25,7 +25,7 @@
             // Visual Studio Code environment configuration
             "settings": {
                 "markdownlint.config": {
-                    "extends": "/workspaces/<CONTAINER-NAME>/.github/linters/.markdown-lint.yml"
+                    "extends": "/workspaces/breadpool-champs-app/.github/linters/.markdown-lint.yml"
                 },
                 // Set the default terminal application to bash
                 "terminal.integrated.defaultProfile.linux": "bash",
