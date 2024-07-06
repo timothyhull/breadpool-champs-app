@@ -5,8 +5,10 @@
         "nosborn",
         "pylint",
         "pymdownx",
+        "Roboto",
         "superfences",
         "tasklist",
-        "timeago"
+        "timeago",
+        "twemoji"
     ]
 }
