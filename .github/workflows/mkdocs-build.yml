@@ -52,7 +52,7 @@ jobs:
       # Set cache_id environment variable
       - name: Set cache_id Environment Variable
         run: |
-          echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV
+          echo "cache_id=$(date --utc '+%V')" >> "$GITHUB_ENV"
 
       # cache@ action documentation
       # https://github.com/actions/cach
