@@ -1,0 +1,110 @@
+# Material for MkDocs configuration file.
+# Reference: https://squidfunk.github.io/mkdocs-material/creating-your-site
+---
+site_name: Breadpool 2024 WFTDA Global Championship Officiating Application
+site_url: https://TODO.pages.github.io
+nav:
+  - Overview: index.md
+  # - TBD: TBD
+  # - Glossary: 0_glossary.md
+
+# Repository information
+edit_uri: ""
+repo_name: timothyhull/breadpool-champs-app
+repo_url: https://github.com/timothyhull/breadpool-champs-app
+
+# Configuration
+theme:
+  name: material
+  # custom_dir: docs/overrides
+  favicon: logos/breadpool_favicon.png
+  icon:
+    admonition:
+      example: material/format-list-numbered
+    repo: fontawesome/brands/github
+  # Features - relocated to mkdocs.insiders.yml
+  # features:
+  #   - navigation.expand
+  #   - navigation.instant
+  #   - navigation.sections
+  #   - navigation.tabs
+  #   - navigation.tabs.sticky
+  #   - navigation.top
+  #   - navigation.tracking
+  #   - search.highlight
+  #   - search.share
+  #   - search.suggest
+  #   - toc.integrate
+  font:
+    text: Roboto
+    code: Roboto Mono
+  language: en
+  logo: logos/breadpool.png
+  # Color palette - relocated to mkdocs.insiders.yml
+  # palette:
+  #   # Palette toggle for light mode
+  #   - media: "(prefers-color-scheme: light)"
+  #     scheme: default
+  #     primary: indigo
+  #     accent: red
+  #     toggle:
+  #       icon: material/toggle-switch-off-outline
+  #       name: Switch to dark mode
+
+  #   # Palette toggle for dark mode
+  #   - media: "(prefers-color-scheme: dark)"
+  #     scheme: slate
+  #     primary: red
+  #     accent: light blue
+  #     toggle:
+  #       icon: material/toggle-switch
+  #       name: Switch to light mode
+  shortcuts:
+    help: 191     # ? key
+    next: 78      # n key
+    previous: 80  # p key
+    search: 83    # s key
+
+# Plugins - relocated to mkdocs.insiders.yml
+# plugins:
+#   - git-revision-date-localized:
+#       type: timeago
+#   - search
+
+# Custom CSS
+# extra_css:
+# - stylesheets/admonitions.css
+# - stylesheets/icons.css
+
+# Markdown extensions
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - meta
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - toc:
+      permalink: true

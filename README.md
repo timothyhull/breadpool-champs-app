@@ -1,3 +1,3 @@
-# <Project_Name> Repository
+# Breadpool Champs App Repository
 
-[![Super-Linter](https://github.com/<OWNER>/<REPO>/actions/workflows/<WORKFLOW_FILE>/badge.svg)](https://github.com/marketplace/actions/super-linter)
+[![Super-Linter](https://github.com/timothyhull/breadpool-champs-app/actions/workflows/lint-files.yml/badge.svg)](https://github.com/marketplace/actions/super-linter)

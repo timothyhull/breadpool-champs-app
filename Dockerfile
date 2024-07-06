@@ -1,4 +1,4 @@
-# <Project_Name> Container
+# Breadpool Champs App Container
 FROM python:3.11-slim-buster
 
 # Set the working directory
