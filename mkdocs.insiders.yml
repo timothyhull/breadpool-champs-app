@@ -9,10 +9,15 @@ INHERIT: mkdocs.yml
 theme:
   features:
     - content.code.annotate  # Insiders
+    - content.footnote.tooltips  # Insiders
     - content.tabs.link  # Insiders
     - content.tooltips  # Insiders
     - navigation.expand
+    - navigation.footer
     - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.path
     - navigation.sections
     - navigation.tabs
     - navigation.tabs.sticky
@@ -33,6 +38,8 @@ theme:
 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
+      accent: red
+      primary: black
       scheme: default
       toggle:
         icon: material/brightness-7
@@ -40,6 +47,8 @@ theme:
 
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
+      accent: red
+      primary: black
       scheme: slate
       toggle:
         icon: material/brightness-4
