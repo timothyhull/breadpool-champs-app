@@ -2,11 +2,9 @@
 # Reference: https://squidfunk.github.io/mkdocs-material/creating-your-site
 ---
 site_name: Breadpool's 2024 WFTDA Global Championship Officiating Application
-site_url: https://TODO.pages.github.io
+site_url: https://timothyhull.github.io/breadpool-champs-app
 nav:
-  - Overview: index.md
-  # - TBD: TBD
-  # - Glossary: 0_glossary.md
+  - Officiating Application: index.md
 
 # Repository information
 edit_uri: ""
