@@ -1,7 +1,7 @@
 # Material for MkDocs configuration file.
 # Reference: https://squidfunk.github.io/mkdocs-material/creating-your-site
 ---
-site_name: Breadpool 2024 WFTDA Global Championship Officiating Application
+site_name: Breadpool's 2024 WFTDA Global Championship Officiating Application
 site_url: https://TODO.pages.github.io
 nav:
   - Overview: index.md
