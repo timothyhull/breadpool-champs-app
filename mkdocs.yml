@@ -93,7 +93,9 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.keys
   - pymdownx.mark
-  - pymdownx.snippets
+  - pymdownx.snippets:
+      auto_append:
+        - docs/includes/definitions.txt
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
