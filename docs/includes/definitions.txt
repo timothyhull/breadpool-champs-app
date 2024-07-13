@@ -12,8 +12,10 @@
 *[JR]: Jam Timer
 *[JRDA]: Junior Roller Derby Association
 *[MRDA]: Men's Roller Derby Association
+*[NOTT]: Not-On-The-Track
 *[OPR]: Outside Pack Referee
 *[OR]: Official Review
+*[OTO]: Official Timeout
 *[PBM]: Penalty Box Manager
 *[PBT]: Penalty Box Timer
 *[PLT]: Penalty Lineup Tracker
@@ -21,4 +23,5 @@
 *[SK]: Scorekeeper
 *[THNSO]: Tournament Head Non-Skating Official
 *[THR]: Tournament Head Referee
+*[TTO]: Team Timeout
 *[WFTDA]: Women's Flat Track Derby Association
