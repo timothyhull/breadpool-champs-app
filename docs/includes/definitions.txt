@@ -1,0 +1,24 @@
+*[ALTN]: Alternate Non-Skating Official
+*[ALTR]: Alternate Referee
+*[CHNSO]: Crew Head Non-Skating Official
+*[CHR]: Crew Head Referee
+*[CRG]: Carolina Roller Girls Scoreboard Software
+*[ePLT]: Electronic Penalty Lineup Tracker
+*[HNSO]: Head Non-Skating Official
+*[HR]: Head Referee
+*[IGRF]: Interleague Game Reporting Form
+*[IPR]: Inside Pack Referee
+*[JR]: Jammer Referee
+*[JR]: Jam Timer
+*[JRDA]: Junior Roller Derby Association
+*[MRDA]: Men's Roller Derby Association
+*[OPR]: Outside Pack Referee
+*[OR]: Official Review
+*[PBM]: Penalty Box Manager
+*[PBT]: Penalty Box Timer
+*[PLT]: Penalty Lineup Tracker
+*[SBO]: Scoreboard Operator
+*[SK]: Scorekeeper
+*[THNSO]: Tournament Head Non-Skating Official
+*[THR]: Tournament Head Referee
+*[WFTDA]: Women's Flat Track Derby Association
