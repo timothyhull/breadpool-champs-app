@@ -22,6 +22,7 @@
 *[PBM]: Penalty Box Manager
 *[PBT]: Penalty Box Timer
 *[PLT]: Penalty Lineup Tracker
+*[RCR]: Rose City Rollers
 *[SBO]: Scoreboard Operator
 *[SK]: Scorekeeper
 *[THNSO]: Tournament Head Non-Skating Official
