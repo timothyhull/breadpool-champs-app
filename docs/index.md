@@ -12,6 +12,10 @@ Click to expand sections.
 
 ??? info "Profile"
 
+    <div class="result" markdown>
+
+    ![Jammer Referee - 187 Killer Pads vs. Triple 8, 7/12/24](images/breadpool_jr_187_vs_triple_8_7_12_24.png){align=right width=400" }
+
     - Derby Name: Breadpool
     - Name: Timothy Hull
     - Pronouns: He/Him
@@ -22,13 +26,13 @@ Click to expand sections.
     - Occupation: Automation Software Development Consultant
     - Hobbies: Brazilian Jiu-Jitsu Black Belt, amateur baker, jam skating
 
-    ![Image title](images/breadpool_1.png){ width="200" }
+    </div>
 
 ??? info "Inspiration"
 
     TODO
 
-??? info "WFTDA" Certification
+??? info "WFTDA Certification"
 
     TODO
 
