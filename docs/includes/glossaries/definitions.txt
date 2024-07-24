@@ -1,16 +1,19 @@
 *[ALTN]: Alternate Non-Skating Official
 *[ALTR]: Alternate Referee
+*[BJJ]: Brazilian Jiu-Jitsu
 *[CHNSO]: Crew Head Non-Skating Official
 *[CHR]: Crew Head Referee
 *[CRG]: Carolina Roller Girls Scoreboard Software
 *[ePLT]: Electronic Penalty Lineup Tracker
 *[HNSO]: Head Non-Skating Official
 *[HR]: Head Referee
+*[IBJJF]: International Brazilian Jiu-Jitsu Federation
 *[IGRF]: Interleague Game Reporting Form
 *[IPR]: Inside Pack Referee
 *[JR]: Jammer Referee
 *[JR]: Jam Timer
 *[JRDA]: Junior Roller Derby Association
+*[JROTC]: Junior Reserve Officer Training Corps
 *[MRDA]: Men's Roller Derby Association
 *[NOTT]: Not-On-The-Track
 *[OPR]: Outside Pack Referee
