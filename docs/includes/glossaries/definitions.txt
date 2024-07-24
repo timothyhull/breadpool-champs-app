@@ -28,4 +28,5 @@
 *[THNSO]: Tournament Head Non-Skating Official
 *[THR]: Tournament Head Referee
 *[TTO]: Team Timeout
+*[USA]: United States of America
 *[WFTDA]: Women's Flat Track Derby Association
