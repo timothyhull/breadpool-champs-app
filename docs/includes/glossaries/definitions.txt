@@ -11,7 +11,7 @@
 *[IGRF]: Interleague Game Reporting Form
 *[IPR]: Inside Pack Referee
 *[JR]: Jammer Referee
-*[JR]: Jam Timer
+*[JT]: Jam Timer
 *[JRDA]: Junior Roller Derby Association
 *[JROTC]: Junior Reserve Officer Training Corps
 *[MRDA]: Men's Roller Derby Association
