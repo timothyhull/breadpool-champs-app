@@ -27,7 +27,7 @@ theme:
     - search.share
     - search.suggest
     - toc.follow  # Insiders
-    - toc.integrate
+    # - toc.integrate
 
   palette:
     # Palette toggle for automatic light/dark mode
