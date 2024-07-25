@@ -4,7 +4,9 @@
 site_name: Breadpool's 2024 WFTDA Global Championship Officiating Application
 site_url: https://timothyhull.github.io/breadpool-champs-app
 nav:
-  - Officiating Application: index.md
+  - Officiating Application:
+    - My Application: index.md
+    - Game Video: game_video.md
 
 # Repository information
 edit_uri: ""
