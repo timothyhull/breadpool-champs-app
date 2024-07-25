@@ -6,27 +6,33 @@ TODO
 
 Click to expand sections.
 
+## My Goal
+
+TODO
+
 ---
 
 ## About Me
 
-??? info "Profile"
+???+ info "Profile"
 
-    <div class="result" markdown>
+    <figure style="float:right" markdown>
+        ![Jammer Referee, 187 Killer Pads vs. Triple 8, RollerCon 7/12/24 - Credit: Jenni Weber Photography](images/breadpool_jr_187_vs_triple_8_7_12_24.png){ width="350" style="filter: drop-shadow(0 0 0.2rem black)"}
+        <figcaption>
+            JR, 187 Killer Pads vs. Triple 8<br>
+            Credit: Jenni Weber Photography
+        </figcaption>
+    </figure>
 
-    ![Jammer Referee - 187 Killer Pads vs. Triple 8, 7/12/24](images/breadpool_jr_187_vs_triple_8_7_12_24.png){align=right width=400" }
-
-    - Derby Name: Breadpool
-    - Name: Timothy Hull
-    - Pronouns: He/Him
-    - Age: 44
-    - Home Town: Portland, Oregon, USA
-    - Birth Town: Annapolis, Maryland, USA
-    - Languages: English, Brazilian Portuguese
-    - Occupation: Automation Software Development Consultant
-    - Hobbies: Brazilian Jiu-Jitsu Black Belt, amateur baker, jam skating
-
-    </div>
+    - **Derby Name:** Breadpool
+    - **Name:** Timothy Hull
+    - **Pronouns:** He/Him
+    - **Age:** 44
+    - **Home Town:** Portland, Oregon, USA
+    - **Birth Town:** Annapolis, Maryland, USA
+    - **Languages:** English, Brazilian Portuguese
+    - **Occupation:** Automation Software Development Consultant
+    - **Hobbies:** Brazilian Jiu-Jitsu Black Belt, amateur baker, jam skating
 
 ??? info "Inspiration"
 
