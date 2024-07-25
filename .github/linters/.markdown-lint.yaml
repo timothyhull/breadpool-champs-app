@@ -26,7 +26,15 @@ MD013:
 MD026:
   punctuation: ".,;:!。，；:"  # List of not allowed
 MD029: false                  # Ordered list item prefix
-MD033: false                  # Allow inline HTML
+
+#####################
+# Allowed HTML tags #
+#####################
+MD033:
+  allowed_elements: 
+    - 'figcaption'
+    - 'figure'
+
 MD036: false                  # Emphasis used instead of a heading
 
 #################
