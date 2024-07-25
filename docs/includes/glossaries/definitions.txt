@@ -18,6 +18,7 @@
 *[NOTT]: Not-On-The-Track
 *[OPR]: Outside Pack Referee
 *[OR]: Official Review
+*[OHD]: Officiating History Document
 *[OTO]: Official Timeout
 *[PBM]: Penalty Box Manager
 *[PBT]: Penalty Box Timer
