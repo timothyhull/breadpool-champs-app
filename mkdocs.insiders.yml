@@ -63,6 +63,7 @@ plugins:
   - git-revision-date-localized:
       enable_creation_date: true
       type: timeago
-  - glightbox
+  - glightbox:
+      auto_caption: true
   - search
   - offline  # Insiders
