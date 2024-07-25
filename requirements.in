@@ -14,3 +14,7 @@ mkdocs-git-committers-plugin-2
 # Plugin to display the create date and the of the last Git commit to each HTML page
 # https://timvink.github.io/mkdocs-git-revision-date-localized-plugin
 mkdocs-git-revision-date-localized-plugin
+
+# Plugin to enable lightbox effects for images
+# https://blueswen.github.io/mkdocs-glightbox/
+mkdocs-glightbox
