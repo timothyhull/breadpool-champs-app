@@ -15,6 +15,7 @@
 *[JRDA]: Junior Roller Derby Association
 *[JROTC]: Junior Reserve Officer Training Corps
 *[MRDA]: Men's Roller Derby Association
+*[NA]: North America
 *[NOTT]: Not-On-The-Track
 *[OPR]: Outside Pack Referee
 *[OR]: Official Review
@@ -28,6 +29,7 @@
 *[SK]: Scorekeeper
 *[THNSO]: Tournament Head Non-Skating Official
 *[THR]: Tournament Head Referee
+*[TOSP]: Tournament Officiating Selection Panel
 *[TTO]: Team Timeout
 *[USA]: United States of America
 *[WFTDA]: Women's Flat Track Derby Association
