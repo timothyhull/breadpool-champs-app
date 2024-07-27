@@ -36,7 +36,6 @@ MD033:
     - div
     - figcaption
     - figure
-    - sub
 
 MD036: false                  # Emphasis used instead of a heading
 
