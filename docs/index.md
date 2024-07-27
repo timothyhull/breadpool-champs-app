@@ -1,8 +1,21 @@
 # Breadpool's Application
 
-## About Me
+???+ warning "Anti-Cheating Statement"
 
-\*\***Anti-Cheating Statement**\*\*
+    All changes to content on this site include date and time stamps to prove the application is complete before the due date.  You may [click here](https://github.com/timothyhull/breadpool-champs-app/commits/gh-pages "GitHub Changelog") to review the complete change history.(1)
+    { .annotate }
+
+    1.  !!! tip "Reveal Date and Time Stamp Details"
+
+        Hover your mouse cursor over any "***...ago***" text to display a tooltip that reveals the change date and time stamp.
+
+        <figure markdown>
+        ![Reveal Application Change Date and Time Stamp Details](images/breadpool_view_change_date_dime_stamp.png "Reveal Application Change Date and Time Stamp Details")
+        <figcaption style="font-size: 12px">
+            Click to enlarge image
+        </figure>
+
+## About Me
 
 === "Introduction"
 
