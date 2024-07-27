@@ -33,8 +33,10 @@ MD029: false                  # Ordered list item prefix
 MD033:
   allowed_elements:
     - br
+    - div
     - figcaption
     - figure
+    - sub
 
 MD036: false                  # Emphasis used instead of a heading
 
