@@ -1,38 +1,36 @@
 # Breadpool's Application
 
-## Overview
+## About Me
+
+\*\***Anti-Cheating Statement**\*\*
 
 === "Introduction"
 
-    <figure style="float: right" markdown>
-    ![Breadpool (Timothy Hull) - Credit: Mckay Grundstein-Helvey (@mgh2pdx on Instagram)](images/breadpool_headshot.png){ width="225" style="filter: drop-shadow(0 0 0.2rem black)"}
+    I'm **Breadpool**(1), and, after a year of specific and intense preparation for this moment, this is my application to serve as a member of an officiating crew at the 2024 WFTDA Global Championship Tournament.
+    { .annotate }
+
+    1.  !!! info "Derby Name Meaning"
+
+            My derby name is a combination of two things:
+
+            1. I love to bake breads and pastries :fontawesome-solid-bread-slice:
+            2. My superpower is recovering from injuries and surgeries :material-arm-flex:
+
+    This application describes the unique person I am and why I believe TOSP, WFTDA, and the global roller derby community will benefit from choosing me to officiate at the 2024 Global Championship.
+
+    I've spent over 40 hours preparing this application...because I want it *so* badly I can't do any less than the best I can possibly do.  That's how I've spent the last year, doing anything and everything I can to be ready for this moment, right now.  To know I gave it my all, did nothing less than my very best, and can submit this application believing nobody has trained harder.
+    
+    I prepared for this like a champion, and whether I make the cut or not, I will know that I had nothing left to give to show how much this means to me.
+
+    <figure markdown>
+    ![Breadpool (Timothy Hull) - Credit: Mckay Grundstein-Helvey (@mgh2pdx on Instagram)](images/breadpool_headshot.png){ width="300" "style="filter: drop-shadow(0 0 0.2rem black)" }
     <figcaption style="font-size: 12px">
         Breadpool (Timothy Hull)<br>
         Credit: [Mckay Grundstein-Helvey](https://www.instagram.com/mgh2pdx "@mgh2pdx on Instagram"){ target=_blank } :octicons-link-external-24:
     </figcaption>
     </figure>
 
-    I'm **Breadpool**(1), and, after a year of specific and intense preparation for this moment, this is my application to serve as a member of an officiating crew at the 2024 WFTDA Global Championship Tournament.
-    { .annotate }
-
-    1. :material-information: My derby name is a combination of two things:
-    
-        1. I love to bake breads and pastries :fontawesome-solid-bread-slice:
-        2. My superpower is recovering from injuries and surgeries :material-arm-flex:
-
-    This application describes the unique person I am and why I believe TOSP, WFTDA, and the global roller derby community will benefit from choosing me to officiate at the 2024 Global Championship.
-
-    I've spent over 40 hours preparing this application...because I want it *so* badly I can't do any less than the best I can possibly do.  That's how I've spent the last year, doing anything and everything I can to be ready for this moment, right now.  To know I gave it my all, did nothing less than my very best, and can submit this application believing nobody has trained harder.  I prepared for this like a champion, and whether I make the cut or not, I will know that I had nothing left to give to show how much this means to me.
-
 === "Profile"
-
-    <figure style="float: right" markdown>
-        ![Jammer Referee, 187 Killer Pads vs. Triple 8, RollerCon 2024 - Credit: Jenni Weber Photography (@jenniwebberphotography on Instagram)](images/breadpool_jr_187_vs_triple_8_7_12_24.png){ width="350" style="filter: drop-shadow(0 0 0.2rem black)"}
-        <figcaption style="font-size: 12px">
-            JR, 187 Killer Pads vs. Triple 8, RollerCon 2024<br>
-            Credit: [Jenni Weber Photography](https://www.instagram.com/jenniwebberphotography "@jenniwebberphotography on Instagram"){ target=_blank } :octicons-link-external-24:
-        </figcaption>
-    </figure>
 
     - **Name:** Breadpool (Timothy Hull)
     - **Pronouns:** He/Him
@@ -44,15 +42,15 @@
     - **Occupation:** Automation Consultant
     - **Fun Fact:** BJJ Black Belt
 
-=== "Inspiration"
-
-    <figure style="float: right" markdown>
-        ![Outside Pack Referee, WFTDA NA West Playoffs, June, 2024 - Credit: ShutHerUp Photography (ShutHerUpPhotography on Facebook)](images/breadpool_opr_na_west_playoffs_6_24.png){ width="250" style="filter: drop-shadow(0 0 0.2rem black)"}
+    <figure markdown>
+        ![Jammer Referee, 187 Killer Pads vs. Triple 8, RollerCon 2024 - Credit: Jenni Weber Photography (@jenniwebberphotography on Instagram)](images/breadpool_jr_187_vs_triple_8_7_12_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)"}
         <figcaption style="font-size: 12px">
-            OPR, WFTDA NA West Playoffs, June, 2024<br>
-            Credit: [ShutHerUp Photography](https://www.facebook.com/ShutHerUpPhotography "ShutHerUpPhotography on Facebook"){ target=_blank } :octicons-link-external-24:
+            JR, 187 Killer Pads vs. Triple 8, RollerCon 2024<br>
+            Credit: [Jenni Weber Photography](https://www.instagram.com/jenniwebberphotography "@jenniwebberphotography on Instagram"){ target=_blank } :octicons-link-external-24:
         </figcaption>
     </figure>
+
+=== "Inspiration"
 
     - I seek to inspire people who, like me, have physical disabilities to do more than they or perhaps the world believe they are capable of.
     - I am a physically disabled U.S. Army veteran, and I believe I fit within the category of individuals who have hidden disabilities.
@@ -60,7 +58,27 @@
     - Intense rehabilitation work to recover from injuries is my superpower. I officiated derby games on skates less than two weeks after a total hip replacement last year because I spent hours and hours each day rehabilitating, strengthening, and training to prepare myself specifically to do so.
     - I want people with physical disabilities to see me as an example and know it’s possible to find fulfillment and joy in strenuous sports and activities.
 
-### Click to expand sections
+    <figure markdown>
+        ![Outside Pack Referee, RCR GNR vs. Texas Hustlers, November, 2023 - Credit: Jonathan Works Photography (worksphoto on Facebook)](images/breadpool_opr_gnr_vs_tx_11_18_23.png){ width="350" style="filter: drop-shadow(0 0 0.2rem black)"}
+        <figcaption style="font-size: 12px">
+            OPR, RCR GNR vs. Texas Hustlers, November, 2023<br>
+            Credit: [Jonathan Works Photography](https://www.facebook.com/worksphoto "worksphoto on Facebook"){ target=_blank } :octicons-link-external-24:
+        </figcaption>
+    </figure>
+
+=== "WFTDA Certification"
+
+    - Not certified at this time.
+    - Applying for WFTDA Level 1 SO and NSO certifications after submitting this application.
+    - Started on application in January.
+
+    <figure markdown>
+    ![Jam Timer, Female Division JRDA Playoffs, July, 2024 - Credit: Mckay Grundstein-Helvey (@mgh2pdx on Instagram)](images/breadpool_jt_jrda_f_playoffs_6_23_24.png){ width="350" "style="filter: drop-shadow(0 0 0.2rem black)" }
+    <figcaption style="font-size: 12px">
+        JT, Female Division JRDA Playoffs, July, 2024 (Timothy Hull)<br>
+        Credit: [Mckay Grundstein-Helvey](https://www.instagram.com/mgh2pdx "@mgh2pdx on Instagram"){ target=_blank } :octicons-link-external-24:
+    </figcaption>
+    </figure>
 
 ---
 
@@ -73,14 +91,6 @@ I want to be a member of an officiating crew at the 2024 WFTDA Global Championsh
 that committed the last year of my life to doing anything I can to prepare...I believe I can be one of the best officials in the world.
 
 OPR, JR, IPR positioning
-
----
-
-## About Me
-
-??? info "WFTDA Certification"
-
-    TODO
 
 ---
 
@@ -101,6 +111,10 @@ OPR, JR, IPR positioning
     I learned to skate when I was...
 
 ??? info "Non-Derby Officiating"
+
+    I am newer to officiating for roller derby, I am not new to officiating.  I regularly officiate at Brazilian Jiu-Jitsu tournaments and have previous experience officiating for high school basketball and football.
+    
+    I’ve been competing in sports throughout my life, including over 20 years of Brazilian Jiu-Jitsu competition, and officiating is one of the ways I contribute to serving future generations of competitors while honoring the people who have been officials for my own competitive athletic experiences.
 
     I started officiating when I was sixteen, operating the scoreboard at high school basketball games, and I've since officiated:
 
@@ -179,11 +193,47 @@ OPR, JR, IPR positioning
 
 ??? info "10. The Ultimate Teammate"
 
-    TODO
+    Fist bumps, "Let's Go!", high fives, etc.
 
 ---
 
-## Why Me
+## Officiating Positioning Methodology
+
+??? info "OPR"
+
+    TODO
+
+    === "Rear"
+
+        TODO 1
+
+    === "Middle"
+
+        TODO 2
+
+    === "Front"
+
+        TODO 3
+
+??? info "JR"
+
+    TODO
+
+??? info "IPR"
+
+    TODO
+
+    === "Rear"
+
+        TODO 1
+
+    === "Front"
+
+        TODO 2
+
+---
+
+## Conclusion
 
 ??? info "My Purpose"
 
