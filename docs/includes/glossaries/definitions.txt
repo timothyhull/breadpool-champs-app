@@ -5,6 +5,7 @@
 *[CHR]: Crew Head Referee
 *[CRG]: Carolina Roller Girls Scoreboard Software
 *[ePLT]: Electronic Penalty Lineup Tracker
+*[GNR]: Guns N Rollers
 *[HNSO]: Head Non-Skating Official
 *[HR]: Head Referee
 *[IBJJF]: International Brazilian Jiu-Jitsu Federation
