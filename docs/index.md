@@ -111,7 +111,7 @@
 
 ---
 
-## My Goals
+## My Goals - TODO
 
 I train to officiate like a competitor, like I have to be the best, like good is the enemy of great.
 
@@ -123,11 +123,7 @@ OPR, JR, IPR positioning
 
 ---
 
-## My Background
-
-??? info "Skating"
-
-    I learned to skate when I was...
+## My Officiating Background
 
 ??? info "Non-Derby Officiating"
 
@@ -139,12 +135,16 @@ OPR, JR, IPR positioning
 
     - High school football.
     - High school Army JROTC drill competition.
-    - U.S. Army recreational flag football football.
+    - U.S. Army recreational flag football.
     - BJJ tournaments at the local, regional, and international levels.
 
 ??? info "Derby Officiating"
 
-    I began my derby officiating journey in August of 2022, somewhat by accident.  I did not realize what I started by accident became *the* thing I believe I was meant to do.  Since then, I've officiated 229 games (168 SO, 61 NSO). 
+    I began my derby officiating journey in August of 2022, although somewhat by accident.  My daughter was new to the roller derby community and wanted to spend more time on skates than was available to her in practices and scrimmages.  She decided to start attending officiating practice and she asked that I join her so she wouldn't feel alone.
+    
+    I wanted to support my daughter and the roller derby community, and having skated and officiated in different capacities for the majority of my life, I felt comfortable giving roller derby officiating a shot.  I had no idea that I would leave that practice feeling like officiating roller derby was *the* thing I was meant to do.
+    
+    Since that day, I've poured my heart and soul into becoming a better official, believing I can serve people, many of whom live within social margins, in a way that allows them to live safer, more fulfilling lives.
 
 ---
 
