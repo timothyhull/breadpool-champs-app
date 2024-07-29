@@ -33,6 +33,8 @@
 
     I've spent over 40 hours preparing this application...because I want it *so* badly I can't do any less than the best I can possibly do.  That's how I've spent the last year, doing anything and everything I can to be ready for this moment, right now.  To know I gave it my all, did nothing less than my very best, and can submit this application believing nobody has trained harder.
     
+    \*\* ATTENTION TO DETAIL
+
     I prepared for this like a champion, and whether I make the cut or not, I will know that I had nothing left to give to show how much this means to me.
 
     <figure markdown>
@@ -67,7 +69,7 @@
 
     - I seek to inspire people who have physical disabilities, just like me, to do more than they or perhaps the world believes they are capable of.
     - I am a physically disabled U.S. Army veteran, and I believe I fit within the category of people with hidden disabilities.
-    - When I am an SO, nobody sees me and thinks I’m disabled, guesses I have an extensive injury history that includes 20 x surgeries, or has any idea how much daily work I do to physically function, gear up and skate, and excel at high-intensity physical activities.
+    - When serve in an SO role, nobody sees me and thinks I’m disabled, guesses I have an extensive injury history that includes 20 x surgeries, or has any idea how much daily work I do to physically function, gear up and skate, and excel at high-intensity physical activities.
     - Intense rehabilitation to recover from injuries is my superpower. For example, I served as an SO less than two weeks after a total hip replacement last year because I spent hours and hours each day rehabilitating, strengthening, and specifically training to be ready to skate.
     - **I want people with physical disabilities to see me as an example that's it’s possible for them to experience the joy and fulfillment from strenuous sports and activities.**
 
@@ -81,9 +83,18 @@
 
 === "WFTDA Certification"
 
-    - Not certified at this time.
-    - Applying for WFTDA Level 1 SO and NSO certifications after submitting this application.
-    - Started on application in January.
+    I am not a WFTDA-certified official at this time.  However, achieving SO and NSO certification is very important to me.  For me, becoming a certified official and continuously seeking higher-level certification is symbolic of:
+    
+    1. My ongoing commitment to seek self-improvement.
+    2. Demonstrating I support the WFTDA and their officiating procedures.
+
+    ??? info "Certification Timeline and Progress"
+
+        - I started the process to become a certified official in September of 2022 by studying for and passing WFTDA's online SO and NSO officiating certification courses.
+        - At the beginning of 2023, I set a personal goal to build sufficient game experience to credibly apply for Level I SO and NSO certifications.
+        - At the beginning of 2024, I set a personal goal to apply for and achieve Level I SO and NSO certifications.
+        - I received the final OOS I need to apply for Level I SO and NSO certifications in July of 2024.
+        - I intend to complete and submit my WFTDA officiating certification applications as soon as I complete and submit my application to officiate at the 2024 WFTDA Global Championship Tournament.
 
     <figure markdown>
     ![Jam Timer, Female Division JRDA Playoffs, July, 2024 - Credit: Mckay Grundstein-Helvey (@mgh2pdx on Instagram)](images/breadpool_jt_jrda_f_playoffs_6_23_24.png){ width="350" "style="filter: drop-shadow(0 0 0.2rem black)" }
