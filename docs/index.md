@@ -19,7 +19,7 @@
 
 === "Introduction"
 
-    I'm **Breadpool**(1), and, after a year of specific and intense preparation for this moment, this is my application to serve as a member of an officiating crew at the 2024 WFTDA Global Championship Tournament.
+    I'm **Breadpool**(1), and after a year of specific and intense preparation for this moment, this is my application to serve as a member of an officiating crew at the 2024 WFTDA Global Championship Tournament.
     { .annotate }
 
     1.  !!! info "Derby Name Meaning"
@@ -29,13 +29,18 @@
             1. I love to bake breads and pastries :fontawesome-solid-bread-slice:
             2. My superpower is recovering from injuries and surgeries :material-arm-flex:
 
-    This application describes the unique person I am and why I believe TOSP, WFTDA, and the global roller derby community will benefit from choosing me to officiate at the 2024 Global Championship.
-
-    I've spent over 40 hours preparing this application...because I want it *so* badly I can't do any less than the best I can possibly do.  That's how I've spent the last year, doing anything and everything I can to be ready for this moment, right now.  To know I gave it my all, did nothing less than my very best, and can submit this application believing nobody has trained harder.
+    This application describes the unique person I am and why I believe TOSP, WFTDA, and the global roller derby community will benefit from choosing me to officiate at the 2024 Global Championship. The effort I devoted to preparing this application is a small representation of the work I've done to have enough knowledge, experience, credibility, and skills to be ready to officiate for the highest-level teams and games in the world.
     
-    \*\* ATTENTION TO DETAIL
+    Whether or not you select me to be a member of an officiating crew, I hope the information and attention to detail in this application demonstrate how much this opportunity means to me, how badly I want to earn a place on a crew, and that I've given absolutely everything I have to warrant your consideration.
 
-    I prepared for this like a champion, and whether I make the cut or not, I will know that I had nothing left to give to show how much this means to me.
+    ??? info "My Application Preparation By The Numbers (click to expand)"
+
+        - **229** - number of games officiated in the previous two years.
+        - **134** - number of games officiated in the previous year.
+        - **60+** - number of hours I spent preparing this application.
+        - **18** - number of events officiated in the previous year.
+        - **16** - number of out-of-state trips to officiate derby in the previous year.
+        - **0** - number of things I've ever wanted more than this.
 
     <figure markdown>
     ![Breadpool (Timothy Hull) - Credit: Mckay Grundstein-Helvey (@mgh2pdx on Instagram)](images/breadpool_headshot.png){ width="300" "style="filter: drop-shadow(0 0 0.2rem black)" }
