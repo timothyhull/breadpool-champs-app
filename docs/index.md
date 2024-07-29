@@ -113,13 +113,45 @@
 
 ## My Goals - TODO
 
+I seek the opportunity to serve as an OPR, JR, or IPR.  I have more experience serving as an OPR or JR than I do as an IPR, although no matter which role I serve...
+
 I train to officiate like a competitor, like I have to be the best, like good is the enemy of great.
 
-I want to be a member of an officiating crew at the 2024 WFTDA Global Championship Tournament
+---
 
-that committed the last year of my life to doing anything I can to prepare...I believe I can be one of the best officials in the world.
+## Officiating Positioning Methodology
 
-OPR, JR, IPR positioning
+??? info "OPR"
+
+    TODO
+
+    === "Rear"
+
+        TODO 1
+
+    === "Middle"
+
+        TODO 2
+
+    === "Front"
+
+        TODO 3
+
+??? info "JR"
+
+    TODO
+
+??? info "IPR"
+
+    TODO
+
+    === "Rear"
+
+        TODO 1
+
+    === "Front"
+
+        TODO 2
 
 ---
 
@@ -214,7 +246,7 @@ I believe the best officiating happens when a crew behaves like a selfless, supp
 
 1. !!! info "Caveat"
 
-    Although I practice working with CRG extensively, including IGRF and statsbook preparation, I do not have game experience in in the role of HNSO.
+    Although I practice working with CRG extensively, including IGRF and statsbook preparation, I do not have game experience in the role of HNSO.
 
 ??? info "10. Courage To Do What's Right"
 
@@ -224,54 +256,10 @@ I believe the best officiating happens when a crew behaves like a selfless, supp
 
 ---
 
-## Officiating Positioning Methodology
-
-??? info "OPR"
-
-    TODO
-
-    === "Rear"
-
-        TODO 1
-
-    === "Middle"
-
-        TODO 2
-
-    === "Front"
-
-        TODO 3
-
-??? info "JR"
-
-    TODO
-
-??? info "IPR"
-
-    TODO
-
-    === "Rear"
-
-        TODO 1
-
-    === "Front"
-
-        TODO 2
-
----
-
 ## Conclusion
 
-??? info "My Purpose"
+I believe the events of my life prepared me for this opportunity, for this moment.  The intersection of my choices, my experiences, my successes, my failures, my dreams, and my life's purpose combined to make this the one thing I've wanted so badly that I've poured my entire life into having the chance.
 
-    I believe the events of my life prepared me for this opportunity, for this moment.  The intersection of my choices, my experiences, my successes, my failures, my dreams, and my life's purpose combined to make this the one thing I've wanted so badly that I've poured my entire life into having the chance.
-
-??? info "What I've Overcome"
-
-    20 x surgeries...
-
----
-
-## Thank You
+Thank you for the opportunity to apply and for considering my application.
 
 ---
