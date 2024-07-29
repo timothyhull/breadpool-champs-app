@@ -6,7 +6,7 @@ site_url: https://timothyhull.github.io/breadpool-champs-app
 nav:
   - Officiating Application: index.md
   - Game Video Clips: game_video_clips.md
-  - 2024 Evaluations: evaluations.md
+  - Evaluation History: evaluations.md
 
 # Repository information
 edit_uri: ""
