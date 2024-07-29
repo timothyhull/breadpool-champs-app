@@ -5,7 +5,7 @@
     All changes to content on this site include date and time stamps to prove the application is complete before the due date.  You may [click here](https://github.com/timothyhull/breadpool-champs-app/commits/gh-pages "GitHub Changelog") to review the complete change history.(1)
     { .annotate }
 
-    1.  !!! tip "Reveal Date and Time Stamp Details"
+    1.  !!! magnifying-glass "Reveal Date and Time Stamp Details"
 
         Hover your mouse cursor over any "***...ago***" text to display a tooltip that reveals the change date and time stamp.
 
@@ -33,7 +33,7 @@
     
     Whether or not you select me to be a member of an officiating crew, I hope the information and attention to detail in this application demonstrate how much this opportunity means to me, how badly I want to earn a place on a crew, and that I've given absolutely everything I have to warrant your consideration.
 
-    ??? info "My Application Preparation By The Numbers (click to expand)"
+    ??? numbers "My Application Preparation By The Numbers (click to expand)"
 
         - **229** - number of games officiated in the previous two years.
         - **134** - number of games officiated in the previous year.
