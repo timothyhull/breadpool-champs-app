@@ -125,25 +125,15 @@ OPR, JR, IPR positioning
 
 ## My Background
 
-??? info "Competitive Sports"
-
-    For as long as I can remember, I've lived and died for athletic competition.  My competitive background includes:
-
-    - Youth soccer, baseball, basketball.
-    - Junior high school cross-country, basketball, wrestling, track and field.
-    - High school cross-country, basketball, biathlon, track and field.
-    - U.S. Army recreational flag football.
-    - Brazilian Jiu Jitsu.
-
 ??? info "Skating"
 
     I learned to skate when I was...
 
 ??? info "Non-Derby Officiating"
 
-    I am newer to officiating for roller derby, I am not new to officiating.  I regularly officiate at Brazilian Jiu-Jitsu tournaments and have previous experience officiating for high school basketball and football.
+    I am newer to officiating for roller derby, although I am not new to officiating.  
     
-    I’ve been competing in sports throughout my life, including over 20 years of Brazilian Jiu-Jitsu competition, and officiating is one of the ways I contribute to serving future generations of competitors while honoring the people who have been officials for my own competitive athletic experiences.
+    I’ve been competing in sports throughout my life, including over 20 years of Brazilian Jiu-Jitsu competition, and officiating is one of the ways I contribute to serving future generations of competitors while honoring the people who have officiated for my own competitive athletic experiences.
 
     I started officiating when I was sixteen, operating the scoreboard at high school basketball games, and I've since officiated:
 
