@@ -18,6 +18,7 @@
 *[MRDA]: Men's Roller Derby Association
 *[NA]: North America
 *[NOTT]: Not-On-The-Track
+*[NSO]: Non-Skating Official
 *[OPR]: Outside Pack Referee
 *[OR]: Official Review
 *[OHD]: Officiating History Document
@@ -28,6 +29,7 @@
 *[RCR]: Rose City Rollers
 *[SBO]: Scoreboard Operator
 *[SK]: Scorekeeper
+*[SO]: Skating Official
 *[THNSO]: Tournament Head Non-Skating Official
 *[THR]: Tournament Head Referee
 *[TOSP]: Tournament Officiating Selection Panel
