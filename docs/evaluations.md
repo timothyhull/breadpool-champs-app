@@ -2,7 +2,7 @@
 
 ## Overview
 
-Below are exact copies of each of my historical WFTDA evaluations. I redacted the names of the evaluating officials, although I will provide them privately to TOSP upon request.
+Below are exact copies of each of my historical WFTDA officiating evaluations. I redacted the names of the evaluating officials, although I will provide them privately to TOSP upon request.
 
 ## Evaluation #1
 
