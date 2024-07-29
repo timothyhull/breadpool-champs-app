@@ -150,31 +150,39 @@ OPR, JR, IPR positioning
 
 ## How I Officiate
 
+I believe the best officiating happens when a crew behaves like a selfless, supportive, and blameless team that focuses on being better today than they were yesterday.  These are the qualities you can expect from me as a member of an officiating crew:
+
+??? info "My Mindset"
+
+    - I approach officiating just like I do playing any competitive sport, with the exception that my opponent isn't another person or team.
+    - In my mind, **mistakes** are the opponent I ferociously train to beat, while recognizing mistakes are a relentless opponent that will never allow me to be rest.
+    - I respect my opponent, although I do not fear them on any stage.
+    - I seek to challenge my opponent at the highest levels because I'm driven to "win," and I do whatever it takes to be successful on the biggest stages.
+    - "Winning" means my peers and I supported safe, fair, and gameplay where the competing teams feel like they control the outcome.
+
 ??? info "1. Extreme Positivity"
 
-    **Officiating is a TEAM sport for me**
-
     - I show up with high enthusiasm, friendliness, excitement, and positivity to share with the officials I serve with, no matter how challenging game conditions might be.
-    - No matter the game circumstances, I bring fist bumps, high-fives, and verbal "Let's go!" cues to support my peers.
+    - Regardless of game circumstances, I bring fist bumps, high-fives, and verbal "Let's go!" cues to support and encourage my peers throughout the duration of a contest.
     - I seek responsibility for my mistakes, make in-game adjustments, avoid dwelling on my mistakes so I keep my head in the game, and immediately extend apologies, where appropriate, to the people I impact with my mistakes.
     - I have the backs of my on- and off-skates crewmates, *always*, and they can count on me to encourage them in difficult situations.
     - When my officiating peers and leadership need me to make adjustments, I don’t dig my heels in about doing things a certain way, I give them my full support and do what they need me to do.
 
-??? info "2. Preparation"
+??? info "2. Strenuous Preparation"
 
     - I practice developing and improving officiating skills, on- and off-skates at least 4 hours per week, and often upwards of 10 hours per week.
     - I actively seek feedback from other officials and relentlessly study game video to continuously learn and improve, and to position myself to best support safe and fair gameplay.
     - I physically train and condition 5-12 hours per week to maintain a high level of fitness, improve my ability to be in the best position to observe game action, and ensure I will not experience physical fatigue no matter how strenuous the environmental or game conditions might be.
     - I regularly study roller derby rules and cases to continuously develop a better understanding of roller derby rules theory because I believe learning to understand rules theory helps me quickly work through complex situations in a way that supports the best and safest possible gameplay experience.
 
-??? info "3. Listening"
+??? info "3. Empathic Listening"
 
     - I actively listen to officials, players, and coaches with genuine effort and concern to understand their points of view.
     - I seek to build trust by showing officials and teams they are heard and understood, even in cases where we may disagree with each other.
     - I actively solicit feedback from my peer officials by telling them no feedback will hurt my feelings.
     - For me, feedback is information I can use to be better today than I was yesterday, and I want to understand my mistakes, not ignore or hide from them.
 
-??? info "4. Communication"
+??? info "4. Clear and Kind Communication"
 
     - I speak to everyone with courtesy and respect, no matter how I am spoken to.
     - I do everything I can to actively communicate information with other officials in a way that promotes smooth, continuous game flow.
