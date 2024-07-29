@@ -33,7 +33,7 @@
     
     Whether or not you select me to be a member of an officiating crew, I hope the information and attention to detail in this application demonstrate how much this opportunity means to me, how badly I want to earn a place on a crew, and that I've given absolutely everything I have to warrant your consideration.
 
-    ??? numbers "My Application Preparation By The Numbers (click to expand)"
+    ??? numbers "My Application By The Numbers (click to expand)"
 
         - **229** - number of games officiated in the previous two years.
         - **134** - number of games officiated in the previous year.
