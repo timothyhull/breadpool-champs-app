@@ -159,15 +159,14 @@ OPR, JR, IPR positioning
     - I practice developing and improving officiating skills, on- and off-skates at least 4 hours per week, and often upwards of 10 hours per week.
     - I actively seek feedback from other officials and relentlessly study game video to continuously learn and improve, and to position myself to best support safe and fair gameplay.
     - I physically train and condition 5-12 hours per week to maintain a high level of fitness, improve my ability to be in the best position to observe game action, and ensure I will not experience physical fatigue no matter how strenuous the environmental or game conditions might be.
-    - I regularly study roller derby rules and cases to continuously develop a better understanding of roller derby rules theory.
-    - I believe learning to understand rules theory helps me quickly work through complex situations in a way that supports the best and safest possible gameplay experience.
+    - I regularly study roller derby rules and cases to continuously develop a better understanding of roller derby rules theory because I believe learning to understand rules theory helps me quickly work through complex situations in a way that supports the best and safest possible gameplay experience.
 
 ??? info "3. Listening"
 
     - I actively listen to officials, players, and coaches with genuine effort and concern to understand their points of view.
     - I seek to build trust by showing officials and teams they are heard and understood, even in cases where we may disagree with each other.
     - I actively solicit feedback from my peer officials by telling them no feedback will hurt my feelings.
-    - For me, feedback is information I can use to be better today than I was yesterday, and I would rather understand my mistakes than ignore them.
+    - For me, feedback is information I can use to be better today than I was yesterday, and I want to understand my mistakes, not ignore or hide from them.
 
 ??? info "4. Communication"
 
