@@ -158,12 +158,12 @@ I believe the best officiating happens when a crew behaves like a selfless, supp
     - In my mind, **mistakes** are the opponent I ferociously train to beat, while recognizing mistakes are a relentless opponent that will never allow me to be rest.
     - I respect my opponent, although I do not fear them on any stage.
     - I seek to challenge my opponent at the highest levels because I'm driven to "win," and I do whatever it takes to be successful on the biggest stages.
-    - "Winning" means my peers and I supported safe, fair, and gameplay where the competing teams feel like they control the outcome.
+    - "Winning" means my peers and I supported safe, fair, and gameplay in which the competing teams feel like they control the outcome.
 
 ??? info "1. Extreme Positivity"
 
     - I show up with high enthusiasm, friendliness, excitement, and positivity to share with the officials I serve with, no matter how challenging game conditions might be.
-    - Regardless of game circumstances, I bring fist bumps, high-fives, and verbal "Let's go!" cues to support and encourage my peers throughout the duration of a contest.
+    - Regardless of the circumstances, I bring fist bumps, high-fives, and verbal "Let's go!" cues to support and encourage my peers throughout the duration of a contest.
     - I seek responsibility for my mistakes, make in-game adjustments, avoid dwelling on my mistakes so I keep my head in the game, and immediately extend apologies, where appropriate, to the people I impact with my mistakes.
     - I have the backs of my on- and off-skates crewmates, *always*, and they can count on me to encourage them in difficult situations.
     - When my officiating peers and leadership need me to make adjustments, I don’t dig my heels in about doing things a certain way, I give them my full support and do what they need me to do.
