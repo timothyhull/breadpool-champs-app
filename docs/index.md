@@ -22,7 +22,7 @@
     I'm **Breadpool**(1), and after a year of specific and intense preparation for this moment, this is my application to serve as a member of an officiating crew at the 2024 WFTDA Global Championship Tournament.
     { .annotate }
 
-    1.  !!! info "Derby Name Meaning"
+    1.  !!! reference "Derby Name Meaning"
 
             My derby name is a combination of two things:
 
