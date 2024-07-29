@@ -206,16 +206,15 @@ I believe the best officiating happens when a crew behaves like a selfless, supp
 
     - No matter what I do, I move with the utmost sense of purpose, often sprinting back and forth, to show everyone around me that my concern for serving the teams and peers I officiate with is equivalent to that of the highest-level competitors.
 
-??? info "9. Versatility"
+??? info annotate "9. Versatility"
 
-    - Although this application is specific to SO roles, I work hard to continuously build skill and experience at each officiating position, on- and off-skates(1) because I believe learning and practicing each role helps make me a better official and teammate for my SO and NSO peers.
+    - Although this application is specific to SO roles, I work hard to continuously build skill and experience at each officiating position, on- and off-skates because I believe learning and practicing each role helps make me a better official and teammate for my SO and NSO peers. (1)
     - I actively work to keep my OHD balanced between SO and NSO roles, officiating ≈2/3 of games in SO roles and ≈1/3 of games in NSO roles.
     - Whenever needed, I am comfortable serving in any SO or NSO role, with or without advanced notice.
-    {.annotate}
 
-    1.  !!! info "Caveat"
-    
-        Although I practice working with CRG extensively, including IGRF and statsbook preparation, I do not have game experience in in the role of HNSO.
+1. !!! info "Caveat"
+
+    Although I practice working with CRG extensively, including IGRF and statsbook preparation, I do not have game experience in in the role of HNSO.
 
 ??? info "10. Courage To Do What's Right"
 
