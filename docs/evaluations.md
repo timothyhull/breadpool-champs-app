@@ -29,7 +29,7 @@
 
 ## Evaluation #2
 
-    ??? info "Y'AllStars - 22-25 February, 2024"
+??? info "Y'AllStars - 22-25 February, 2024"
 
     === "Overview"
 
@@ -37,7 +37,7 @@
 
         Dear Breadpool (He/Him; Rose City Rollers),
 
-        This is an automated email from Certification, designed to let you know that Fighting Girlfriend  (as a(n) Crew Head Official) filled out an eval for Y'AllStars Southern Skatedown 2024, an event from 2/22/2024 to 2/25/2024, involving 2 sanctioned games, 5 regulation games, "other" games described as "1 -- our crew also officiated the fun open-gender Mardi Gras game (King Babycakes vs. Crew de Bruise), which was largely for show, where I believe Bread was sent to the box a few times by another ref, but it was MOSTLY regulation. :) " for WFTDA, JRDA, during which you served as JR, OPR.
+        This is an automated email from Certification, designed to let you know that **REDACTED**  (as a(n) Crew Head Official) filled out an eval for Y'AllStars Southern Skatedown 2024, an event from 2/22/2024 to 2/25/2024, involving 2 sanctioned games, 5 regulation games, "other" games described as "1 -- our crew also officiated the fun open-gender Mardi Gras game (King Babycakes vs. Crew de Bruise), which was largely for show, where I believe Bread was sent to the box a few times by another ref, but it was MOSTLY regulation. :) " for WFTDA, JRDA, during which you served as JR, OPR.
 
     === "Evaluation"
 
