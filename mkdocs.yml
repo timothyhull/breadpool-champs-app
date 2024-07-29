@@ -22,9 +22,9 @@ theme:
     admonition:
       example: material/format-list-numbered
     repo: fontawesome/brands/github
-  # Features 
+  # Features
   # features:
-    # - relocated to mkdocs.insiders.yml
+  # - relocated to mkdocs.insiders.yml
   font:
     text: Roboto
     code: Roboto Mono
@@ -32,7 +32,7 @@ theme:
   logo: logos/breadpool.png
   # Color palette
   # palette:
-    # - relocated to mkdocs.insiders.yml
+  # - relocated to mkdocs.insiders.yml
   # Shortcut keys
   shortcuts:
     help: 191     # ? key
@@ -46,7 +46,7 @@ theme:
 
 # Custom CSS
 extra_css:
-- stylesheets/admonitions.css
+  - stylesheets/admonitions.css
 # - stylesheets/icons.css
 
 # Markdown extensions
