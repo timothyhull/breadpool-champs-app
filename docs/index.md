@@ -1,6 +1,6 @@
 # Breadpool's Application
 
-???+ warning "Anti-Cheating Statement"
+!!! warning "Anti-Cheating Statement"
 
     All changes to content on this site include date and time stamps to prove the application is complete before the due date.  You may [click here](https://github.com/timothyhull/breadpool-champs-app/commits/gh-pages "GitHub Changelog") to review the complete change history.(1)
     { .annotate }
