@@ -2,6 +2,27 @@
 /* Reference documentation: https://squidfunk.github.io/mkdocs-material/reference/admonitions/#custom-admonitions */
 /* Path to the ".icons" directory: /usr/local/lib/python3.11/site-packages/material/templates/.icons/ */
 
+  /* "Bread" admonition: ":fontawesome-solid-bread-slice:" icon */
+  :root {
+    --md-admonition-icon--bread: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M256 32C192 32 0 64 0 192c0 35.3 28.7 64 64 64v176c0 26.5 21.5 48 48 48h288c26.5 0 48-21.5 48-48V256c35.3 0 64-28.7 64-64C512 64 320 32 256 32z"/></svg>')
+  }
+  .md-typeset .admonition.bread,
+  .md-typeset details.bread {
+    border-color: rgb(60, 60, 60);
+  }
+  .md-typeset .bread > .admonition-title,
+  .md-typeset .bread > summary {
+    background-color: rgba(60, 60, 60, 0.1);
+    border-color: rgb(60, 60, 60);
+  }
+  .md-typeset .bread > .admonition-title::before,
+  .md-typeset .bread > summary::before {
+    background-color: rgb(60, 60, 60);
+    -webkit-mask-image: var(--md-admonition-icon--bread);
+            mask-image: var(--md-admonition-icon--bread);
+  }
+
+  /* "Numbers" admonition: "material-format-list-numbered" icon */
   /* "Magnifying Glass" admonition: "fontawesome-solid-magnifying-glass" icon */
   :root {
     --md-admonition-icon--magnifying-glass: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M416 208c0 45.9-14.9 88.3-40 122.7l126.6 126.7c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0s208 93.1 208 208zM208 352a144 144 0 1 0 0-288 144 144 0 1 0 0 288z"/></svg>')
