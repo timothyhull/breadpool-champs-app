@@ -45,8 +45,8 @@ theme:
 #   - relocated to mkdocs.insiders.yml
 
 # Custom CSS
-# extra_css:
-# - stylesheets/admonitions.css
+extra_css:
+- stylesheets/admonitions.css
 # - stylesheets/icons.css
 
 # Markdown extensions
