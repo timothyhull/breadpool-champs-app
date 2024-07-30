@@ -99,15 +99,20 @@
 
 ## What I'm Applying For
 
-Todo - summary of positions I'm applying for
+I wish to serve as a member of an SO crew as an OPR, JR, or IPR.  I have more experience at OPR and JR than I do at IPR, although I will jump at the opportunity to serve in any of these roles.  Please click to expand the section for each of these positions below for details, and click the tabs for *What I Bring To A Crew* and *Positioning Methodology* in each respective section.
 
-Positional preference
+??? bread "1. OPR (click to expand)"
 
-??? bread "OPR"
+    === "What I Bring To A Crew"
 
-    === "Positioning Methodology"
-
-        TODO 1
+        - Communication with blockers entering and exiting the track
+        - Big, slow hand signals, loud verbal cues
+        - Observing players between jams
+        - Awareness of which players have, earn, retain, lose, and reestablish superior positioning as players go out of bounds.
+        - Thorough assessment of contact initiation and game impact *before* I issue or decline to issue penalties.
+        - Ability to shift between any OPR position at any time without disrupting gameplay or creating a gap in coverage.
+        - Communication with officials on the inside of the track.
+        - Awareness of earned passes within my zone, to support my the JR's on my crew.
 
         <figure markdown>
         ![Outside Pack Referee, WFTDA NA West Playoffs, June, 2024 - Credit: ShutHerUp Photography (ShutHerUpPhotography on Facebook)](images/breadpool_opr_na_west_playoffs_6_24.png){ width="250" style="filter: drop-shadow(0 0 0.2rem black)" }
@@ -117,9 +122,17 @@ Positional preference
             </figcaption>
         </figure>
 
-    === "What I Bring To A Crew"
+    === "Positioning Methodology"
 
-        TODO 2
+        - As a **rear** OPR, I am, generally:
+            - Parallel with a well-defined rear wall, ready to rapidly accelerate in non-derby direction to follow and remain even with players up to the trailing edge of the rear engagement zone.
+            - I frequently make slight in my positioning as-needed to observe contact to the real wall from an incoming jammer, and to observe for multi-player blocks.
+            - I position myself to observe player positioning relative to the jammer line at the start of each jam.
+        - As a **middle** OPR, I am, generally:
+            - Parallel with a well-defined front wall of three or more blockers, ready to rapidly shift my position to observe the rear wall from the front when the front wall has fewer than three blockers.
+            - I frequently make adjustments in my position
+        - As a **front** OPR, I will, generally, be seven to twelve feet  with a well-defined rear of three or more blockers.
+         to observe player positioning, contact,              - 
 
         <figure markdown>
         ![Outside Pack Referee, Female Division JRDA Playoffs: Santa Cruz, June, 2024 - Credit: Mckay Grundstein-Helvey (@mgh2pdx on Instagram)](images/breadpool_opr_jrda_playoffs_6_23_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
@@ -129,7 +142,7 @@ Positional preference
             </figcaption>
         </figure>
 
-??? bread "JR"
+??? bread "2. JR"
 
     === "Positioning Methodology"
 
