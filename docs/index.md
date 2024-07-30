@@ -378,7 +378,7 @@ Please click to expand the sections below for detailed information about what yo
 
 I believe the best officiating happens when a crew behaves like a selfless, supportive, and blameless team that focuses on being better today than they were yesterday.  These are the qualities you can expect from me as a member of an officiating crew:
 
-??? info "1. My Mindset"
+??? bread "1. My Mindset"
 
     - I approach officiating just like I do playing any competitive sport, with the exception that my opponent isn't another person or team.
     - In my mind, **mistakes** are the opponent I ferociously train to beat, while recognizing mistakes are a relentless opponent that will never allow me to be rest.
@@ -387,7 +387,7 @@ I believe the best officiating happens when a crew behaves like a selfless, supp
     - "Winning" means my peers and I supported safe, fair, and gameplay in which the competing teams feel like they control the outcome.
     - I give my all to be the best teammate anyone has ever had, someone who my peers trust, feel safe with, and enjoy being around, and the most humble empathetic official anyone has ever known.
 
-??? info "2. Extreme Positivity"
+??? bread "2. Extreme Positivity"
 
     - I show up with high enthusiasm, friendliness, excitement, and positivity to share with the officials I serve with, no matter how challenging game conditions might be.
     - Regardless of the circumstances, I bring fist bumps, high-fives, and verbal "Let's go!" cues to support and encourage my peers throughout the duration of a contest.
@@ -395,33 +395,33 @@ I believe the best officiating happens when a crew behaves like a selfless, supp
     - I have the backs of my on- and off-skates crewmates, *always*, and they can count on me to encourage them in difficult situations.
     - When my officiating peers and leadership need me to make adjustments, I don’t dig my heels in about doing things a certain way, I give them my full support and do what they need me to do.
 
-??? info "3. Strenuous Preparation"
+??? bread "3. Strenuous Preparation"
 
     - I practice developing and improving officiating skills, on- and off-skates at least 4 hours per week, and often upwards of 10 hours per week.
     - I actively seek feedback from other officials and relentlessly study game video to continuously learn and improve, and to position myself to best support safe and fair gameplay.
     - I physically train and condition 5-12 hours per week to maintain a high level of fitness, improve my ability to be in the best position to observe game action, and ensure I will not experience physical fatigue no matter how strenuous the environmental or game conditions might be.
     - I regularly study roller derby rules and cases to continuously develop a better understanding of roller derby rules theory because I believe learning to understand rules theory helps me quickly work through complex situations in a way that supports the best and safest possible gameplay experience.
 
-??? info "4. Empathic Listening"
+??? bread "4. Empathic Listening"
 
     - I actively listen to officials, players, and coaches with genuine effort and concern to understand their points of view.
     - I seek to build trust by showing officials and teams they are heard and understood, even in cases where we may disagree with each other.
     - I actively solicit feedback from my peer officials by telling them no feedback will hurt my feelings.
     - For me, feedback is information I can use to be better today than I was yesterday, and I want to understand my mistakes, not ignore or hide from them.
 
-??? info "5. Clear and Kind Communication"
+??? bread "5. Clear and Kind Communication"
 
     - I speak to everyone with courtesy and respect, no matter how I am spoken to.
     - I do everything I can to actively communicate information with other officials in a way that promotes smooth, continuous game flow.
 
-??? info "6. Keeping Athletes on the Track"
+??? bread "6. Keeping Athletes on the Track"
 
     - I believe gameplay is best when athletes are on the track, not in the penalty box, and I observe game action in a way that seeks to avoid issuing penalties whenever possible.
     - For any action that might create sufficient game impact to warrant penalties, I describe the game impact to myself in a way I can recite during an official review *before* I issue any penalties (e.g., "Low block on yellow 2-4; caused purple 2-4 to go down").
     - I maximize the use of verbal warnings, prescribed by gameplay rules, to help athletes avoid committing penalties.
     - When I issue penalties, I include as much "3-star" information as possible to help athletes understand my basis for issuing penalties and help them avoid being assessed with the same penalty again (e.g., "Yellow 2-4, forearm; bracing on an opponent.")
 
-??? info "7. Zone Ownership"
+??? bread "7. Zone Ownership"
 
     - I focus on officiating specifically within the confines of my area/zone of responsibility.
     - Said another way, I avoid immediately issuing penalties for actions I may not have the best point of view to observe during a jam.
@@ -429,23 +429,23 @@ I believe the best officiating happens when a crew behaves like a selfless, supp
 
     Santa Cruz C vs. G example with CMF.
 
-??? info "8. Hustle"
+??? bread "8. Hustle"
 
     - No matter what I do, I move with the utmost sense of purpose, often sprinting back and forth, to show everyone around me that my concern for serving the teams and peers I officiate with is equivalent to that of the highest-level competitors.
 
     - If I end up on the ground, I will be back on my feet instantaneously.  Jiu-Jitsu and Judo backgrounds, plus something I practice.
 
-??? info annotate "9. Versatility"
+??? bread annotate "9. Versatility"
 
     - Although this application is specific to SO roles, I work hard to continuously build skill and experience at each officiating position, on- and off-skates because I believe learning and practicing each role helps make me a better official and teammate for my SO and NSO peers. (1)
     - I actively work to keep my OHD balanced between SO and NSO roles, officiating ≈2/3 of games in SO roles and ≈1/3 of games in NSO roles.
     - Whenever needed, I am comfortable serving in any SO or NSO role, with or without advanced notice.
 
-1. !!! info "Caveat"
+1. !!! tip "Caveat"
 
     Although I practice working with CRG extensively, including IGRF and statsbook preparation, I do not have game experience in the role of HNSO.
 
-??? info "10. Courage To Do What's Right"
+??? bread "10. Courage To Do What's Right"
 
     Accept consequences for my actions.
     Santa Cruz S-OOB example.
