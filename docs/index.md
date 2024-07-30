@@ -330,6 +330,8 @@ I believe the best officiating happens when a crew behaves like a selfless, supp
 
     - No matter what I do, I move with the utmost sense of purpose, often sprinting back and forth, to show everyone around me that my concern for serving the teams and peers I officiate with is equivalent to that of the highest-level competitors.
 
+    - If I end up on the ground, I will be back on my feet instantaneously.  Jiu-Jitsu and Judo backgrounds, plus something I practice.
+
 ??? info annotate "9. Versatility"
 
     - Although this application is specific to SO roles, I work hard to continuously build skill and experience at each officiating position, on- and off-skates because I believe learning and practicing each role helps make me a better official and teammate for my SO and NSO peers. (1)
