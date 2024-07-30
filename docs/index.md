@@ -162,7 +162,7 @@ TODO - I train to officiate like a competitor, like I have to be the best, like 
 
 ## My Officiating Background
 
-??? info "Non-Derby Officiating"
+=== info "Non-Derby Officiating"
 
     I am newer to officiating for roller derby, although I am not new to officiating.  
     
@@ -175,7 +175,7 @@ TODO - I train to officiate like a competitor, like I have to be the best, like 
     - U.S. Army recreational flag football.
     - BJJ tournaments at the local, regional, and international levels.
 
-??? info "Derby Officiating"
+=== info "Derby Officiating"
 
     I began my derby officiating journey in August of 2022, although somewhat by accident.  My daughter was new to the roller derby community and wanted to spend more time on skates than was available to her in practices and scrimmages.  She decided to start attending officiating practice and asked that I join her so she wouldn't feel alone.
     
@@ -196,6 +196,7 @@ I believe the best officiating happens when a crew behaves like a selfless, supp
     - I respect my opponent, although I do not fear them on any stage.
     - I seek to challenge my opponent at the highest levels because I'm driven to "win," and I do whatever it takes to be successful on the biggest stages.
     - "Winning" means my peers and I supported safe, fair, and gameplay in which the competing teams feel like they control the outcome.
+    - I give my all to be the best teammate anyone has ever had, someone who my peers trust, feel safe with, and enjoy being around, and the most humble empathetic official anyone has ever known.
 
 ??? info "2. Extreme Positivity"
 
