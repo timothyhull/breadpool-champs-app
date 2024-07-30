@@ -117,7 +117,9 @@ Please click to expand the sections below for detailed information about what yo
     - Continuous and dynamic positioning and repositioning to always be in the best position to observe game action.
     - Clear, slow, and slightly prolonged whistle blasts to help my peer officials in SO and NSO roles understand where and when to turn their attention.
     - Highly-visible, deliberately slow, and consistently repeated verbal and visual cues to help my peer officials in SO and NSO roles understand exactly what I am observing and reporting.
+    - Delivering verbal and visual cues, including issuing penalties, while maintaining the appropriate positioning for my SO role.
     - Maintaining observation of players before, during, and after each jam to ensure any potential contact or communication between teams has coverage.
+    - Tracking the number of players and the positions for each player on each team before and during a jam.
     - Understanding and applying WFTDA rules in keeping with established rules theory and the appropriate situational discretion and judgment to facilitate safe and fair gameplay.
     - Behaviors that show inclusiveness, courtesy, support, respect, and validation to NSOs.
 
@@ -214,9 +216,23 @@ Please click to expand the sections below for detailed information about what yo
 
 ??? whistle "IPR"
 
-    === "Positioning Methodology"
+    === "What I Bring To A Crew"
 
-        TODO 1
+        As IPR (front or rear), you can expect me to consistently exhibit and excel at:
+
+        - Comfort and confidence working from the front or rear IPR positions, depending on the position preference of my HR/CHR.
+        - Ability to define and track pack location plus adapt to the to the pack definition metrics of my peer IPR.
+        - Ability to adapt to the pack reformation penalty metrics of my peer IPR such that reformation penalty distribution is fair and consistent.
+        - Ability to monitor the precise location of skaters to accurately report pack conditions and movement.
+        - Awareness of situations that may result in unexpected no-pack split scenarios.
+        - Clear and loud verbal and visual cues that allow players to quickly understand and respond to warnings before penalty assessment.
+        - Ability to rapidly and dynamically change my positioning and focus as game conditions and pack activities dictate.
+        - Capacity to relay information information between officials, including relaying penalties from OPRs to PLTs.
+        - Capacity to relay to JRs which players are OOP, NOTT, etc. and when, to support JRs accurately tracking and reporting points.
+        - Ongoing communication with other officials about pack location and player positioning relative to the pack, specifically communicating the location of jammers relative to the pack and front engagement zone to JRs.
+        - Awareness of where players re-enter the track relative to the front engagement zone.
+        - Ability to "chase down" and issue an OOP warning to a pivot who leaves the front engagement zone while believing they are a jammer, after unsuccessfully taking a star pass.
+        - Ability to rapidly accelerate while skating backward and skate backward at high speed without the need to look at the track boundary to ensure I remain off of the gameplay area.
 
         <figure markdown>
         ![Inside Pack Referee, RCR Home Team Champs, June, 2024 - Credit: Jonathan Works Photography (worksphoto on Facebook)](images/breadpool_ipr_rcr_champs_6_8_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
@@ -226,9 +242,23 @@ Please click to expand the sections below for detailed information about what yo
             </figcaption>
         </figure>
 
-    === "What I Bring To A Crew"
+    === "Positioning Methodology"
 
-        TODO 2
+        - As a **front** IPR, I am, generally:
+
+            1. 7-10 feet in front of the pack, directly next to the inside boundary looking in non-derby direction when the pack is well-defined and managed by the rear IPR.
+            2. Ready to rapidly transition to a position where I am centered on the pack when the rear IPR moves to follow players in the rear engagement zone.
+            3. Ready to move out of the path of both JRs and quickly recover my original position.
+            4. Ready to provide primary pack definition coverage for the rear IPR in the event they are not available at the start of a jam or become unavailable during a jam.
+        
+        - As a **rear** IPR, I am, generally:
+
+            1. Centered on the pack when the pack is well-defined.
+            2. Ready to rapidly accelerate in non-derby direction to follow and remain even with players up to the trailing edge of the rear engagement zone.
+            3. Shifting to be slightly behind the rear wall when jammers approach, so I can observe contact to the real wall.
+            4. Shifting to be slightly in front of the real wall to observe for illegal blocking techniques that create game impact.
+            5. Ready to move out of the path of both JRs and quickly recover my original position.
+            6. In position to observe player positioning relative to the jammer line and inside boundary at the start of each jam.
 
         <figure markdown>
         ![Inside Pack Referee, Colorado Chaos, JRDA Sanctioned, May, 2024 - Credit: Alvin Green Jr. Photography (@algreenjr1 on Instagram)](images/breadpool_ipr_colorado_chaos_5_10_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
