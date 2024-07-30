@@ -20,6 +20,7 @@
 *[NA]: North America
 *[NOTT]: Not-On-The-Track
 *[NSO]: Non-Skating Official
+*[OOP]: Out-Of-Play
 *[OOS]: Overview of Officiating Skill
 *[OPR]: Outside Pack Referee
 *[OR]: Official Review
