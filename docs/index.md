@@ -99,20 +99,40 @@
 
 ## What I'm Applying For
 
-I wish to serve as a member of an SO crew as an OPR, JR, or IPR.  I have more experience at OPR and JR than I do at IPR, although I will jump at the opportunity to serve in any of these roles.  Please click to expand the section for each of these positions below for details, and click the tabs for *What I Bring To A Crew* and *Positioning Methodology* in each respective section.
+I wish to serve as a member of an SO crew as an **OPR**, **JR**, or **IPR**.  I prefer to serve in an OPR or JR role, neither having precedence over the other because I believe I am strongest in those roles and capable of officiating admirably for any level of play, including the highest-level play in the world.
 
-??? bread "1. OPR (click to expand)"
+Although I am not as strong of an IPR as I am an OPR or JR, I included the IPR role in my application because I want TOSP, the THR, and the CHRs to know they can confidently staff me in the ALTR position, knowing I can immediately enter a game with confidence and effectiveness in any SO position.
+
+Please click to expand the sections below for detailed information about what you can expect from me and how I position myself in each SO role.
+
+??? bread "What You Can Expect From Me"
+
+    In any SO position, you can expect me to consistently exhibit and excel at:
+
+    - Skating skills and speed that allow me to reliably be *exactly* where I need to be, rapidly recover if I am forced out of position, and avoid making contact with other players in situations where they may not be able to avoid making contact with me.
+    - Awareness of which players have, earn, retain, lose, and reestablish superior positioning as players go out-of-bounds and return to in-bounds positions.
+    - Thoroughly assessing and understanding which players initiate contact with other players.
+    - Thoroughly assessing contact initiation game impact *before* I issue or decline to issue penalties.
+    - Awareness of detailed information about the actions I observe that includes player-specific details (team and jersey number).
+    - Continuous and dynamic positioning and repositioning to always be in the best position to observe game action.
+    - Clear, slow, and slightly prolonged whistle blasts to help my peer officials in SO and NSO roles understand where and when to turn their attention.
+    - Highly-visible, deliberately slow, and consistently repeated verbal and visual cues to help my peer officials in SO and NSO roles understand exactly what I am observing and reporting.
+    - Maintaining observation of players before, during, and after each jam to ensure any potential contact or communication between teams has coverage.
+    - Aware of actions that constitute complete and incomplete star passes.
+    - Dynamic skating, rapid acceleration and deceleration, lateral movement, etc.
+
+
+??? whistle "OPR-Specific"
 
     === "What I Bring To A Crew"
 
-        - Communication with blockers entering and exiting the track
-        - Big, slow hand signals, loud verbal cues
-        - Observing players between jams
-        - Awareness of which players have, earn, retain, lose, and reestablish superior positioning as players go out of bounds.
-        - Thorough assessment of contact initiation and game impact *before* I issue or decline to issue penalties.
-        - Ability to shift between any OPR position at any time without disrupting gameplay or creating a gap in coverage.
-        - Communication with officials on the inside of the track.
-        - Awareness of earned passes within my zone, to support my the JR's on my crew.
+        As an OPR, you can expect me to consistently exhibit and excel at:
+
+        - Demonstrating high-proficiency at each OPR position and the capacity to switch between any OPR position at any time without disrupting gameplay or creating a gap in coverage.
+        - Being the earliest and most-decisive "dropping" OPR in the world, seeking to rapidly stop, accelerate in non-derby direction, and recover a new position whenever the speed of the pack has even the slightest position to put me and my peers out of position.
+        - Awareness of earned passes within my zone, to support the JR's on my crew with accurate points reporting.
+        - Frequently communicating with my OPR peers to ensure our collective positioning and ability to observe game actions is optimal.
+        - Non-verbal communication with players (pointing) reporting to and returning from the penalty box to help ensure they enter and exit the track safely.
 
         <figure markdown>
         ![Outside Pack Referee, WFTDA NA West Playoffs, June, 2024 - Credit: ShutHerUp Photography (ShutHerUpPhotography on Facebook)](images/breadpool_opr_na_west_playoffs_6_24.png){ width="250" style="filter: drop-shadow(0 0 0.2rem black)" }
@@ -125,14 +145,25 @@ I wish to serve as a member of an SO crew as an OPR, JR, or IPR.  I have more ex
     === "Positioning Methodology"
 
         - As a **rear** OPR, I am, generally:
-            - Parallel with a well-defined rear wall, ready to rapidly accelerate in non-derby direction to follow and remain even with players up to the trailing edge of the rear engagement zone.
-            - I frequently make slight in my positioning as-needed to observe contact to the real wall from an incoming jammer, and to observe for multi-player blocks.
-            - I position myself to observe player positioning relative to the jammer line at the start of each jam.
+
+            1. Parallel with a well-defined rear wall.
+            2. Ready to rapidly accelerate in non-derby direction to follow and remain even with players up to the trailing edge of the rear engagement zone.
+            3. Shifting to be slightly behind the rear wall when jammers approach, so I can observe contact to the real wall.
+            3. Shifting to be slightly in front of the real wall to observe for illegal blocking techniques that create game impact.
+            4. In position to observe player positioning relative to the jammer line and outside boundary at the start of each jam.
+
         - As a **middle** OPR, I am, generally:
-            - Parallel with a well-defined front wall of three or more blockers, ready to rapidly shift my position to observe the rear wall from the front when the front wall has fewer than three blockers.
-            - I frequently make adjustments in my position
-        - As a **front** OPR, I will, generally, be seven to twelve feet  with a well-defined rear of three or more blockers.
-         to observe player positioning, contact,              - 
+
+            1. Parallel with a well-defined front wall of 3+ blockers wall.
+            2. Ready to rapidly accelerate in non-derby direction to observe the rear wall from the front when the front wall has 2 or fewer blockers.
+            3. Ready to reposition to be parallel with the rear wall when the rear OPR follows blockers moving in non-derby direction to the edge of the rear engagement zone, and ready to return to observing the front wall as the rear OPR reassumes control of the real wall.
+            4. In position to observe player positioning relative to the pivot line and outside boundary at the start of each jam.
+
+        - As a **front** OPR, I am, generally:
+
+            1. 7-12 feet in front of the pack, directly next to the outside boundary looking in non-derby direction when the front wall has 3+ blockers.
+            2. Ready to rapidly transition to be parallel with a front wall of 2 or fewer blockers while maintaining a position that prevents blockers from getting forward of my position.
+            3. Ready to reposition to be parallel with the front wall when the middle OPR positions themselves to be parallel with the rear wall, and ready to return to a position forward of the front wall.
 
         <figure markdown>
         ![Outside Pack Referee, Female Division JRDA Playoffs: Santa Cruz, June, 2024 - Credit: Mckay Grundstein-Helvey (@mgh2pdx on Instagram)](images/breadpool_opr_jrda_playoffs_6_23_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
@@ -142,7 +173,7 @@ I wish to serve as a member of an SO crew as an OPR, JR, or IPR.  I have more ex
             </figcaption>
         </figure>
 
-??? bread "2. JR"
+??? whistle "JR"
 
     === "Positioning Methodology"
 
@@ -168,7 +199,7 @@ I wish to serve as a member of an SO crew as an OPR, JR, or IPR.  I have more ex
             </figcaption>
         </figure>
 
-??? bread "IPR"
+??? whistle "IPR"
 
     === "Positioning Methodology"
 
@@ -191,6 +222,20 @@ I wish to serve as a member of an SO crew as an OPR, JR, or IPR.  I have more ex
             <figcaption style="font-size: 12px">
                 IPR, Colorado Chaos, JRDA Sanctioned Game, May, 2024<br>
                 Credit: [Alvin Green Jr. Photography](https://www.instagram.com/algreenjr1 "@algreenjr1 on Instagram"){ target=_blank } :octicons-link-external-24:
+            </figcaption>
+        </figure>
+
+??? clipboard "ALTR"
+
+    === "What I Bring To A Crew"
+
+        TODO 2
+
+        <figure markdown>
+        ![Alternate Referee, RCR Home Team Champs, June, 2024 - Credit: Divo](images/breadpool_altr_rcr_champs_6_8_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
+            <figcaption style="font-size: 12px">
+                ALTR, RCR Home Team Champs, June, 2024<br>
+                Credit: Divo
             </figcaption>
         </figure>
 
