@@ -10,7 +10,7 @@
         Hover your mouse cursor over any "***...ago***" text to display a tooltip that reveals the change date and time stamp.
 
         <figure markdown>
-            ![Reveal Application Change Date and Time Stamp Details](images/breadpool_view_change_date_dime_stamp.png "Reveal Application Change Date and Time Stamp Details")
+            ![Reveal Application Change Date and Time Stamp Details](images/breadpool_view_change_date_dime_stamp.png "Reveal Application Change Date and Time Stamp Details"){ style="filter: drop-shadow(0 0 0.2rem black)" }
             <figcaption style="font-size: 12px">
                 Click to enlarge image
             </figcaption>
@@ -99,7 +99,7 @@
 
 ## What I'm Applying For
 
-TODO - summary of positions I'm applying for
+Todo - summary of positions I'm applying for
 
 Positional preference
 
@@ -110,7 +110,7 @@ Positional preference
         TODO 1
 
         <figure markdown>
-            ![Outside Pack Referee, WFTDA NA West Playoffs, June, 2024 - Credit: ShutHerUp Photography (ShutHerUpPhotography on Facebook)](images/breadpool_opr_na_west_playoffs_6_24.png){ width="250" style="filter: drop-shadow(0 0 0.2rem black)"}
+            ![Outside Pack Referee, WFTDA NA West Playoffs, June, 2024 - Credit: ShutHerUp Photography (ShutHerUpPhotography on Facebook)](images/breadpool_opr_na_west_playoffs_6_24.png){ width="250" style="filter: drop-shadow(0 0 0.2rem black)" }
             <figcaption style="font-size: 12px">
                 OPR, WFTDA NA West Playoffs, June, 2024<br>
                 Credit: [ShutHerUp Photography](https://www.facebook.com/ShutHerUpPhotography "ShutHerUpPhotography on Facebook"){ target=_blank } :octicons-link-external-24:
@@ -136,7 +136,7 @@ Positional preference
         TODO 1
 
         <figure markdown>
-            ![Jammer Referee, Ground Control vs. Y'allhalla, May, 2024 - Credit: Alvin Green Jr. Photography (@algreenjr1 on Instagram)](images/breadpool_ground_control_vs_yallhalla_5_11_24.png){ width="350" style="filter: drop-shadow(0 0 0.2rem black)"}
+            ![Jammer Referee, Ground Control vs. Y'allhalla, May, 2024 - Credit: Alvin Green Jr. Photography (@algreenjr1 on Instagram)](images/breadpool_ground_control_vs_yallhalla_5_11_24.png){ width="350" style="filter: drop-shadow(0 0 0.2rem black)" }
             <figcaption style="font-size: 12px">
                 JR, Ground Control vs. Y'allhalla, May, 2024<br>
                 Credit: [Alvin Green Jr. Photography](https://www.instagram.com/algreenjr1 "@algreenjr1 on Instagram"){ target=_blank } :octicons-link-external-24:
@@ -148,7 +148,7 @@ Positional preference
         TODO 2
 
         <figure markdown>
-            ![Jammer Referee, Ground Control vs. Y'allhalla, May, 2024 - Credit: Alvin Green Jr. Photography (@algreenjr1 on Instagram)](images/breadpool_ground_control_vs_yallhalla_5_11_24.png){ width="350" style="filter: drop-shadow(0 0 0.2rem black)"}
+            ![Jammer Referee, Ground Control vs. Y'allhalla, May, 2024 - Credit: Alvin Green Jr. Photography (@algreenjr1 on Instagram)](images/breadpool_ground_control_vs_yallhalla_5_11_24.png){ width="350" style="filter: drop-shadow(0 0 0.2rem black)" }
             <figcaption style="font-size: 12px">
                 JR, Ground Control vs. Y'allhalla, May, 2024<br>
                 Credit: [Alvin Green Jr. Photography](https://www.instagram.com/algreenjr1 "@algreenjr1 on Instagram"){ target=_blank } :octicons-link-external-24:
@@ -162,7 +162,7 @@ Positional preference
         TODO 1
 
         <figure markdown>
-            ![Jammer Referee, Ground Control vs. Y'allhalla, May, 2024 - Credit: Alvin Green Jr. Photography (@algreenjr1 on Instagram)](images/breadpool_ground_control_vs_yallhalla_5_11_24.png){ width="350" style="filter: drop-shadow(0 0 0.2rem black)"}
+            ![Jammer Referee, Ground Control vs. Y'allhalla, May, 2024 - Credit: Alvin Green Jr. Photography (@algreenjr1 on Instagram)](images/breadpool_ground_control_vs_yallhalla_5_11_24.png){ width="350" style="filter: drop-shadow(0 0 0.2rem black)" }
             <figcaption style="font-size: 12px">
                 JR, Ground Control vs. Y'allhalla, May, 2024<br>
                 Credit: [Alvin Green Jr. Photography](https://www.instagram.com/algreenjr1 "@algreenjr1 on Instagram"){ target=_blank } :octicons-link-external-24:
@@ -174,7 +174,7 @@ Positional preference
         TODO 2
 
         <figure markdown>
-            ![Jammer Referee, Ground Control vs. Y'allhalla, May, 2024 - Credit: Alvin Green Jr. Photography (@algreenjr1 on Instagram)](images/breadpool_ground_control_vs_yallhalla_5_11_24.png){ width="350" style="filter: drop-shadow(0 0 0.2rem black)"}
+            ![Jammer Referee, Ground Control vs. Y'allhalla, May, 2024 - Credit: Alvin Green Jr. Photography (@algreenjr1 on Instagram)](images/breadpool_ground_control_vs_yallhalla_5_11_24.png){ width="350" style="filter: drop-shadow(0 0 0.2rem black)" }
             <figcaption style="font-size: 12px">
                 JR, Ground Control vs. Y'allhalla, May, 2024<br>
                 Credit: [Alvin Green Jr. Photography](https://www.instagram.com/algreenjr1 "@algreenjr1 on Instagram"){ target=_blank } :octicons-link-external-24:
@@ -194,7 +194,7 @@ Positional preference
     - **I want people with physical disabilities to see me as an example that's it’s possible for them to experience the joy and fulfillment from strenuous sports and activities.**
 
     <figure markdown>
-        ![Outside Pack Referee, RCR GNR vs. Texas Hustlers, November, 2023 - Credit: Jonathan Works Photography (worksphoto on Facebook)](images/breadpool_opr_gnr_vs_tx_11_18_23.png){ width="350" style="filter: drop-shadow(0 0 0.2rem black)"}
+        ![Outside Pack Referee, RCR GNR vs. Texas Hustlers, November, 2023 - Credit: Jonathan Works Photography (worksphoto on Facebook)](images/breadpool_opr_gnr_vs_tx_11_18_23.png){ width="350" style="filter: drop-shadow(0 0 0.2rem black)" }
         <figcaption style="font-size: 12px">
             OPR, RCR GNR vs. Texas Hustlers, November, 2023<br>
             Credit: [Jonathan Works Photography](https://www.facebook.com/worksphoto "worksphoto on Facebook"){ target=_blank } :octicons-link-external-24:
@@ -203,18 +203,18 @@ Positional preference
 
 === "Hope"
 
-    - I've loved competitive athletics my whole life.  I lost the ability to compete
+    I've loved competitive athletics my whole life.  I lost the ability to compete
 
-TODO - I train to officiate like a competitor, like I have to be the best, like good is the enemy of great.
+    Todo - I train to officiate like a competitor, like I have to be the best, like good is the enemy of great.
 
 ---
 
 ## My Officiating Background
 
-=== info "Non-Derby Officiating"
+=== "Non-Derby Officiating"
 
     I am newer to officiating for roller derby, although I am not new to officiating.  
-    
+
     I’ve been competing in sports throughout my life, including over 20 years of Brazilian Jiu-Jitsu competition, and officiating is one of the ways I contribute to serving future generations of competitors while honoring the people who have officiated for my own competitive athletic experiences.
 
     I started officiating when I was sixteen, operating the scoreboard at high school basketball games, and I've since officiated:
@@ -224,7 +224,7 @@ TODO - I train to officiate like a competitor, like I have to be the best, like 
     - U.S. Army recreational flag football.
     - BJJ tournaments at the local, regional, and international levels.
 
-=== info "Derby Officiating"
+=== "Derby Officiating"
 
     I began my derby officiating journey in August of 2022, although somewhat by accident.  My daughter was new to the roller derby community and wanted to spend more time on skates than was available to her in practices and scrimmages.  She decided to start attending officiating practice and asked that I join her so she wouldn't feel alone.
     
