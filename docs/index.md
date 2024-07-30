@@ -10,9 +10,10 @@
         Hover your mouse cursor over any "***...ago***" text to display a tooltip that reveals the change date and time stamp.
 
         <figure markdown>
-        ![Reveal Application Change Date and Time Stamp Details](images/breadpool_view_change_date_dime_stamp.png "Reveal Application Change Date and Time Stamp Details")
-        <figcaption style="font-size: 12px">
-            Click to enlarge image
+            ![Reveal Application Change Date and Time Stamp Details](images/breadpool_view_change_date_dime_stamp.png "Reveal Application Change Date and Time Stamp Details")
+            <figcaption style="font-size: 12px">
+                Click to enlarge image
+            </figcaption>
         </figure>
 
 ## About Me
@@ -44,11 +45,11 @@
         - **0** - regrets for all of my work and sacrifice to be ready for this moment.
 
     <figure markdown>
-    ![Breadpool (Timothy Hull) - Credit: Mckay Grundstein-Helvey (@mgh2pdx on Instagram)](images/breadpool_headshot.png){ width="300" style="filter: drop-shadow(0 0 0.2rem black)" }
-    <figcaption style="font-size: 12px">
-        Breadpool (Timothy Hull)<br>
-        Credit: [Mckay Grundstein-Helvey](https://www.instagram.com/mgh2pdx "@mgh2pdx on Instagram"){ target=_blank } :octicons-link-external-24:
-    </figcaption>
+        ![Breadpool (Timothy Hull) - Credit: Mckay Grundstein-Helvey (@mgh2pdx on Instagram)](images/breadpool_headshot.png){ width="300" style="filter: drop-shadow(0 0 0.2rem black)" }
+        <figcaption style="font-size: 12px">
+            Breadpool (Timothy Hull)<br>
+            Credit: [Mckay Grundstein-Helvey](https://www.instagram.com/mgh2pdx "@mgh2pdx on Instagram"){ target=_blank } :octicons-link-external-24:
+        </figcaption>
     </figure>
 
 === "Profile"
@@ -87,11 +88,11 @@
         - I intend to complete and submit my WFTDA officiating certification applications as soon as I complete and submit my application to officiate at the 2024 WFTDA Global Championship Tournament.
 
     <figure markdown>
-    ![Jam Timer, Female Division JRDA Playoffs, July, 2024 - Credit: Mckay Grundstein-Helvey (@mgh2pdx on Instagram)](images/breadpool_jt_jrda_f_playoffs_6_23_24.png){ width="350" style="filter: drop-shadow(0 0 0.2rem black)" }
-    <figcaption style="font-size: 12px">
-        JT, Female Division JRDA Playoffs, July, 2024 (Timothy Hull)<br>
-        Credit: [Mckay Grundstein-Helvey](https://www.instagram.com/mgh2pdx "@mgh2pdx on Instagram"){ target=_blank } :octicons-link-external-24:
-    </figcaption>
+        ![Jam Timer, Female Division JRDA Playoffs: Santa Cruz, June, 2024 - Credit: Mckay Grundstein-Helvey (@mgh2pdx on Instagram)](images/breadpool_jt_jrda_f_playoffs_6_23_24.png){ width="350" style="filter: drop-shadow(0 0 0.2rem black)" }
+        <figcaption style="font-size: 12px">
+            JT, Female Division JRDA Playoffs: Santa Cruz, June, 2024 (Timothy Hull)<br>
+            Credit: [Mckay Grundstein-Helvey](https://www.instagram.com/mgh2pdx "@mgh2pdx on Instagram"){ target=_blank } :octicons-link-external-24:
+        </figcaption>
     </figure>
 
 ---
@@ -108,9 +109,25 @@ Positional preference
 
         TODO 1
 
+        <figure markdown>
+            ![Outside Pack Referee, WFTDA NA West Playoffs, June, 2024 - Credit: ShutHerUp Photography (ShutHerUpPhotography on Facebook)](images/breadpool_opr_na_west_playoffs_6_24.png){ width="250" style="filter: drop-shadow(0 0 0.2rem black)"}
+            <figcaption style="font-size: 12px">
+                OPR, WFTDA NA West Playoffs, June, 2024<br>
+                Credit: [ShutHerUp Photography](https://www.facebook.com/ShutHerUpPhotography "ShutHerUpPhotography on Facebook"){ target=_blank } :octicons-link-external-24:
+            </figcaption>
+        </figure>
+
     === "What I Bring To A Crew"
 
         TODO 2
+
+        <figure markdown>
+            ![Outside Pack Referee, Female Division JRDA Playoffs: Santa Cruz, June, 2024 - Credit: Mckay Grundstein-Helvey (@mgh2pdx on Instagram)](images/breadpool_opr_jrda_playoffs_6_23_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
+            <figcaption style="font-size: 12px">
+                OPR, Female Division JRDA Playoffs: Santa Cruz, June, 2024<br>
+                Credit: [Mckay Grundstein-Helvey](https://www.instagram.com/mgh2pdx "@mgh2pdx on Instagram"){ target=_blank } :octicons-link-external-24:
+            </figcaption>
+        </figure>
 
 ??? bread "JR"
 
@@ -118,9 +135,25 @@ Positional preference
 
         TODO 1
 
+        <figure markdown>
+            ![Jammer Referee, Ground Control vs. Y'allhalla, May, 2024 - Credit: Alvin Green Jr. Photography (@algreenjr1 on Instagram)](images/breadpool_ground_control_vs_yallhalla_5_11_24.png){ width="350" style="filter: drop-shadow(0 0 0.2rem black)"}
+            <figcaption style="font-size: 12px">
+                JR, Ground Control vs. Y'allhalla, May, 2024<br>
+                Credit: [Alvin Green Jr. Photography](https://www.instagram.com/algreenjr1 "@algreenjr1 on Instagram"){ target=_blank } :octicons-link-external-24:
+            </figcaption>
+        </figure>
+
     === "What I Bring To A Crew"
 
         TODO 2
+
+        <figure markdown>
+            ![Jammer Referee, Ground Control vs. Y'allhalla, May, 2024 - Credit: Alvin Green Jr. Photography (@algreenjr1 on Instagram)](images/breadpool_ground_control_vs_yallhalla_5_11_24.png){ width="350" style="filter: drop-shadow(0 0 0.2rem black)"}
+            <figcaption style="font-size: 12px">
+                JR, Ground Control vs. Y'allhalla, May, 2024<br>
+                Credit: [Alvin Green Jr. Photography](https://www.instagram.com/algreenjr1 "@algreenjr1 on Instagram"){ target=_blank } :octicons-link-external-24:
+            </figcaption>
+        </figure>
 
 ??? bread "IPR"
 
@@ -128,9 +161,25 @@ Positional preference
 
         TODO 1
 
+        <figure markdown>
+            ![Jammer Referee, Ground Control vs. Y'allhalla, May, 2024 - Credit: Alvin Green Jr. Photography (@algreenjr1 on Instagram)](images/breadpool_ground_control_vs_yallhalla_5_11_24.png){ width="350" style="filter: drop-shadow(0 0 0.2rem black)"}
+            <figcaption style="font-size: 12px">
+                JR, Ground Control vs. Y'allhalla, May, 2024<br>
+                Credit: [Alvin Green Jr. Photography](https://www.instagram.com/algreenjr1 "@algreenjr1 on Instagram"){ target=_blank } :octicons-link-external-24:
+            </figcaption>
+        </figure>
+
     === "What I Bring To A Crew"
 
         TODO 2
+
+        <figure markdown>
+            ![Jammer Referee, Ground Control vs. Y'allhalla, May, 2024 - Credit: Alvin Green Jr. Photography (@algreenjr1 on Instagram)](images/breadpool_ground_control_vs_yallhalla_5_11_24.png){ width="350" style="filter: drop-shadow(0 0 0.2rem black)"}
+            <figcaption style="font-size: 12px">
+                JR, Ground Control vs. Y'allhalla, May, 2024<br>
+                Credit: [Alvin Green Jr. Photography](https://www.instagram.com/algreenjr1 "@algreenjr1 on Instagram"){ target=_blank } :octicons-link-external-24:
+            </figcaption>
+        </figure>
 
 ---
 
