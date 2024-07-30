@@ -79,10 +79,10 @@
     1. My ongoing commitment to seek self-improvement.
     2. Demonstrating I support the WFTDA and their officiating procedures.
 
-    ??? info "Certification Timeline and Progress"
+    ??? clipboard "Certification Timeline and Progress"
 
         - I started the process to become a certified official in September of 2022 by studying for and passing WFTDA's online SO and NSO officiating certification courses.
-        - At the beginning of 2023, I set a personal goal to build sufficient game experience to credibly apply for Level I SO and NSO certifications.
+        - At the beginning of 2023, I set a personal goal to build sufficient game experience to credibly apply for Level I SO and NSO certifications in 2024.
         - At the beginning of 2024, I set a personal goal to apply for and achieve Level I SO and NSO certifications.
         - I received the final OOS I need to apply for Level I SO and NSO certifications in July of 2024.
         - I intend to complete and submit my WFTDA officiating certification applications as soon as I complete and submit my application to officiate at the 2024 WFTDA Global Championship Tournament.
@@ -99,9 +99,9 @@
 
 ## What I'm Applying For
 
-I wish to serve as a member of an SO crew as an **OPR**, **JR**, or **IPR**.  I prefer to serve in an OPR or JR role, neither having precedence over the other because I believe I am strongest in those roles and capable of officiating admirably for any level of play, including the highest-level play in the world.
+I wish to serve as a member of an SO crew as an **OPR**, **JR**, or **IPR**.  I prefer to serve in an OPR or JR role, with no specific precedence between the two because I believe I am capable of officiating admirably in these roles for any level of play, including the highest-level play in the world.
 
-Although I am not as strong of an IPR as I am an OPR or JR, I included the IPR role in my application because I want TOSP, the THR, and the CHRs to know they can confidently staff me in the ALTR position, knowing I can immediately enter a game with confidence and effectiveness in any SO position.
+Although I am not as strong of an IPR as I am an OPR or JR, I included the IPR role in my application because I want TOSP, the THR, and the CHRs to know they can confidently staff me in an IPR role if necessary (planned or unplanned), or in the ALTR role, knowing I can immediately enter a game with confidence and effectiveness in any SO role.
 
 Please click to expand the sections below for detailed information about what you can expect from me and how I position myself in each SO role.
 
@@ -122,6 +122,14 @@ Please click to expand the sections below for detailed information about what yo
     - Tracking the number of players and the positions for each player on each team before and during a jam.
     - Understanding and applying WFTDA rules in keeping with established rules theory and the appropriate situational discretion and judgment to facilitate safe and fair gameplay.
     - Behaviors that show inclusiveness, courtesy, support, respect, and validation to NSOs.
+
+    <figure markdown>
+    ![Jammer Referee, Franky Panky, Tampa vs. Dub City, March, 2024 - Credit: Keith Ridge Derby Photos (keithridgederbyphotos on Facebook)](images/breadpool_opr_franky_panky_tampa_vs_dub_city_3_8_24.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
+        <figcaption style="font-size: 12px">
+            JR, Franky Panky, Tampa vs. Dub City, March, 2024<br>
+            Credit: [Keith Ridge Derby Photos](https://www.facebook.com/keithridgederbyphotos "keithridgederbyphotos on Facebook"){ target=_blank } :octicons-link-external-24:
+        </figcaption>
+    </figure>
 
 ??? whistle "OPR-Specific"
 
