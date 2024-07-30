@@ -5,12 +5,12 @@
     All changes to content on this site include date and time stamps to prove the application is complete before the due date.  You may [click here](https://github.com/timothyhull/breadpool-champs-app/commits/gh-pages "GitHub.io Changelog") to review the complete build history for this site, and [click here](https://github.com/timothyhull/breadpool-champs-app/commits "GitHub.com Changelog") to review the complete source code history.(1)
     { .annotate }
 
-    1.  !!! magnifying-glass "Reveal Date and Time Stamp Details"
+    1.  !!! magnifying-glass "View Date and Time Stamp Details"
 
         Hover your mouse cursor over any "***...ago***" text to display a tooltip that reveals the change date and time stamp.
 
         <figure markdown>
-            ![Reveal Application Change Date and Time Stamp Details](images/breadpool_view_change_date_dime_stamp.png "Reveal Application Change Date and Time Stamp Details"){ style="filter: drop-shadow(0 0 0.2rem black)" }
+        ![View Application Change Date and Time Stamp Details](images/breadpool_view_change_date_dime_stamp.png "View Application Change Date and Time Stamp Details"){ style="filter: drop-shadow(0 0 0.2rem black)" }
             <figcaption style="font-size: 12px">
                 Click to enlarge image
             </figcaption>
@@ -45,7 +45,7 @@
         - **0** - regrets for all of my work and sacrifice to be ready for this moment.
 
     <figure markdown>
-        ![Breadpool (Timothy Hull) - Credit: Mckay Grundstein-Helvey (@mgh2pdx on Instagram)](images/breadpool_headshot.png){ width="300" style="filter: drop-shadow(0 0 0.2rem black)" }
+    ![Breadpool (Timothy Hull) - Credit: Mckay Grundstein-Helvey (@mgh2pdx on Instagram)](images/breadpool_headshot.png){ width="300" style="filter: drop-shadow(0 0 0.2rem black)" }
         <figcaption style="font-size: 12px">
             Breadpool (Timothy Hull)<br>
             Credit: [Mckay Grundstein-Helvey](https://www.instagram.com/mgh2pdx "@mgh2pdx on Instagram"){ target=_blank } :octicons-link-external-24:
@@ -65,7 +65,7 @@
     - **Fun Fact:** BJJ Black Belt
 
     <figure markdown>
-        ![Jammer Referee, 187 Killer Pads vs. Triple 8, RollerCon 2024 - Credit: Jenni Weber Photography (@jenniwebberphotography on Instagram)](images/breadpool_jr_187_vs_triple_8_7_12_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
+    ![Jammer Referee, 187 Killer Pads vs. Triple 8, RollerCon 2024 - Credit: Jenni Weber Photography (@jenniwebberphotography on Instagram)](images/breadpool_jr_187_vs_triple_8_7_12_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
         <figcaption style="font-size: 12px">
             JR, 187 Killer Pads vs. Triple 8, RollerCon 2024<br>
             Credit: [Jenni Weber Photography](https://www.instagram.com/jenniwebberphotography "@jenniwebberphotography on Instagram"){ target=_blank } :octicons-link-external-24:
@@ -88,7 +88,7 @@
         - I intend to complete and submit my WFTDA officiating certification applications as soon as I complete and submit my application to officiate at the 2024 WFTDA Global Championship Tournament.
 
     <figure markdown>
-        ![Jam Timer, Female Division JRDA Playoffs: Santa Cruz, June, 2024 - Credit: Mckay Grundstein-Helvey (@mgh2pdx on Instagram)](images/breadpool_jt_jrda_f_playoffs_6_23_24.png){ width="350" style="filter: drop-shadow(0 0 0.2rem black)" }
+    ![Jam Timer, Female Division JRDA Playoffs: Santa Cruz, June, 2024 - Credit: Mckay Grundstein-Helvey (@mgh2pdx on Instagram)](images/breadpool_jt_jrda_f_playoffs_6_23_24.png){ width="350" style="filter: drop-shadow(0 0 0.2rem black)" }
         <figcaption style="font-size: 12px">
             JT, Female Division JRDA Playoffs: Santa Cruz, June, 2024 (Timothy Hull)<br>
             Credit: [Mckay Grundstein-Helvey](https://www.instagram.com/mgh2pdx "@mgh2pdx on Instagram"){ target=_blank } :octicons-link-external-24:
@@ -110,7 +110,7 @@ Positional preference
         TODO 1
 
         <figure markdown>
-            ![Outside Pack Referee, WFTDA NA West Playoffs, June, 2024 - Credit: ShutHerUp Photography (ShutHerUpPhotography on Facebook)](images/breadpool_opr_na_west_playoffs_6_24.png){ width="250" style="filter: drop-shadow(0 0 0.2rem black)" }
+        ![Outside Pack Referee, WFTDA NA West Playoffs, June, 2024 - Credit: ShutHerUp Photography (ShutHerUpPhotography on Facebook)](images/breadpool_opr_na_west_playoffs_6_24.png){ width="250" style="filter: drop-shadow(0 0 0.2rem black)" }
             <figcaption style="font-size: 12px">
                 OPR, WFTDA NA West Playoffs, June, 2024<br>
                 Credit: [ShutHerUp Photography](https://www.facebook.com/ShutHerUpPhotography "ShutHerUpPhotography on Facebook"){ target=_blank } :octicons-link-external-24:
@@ -122,7 +122,7 @@ Positional preference
         TODO 2
 
         <figure markdown>
-            ![Outside Pack Referee, Female Division JRDA Playoffs: Santa Cruz, June, 2024 - Credit: Mckay Grundstein-Helvey (@mgh2pdx on Instagram)](images/breadpool_opr_jrda_playoffs_6_23_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
+        ![Outside Pack Referee, Female Division JRDA Playoffs: Santa Cruz, June, 2024 - Credit: Mckay Grundstein-Helvey (@mgh2pdx on Instagram)](images/breadpool_opr_jrda_playoffs_6_23_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
             <figcaption style="font-size: 12px">
                 OPR, Female Division JRDA Playoffs: Santa Cruz, June, 2024<br>
                 Credit: [Mckay Grundstein-Helvey](https://www.instagram.com/mgh2pdx "@mgh2pdx on Instagram"){ target=_blank } :octicons-link-external-24:
@@ -136,10 +136,10 @@ Positional preference
         TODO 1
 
         <figure markdown>
-            ![Jammer Referee, Ground Control vs. Y'allhalla, May, 2024 - Credit: Alvin Green Jr. Photography (@algreenjr1 on Instagram)](images/breadpool_ground_control_vs_yallhalla_5_11_24.png){ width="350" style="filter: drop-shadow(0 0 0.2rem black)" }
+        ![Jammer Referee, AoA vs. Rat City, October, 2023 - Credit: Jonathan Works Photography (worksphoto on Facebook)](images/breadpool_jr_aoa_vs_rat_city_10_7_2023.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
             <figcaption style="font-size: 12px">
-                JR, Ground Control vs. Y'allhalla, May, 2024<br>
-                Credit: [Alvin Green Jr. Photography](https://www.instagram.com/algreenjr1 "@algreenjr1 on Instagram"){ target=_blank } :octicons-link-external-24:
+                HR, AoA vs. Rat City, October, 2023<br>
+                Credit: [Jonathan Works Photography](https://www.facebook.com/worksphoto "worksphoto on Facebook"){ target=_blank } :octicons-link-external-24:
             </figcaption>
         </figure>
 
@@ -148,7 +148,7 @@ Positional preference
         TODO 2
 
         <figure markdown>
-            ![Jammer Referee, Ground Control vs. Y'allhalla, May, 2024 - Credit: Alvin Green Jr. Photography (@algreenjr1 on Instagram)](images/breadpool_ground_control_vs_yallhalla_5_11_24.png){ width="350" style="filter: drop-shadow(0 0 0.2rem black)" }
+        ![Jammer Referee, Ground Control vs. Y'allhalla, May, 2024 - Credit: Alvin Green Jr. Photography (@algreenjr1 on Instagram)](images/breadpool_jr_ground_control_vs_yallhalla_5_11_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
             <figcaption style="font-size: 12px">
                 JR, Ground Control vs. Y'allhalla, May, 2024<br>
                 Credit: [Alvin Green Jr. Photography](https://www.instagram.com/algreenjr1 "@algreenjr1 on Instagram"){ target=_blank } :octicons-link-external-24:
@@ -162,10 +162,10 @@ Positional preference
         TODO 1
 
         <figure markdown>
-            ![Jammer Referee, Ground Control vs. Y'allhalla, May, 2024 - Credit: Alvin Green Jr. Photography (@algreenjr1 on Instagram)](images/breadpool_ground_control_vs_yallhalla_5_11_24.png){ width="350" style="filter: drop-shadow(0 0 0.2rem black)" }
+        ![Inside Pack Referee, RCR Home Team Champs, June, 2024 - Credit: Jonathan Works Photography (worksphoto on Facebook)](images/breadpool_ipr_rcr_champs_6_8_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
             <figcaption style="font-size: 12px">
-                JR, Ground Control vs. Y'allhalla, May, 2024<br>
-                Credit: [Alvin Green Jr. Photography](https://www.instagram.com/algreenjr1 "@algreenjr1 on Instagram"){ target=_blank } :octicons-link-external-24:
+                IPR, RCR Home Team Champs, June, 2024<br>
+                Credit: [Jonathan Works Photography](https://www.facebook.com/worksphoto "worksphoto on Facebook"){ target=_blank } :octicons-link-external-24:
             </figcaption>
         </figure>
 
@@ -174,9 +174,9 @@ Positional preference
         TODO 2
 
         <figure markdown>
-            ![Jammer Referee, Ground Control vs. Y'allhalla, May, 2024 - Credit: Alvin Green Jr. Photography (@algreenjr1 on Instagram)](images/breadpool_ground_control_vs_yallhalla_5_11_24.png){ width="350" style="filter: drop-shadow(0 0 0.2rem black)" }
+        ![Inside Pack Referee, Colorado Chaos, JRDA Sanctioned, May, 2024 - Credit: Alvin Green Jr. Photography (@algreenjr1 on Instagram)](images/breadpool_ipr_colorado_chaos_5_10_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
             <figcaption style="font-size: 12px">
-                JR, Ground Control vs. Y'allhalla, May, 2024<br>
+                IPR, Colorado Chaos, JRDA Sanctioned Game, May, 2024<br>
                 Credit: [Alvin Green Jr. Photography](https://www.instagram.com/algreenjr1 "@algreenjr1 on Instagram"){ target=_blank } :octicons-link-external-24:
             </figcaption>
         </figure>
@@ -194,7 +194,7 @@ Positional preference
     - **I want people with physical disabilities to see me as an example that's it’s possible for them to experience the joy and fulfillment from strenuous sports and activities.**
 
     <figure markdown>
-        ![Outside Pack Referee, RCR GNR vs. Texas Hustlers, November, 2023 - Credit: Jonathan Works Photography (worksphoto on Facebook)](images/breadpool_opr_gnr_vs_tx_11_18_23.png){ width="350" style="filter: drop-shadow(0 0 0.2rem black)" }
+    ![Outside Pack Referee, RCR GNR vs. Texas Hustlers, November, 2023 - Credit: Jonathan Works Photography (worksphoto on Facebook)](images/breadpool_opr_gnr_vs_tx_11_18_23.png){ width="350" style="filter: drop-shadow(0 0 0.2rem black)" }
         <figcaption style="font-size: 12px">
             OPR, RCR GNR vs. Texas Hustlers, November, 2023<br>
             Credit: [Jonathan Works Photography](https://www.facebook.com/worksphoto "worksphoto on Facebook"){ target=_blank } :octicons-link-external-24:
@@ -206,6 +206,14 @@ Positional preference
     I've loved competitive athletics my whole life.  I lost the ability to compete
 
     Todo - I train to officiate like a competitor, like I have to be the best, like good is the enemy of great.
+
+    <figure markdown>
+    ![Inside Pack Referee, RCR Home Team Champs, June, 2024 - Credit: Divo](images/breadpool_ipr_rcr_champs_2_6_8_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
+        <figcaption style="font-size: 12px">
+            IPR, RCR Home Team Champs, June, 2024<br>
+            Credit: Divo
+        </figcaption>
+    </figure>
 
 ---
 
@@ -224,6 +232,14 @@ Positional preference
     - U.S. Army recreational flag football.
     - BJJ tournaments at the local, regional, and international levels.
 
+    <figure markdown>
+    ![Referee, The Revolution 52, Puyallup, WA, July 2024 - Credit: Jason Tracy Photography (@pnwphotoj on Instagram)](images/breadpool_ref_rev_52_6_20_24.png){ width="350" style="filter: drop-shadow(0 0 0.2rem black)" }
+        <figcaption style="font-size: 12px">
+            Referee, The Revolution 52, Puyallup, WA, July 2024<br>
+            Credit: [Jason Tracy Photography](https://www.instagram.com/pnwphotoj "@pnwphotoj on Instagram"){ target=_blank } :octicons-link-external-24:
+        </figcaption>
+    </figure>
+
 === "Derby Officiating"
 
     I began my derby officiating journey in August of 2022, although somewhat by accident.  My daughter was new to the roller derby community and wanted to spend more time on skates than was available to her in practices and scrimmages.  She decided to start attending officiating practice and asked that I join her so she wouldn't feel alone.
@@ -231,6 +247,14 @@ Positional preference
     I wanted to support my daughter and the roller derby community, and having skated and officiated in different capacities for the majority of my life, I felt comfortable giving roller derby officiating a shot.  I had no idea that I would leave that practice feeling like officiating roller derby was *the* thing I was meant to do.
     
     Since that day, I've poured my heart and soul into becoming a better official, believing I can serve people, many of whom live within social margins, in a way that allows them to live safer, more fulfilling lives.
+
+    <figure markdown>
+    ![Jammer Referee, Ground Control vs. Y'allhalla, May, 2024 - Credit: Alvin Green Jr. Photography (@algreenjr1 on Instagram)](images/breadpool_jr_ground_control_vs_yallhalla_5_12_24.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
+        <figcaption style="font-size: 12px">
+            JR, Ground Control vs. Y'allhalla, May, 2024<br>
+            Credit: [Alvin Green Jr. Photography](https://www.instagram.com/algreenjr1 "@algreenjr1 on Instagram"){ target=_blank } :octicons-link-external-24:
+        </figcaption>
+    </figure>
 
 ---
 
@@ -316,5 +340,13 @@ I believe the best officiating happens when a crew behaves like a selfless, supp
 I believe the events of my life prepared me for this opportunity, for this moment.  The intersection of my choices, my experiences, my successes, my failures, my dreams, and my life's purpose combined to make this the one thing I've wanted so badly that I've poured my entire life into having the chance.
 
 Thank you for the opportunity to apply and for considering my application.
+
+<figure markdown>
+![Outside Pack Referee, Franky Panky JRDA Sanctioned, March, 2024 - Credit: Keith Ridge Derby Photos (keithridgederbyphotos on Facebook)](images/breadpool_opr_franky_panky_jrda_sanctioned_3_8_24.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
+    <figcaption style="font-size: 12px">
+        OPR, Franky Panky JRDA Sanctioned, March, 2024<br>
+        Credit: [Keith Ridge Derby Photos](https://www.facebook.com/keithridgederbyphotos "keithridgederbyphotos on Facebook"){ target=_blank } :octicons-link-external-24:
+    </figcaption>
+</figure>
 
 ---
