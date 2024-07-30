@@ -2,7 +2,7 @@
 
 !!! warning "Anti-Cheating Statement"
 
-    All changes to content on this site include date and time stamps to prove the application is complete before the due date.  You may [click here](https://github.com/timothyhull/breadpool-champs-app/commits/gh-pages "GitHub Changelog") to review the complete change history.(1)
+    All changes to content on this site include date and time stamps to prove the application is complete before the due date.  You may [click here](https://github.com/timothyhull/breadpool-champs-app/commits/gh-pages "GitHub.io Changelog") to review the complete build history for this site, and [click here](https://github.com/timothyhull/breadpool-champs-app/commits "GitHub.com Changelog") to review the complete source code history.(1)
     { .annotate }
 
     1.  !!! magnifying-glass "Reveal Date and Time Stamp Details"
@@ -35,12 +35,13 @@
 
     ??? numbers "My Application By The Numbers (click to expand)"
 
-        - **229** - number of games officiated in the previous two years.
-        - **134** - number of games officiated in the previous year.
-        - **60+** - number of hours I spent preparing this application.
-        - **18** - number of events officiated in the previous year.
-        - **16** - number of out-of-state trips to officiate derby in the previous year.
-        - **0** - number of things I've ever wanted more than this.
+        - **229** - games officiated in the previous two years.
+        - **134** - games officiated in the previous year.
+        - **100+** - hours at a PT's office since 9/19/2023 to be ready to submit this application.
+        - **50+** - hours I spent preparing this application.
+        - **18** - events officiated in the previous year.
+        - **16** - out-of-state trips to officiate derby in the previous year.
+        - **0** - regrets for all of my work and sacrifice to be ready for this moment.
 
     <figure markdown>
     ![Breadpool (Timothy Hull) - Credit: Mckay Grundstein-Helvey (@mgh2pdx on Instagram)](images/breadpool_headshot.png){ width="300" "style="filter: drop-shadow(0 0 0.2rem black)" }
@@ -121,7 +122,7 @@ I train to officiate like a competitor, like I have to be the best, like good is
 
 ## Officiating Positioning Methodology
 
-??? info "OPR"
+??? bread "OPR"
 
     TODO
 
@@ -137,11 +138,11 @@ I train to officiate like a competitor, like I have to be the best, like good is
 
         TODO 3
 
-??? info "JR"
+??? bread "JR"
 
     TODO
 
-??? info "IPR"
+??? bread "IPR"
 
     TODO
 
