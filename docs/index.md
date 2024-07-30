@@ -118,9 +118,8 @@ Please click to expand the sections below for detailed information about what yo
     - Clear, slow, and slightly prolonged whistle blasts to help my peer officials in SO and NSO roles understand where and when to turn their attention.
     - Highly-visible, deliberately slow, and consistently repeated verbal and visual cues to help my peer officials in SO and NSO roles understand exactly what I am observing and reporting.
     - Maintaining observation of players before, during, and after each jam to ensure any potential contact or communication between teams has coverage.
-    - Aware of actions that constitute complete and incomplete star passes.
-    - Dynamic skating, rapid acceleration and deceleration, lateral movement, etc.
-
+    - Understanding and applying WFTDA rules in keeping with established rules theory and the appropriate situational discretion and judgment to facilitate safe and fair gameplay.
+    - Behaviors that show inclusiveness, courtesy, support, respect, and validation to NSOs.
 
 ??? whistle "OPR-Specific"
 
@@ -133,6 +132,7 @@ Please click to expand the sections below for detailed information about what yo
         - Awareness of earned passes within my zone, to support the JR's on my crew with accurate points reporting.
         - Frequently communicating with my OPR peers to ensure our collective positioning and ability to observe game actions is optimal.
         - Non-verbal communication with players (pointing) reporting to and returning from the penalty box to help ensure they enter and exit the track safely.
+        - Lateral movement that allows me to predominantly face my entire body toward the pack, giving me the best possible view of the pack and allowing me to rapidly accelerate and decelerate in any direction, at any time.
 
         <figure markdown>
         ![Outside Pack Referee, WFTDA NA West Playoffs, June, 2024 - Credit: ShutHerUp Photography (ShutHerUpPhotography on Facebook)](images/breadpool_opr_na_west_playoffs_6_24.png){ width="250" style="filter: drop-shadow(0 0 0.2rem black)" }
@@ -175,27 +175,40 @@ Please click to expand the sections below for detailed information about what yo
 
 ??? whistle "JR"
 
-    === "Positioning Methodology"
+        === "What I Bring To A Crew"
 
-        TODO 1
+        As a JR, you can expect me to consistently exhibit and excel at:
 
-        <figure markdown>
-        ![Jammer Referee, AoA vs. Rat City, October, 2023 - Credit: Jonathan Works Photography (worksphoto on Facebook)](images/breadpool_jr_aoa_vs_rat_city_10_7_2023.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
-            <figcaption style="font-size: 12px">
-                HR, AoA vs. Rat City, October, 2023<br>
-                Credit: [Jonathan Works Photography](https://www.facebook.com/worksphoto "worksphoto on Facebook"){ target=_blank } :octicons-link-external-24:
-            </figcaption>
-        </figure>
-
-    === "What I Bring To A Crew"
-
-        TODO 2
+        - Keeping eyes on my jammer at *all* times to ensure nothing they do goes unobserved.
+        - Clear, kind, and supportive communication with my SK, before, during, and after each game.
+        - Awareness of potential NOTT points and understanding of when a jammer earns and does not earn those points.
+        - Timely and accurate tracking and recall, by player, of earned passes, points, superior position, and positional gain.
+        - Confident points reporting immediately after a jam ends (after the fourth whistle, not the twelfth whistle).
+        - Continuous monitoring of the relationship between what I report to my SK and the information on the scoreboard.
+        - Awareness of the space I occupy, how my position impacts my peer JR, and the ability to adapt to support fluid, dynamic movement with my peer JR throughout a tournament.
+        - Anticipating situations that may result in a star pass that is difficult to see.
+        - Lateral movement that allows me to predominantly face my entire body toward my jammer, giving me the best possible view of my jammer and allowing me to rapidly accelerate and decelerate in any direction, at any time.
+        - Precision responsiveness to jammer call-offs.
 
         <figure markdown>
         ![Jammer Referee, Ground Control vs. Y'allhalla, May, 2024 - Credit: Alvin Green Jr. Photography (@algreenjr1 on Instagram)](images/breadpool_jr_ground_control_vs_yallhalla_5_11_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
             <figcaption style="font-size: 12px">
                 JR, Ground Control vs. Y'allhalla, May, 2024<br>
                 Credit: [Alvin Green Jr. Photography](https://www.instagram.com/algreenjr1 "@algreenjr1 on Instagram"){ target=_blank } :octicons-link-external-24:
+            </figcaption>
+        </figure>
+
+    === "Positioning Methodology"
+
+        - Before each jam, I identify my jammer and align myself with their position, making sure I can observe their actions before and after the jam starting whistle.
+        - Precise alignment with my jammer throughout the duration of each jam in a way that allows me to continuously and accurately observe my jammer's position relative to other players.
+        - Frequent use of wheel stopping techniques (hockey stops, power slides, etc.) to keep alignment with my jammer as they dynamically move within the pack and throughout the track.
+
+        <figure markdown>
+        ![Jammer Referee, AoA vs. Rat City, October, 2023 - Credit: Jonathan Works Photography (worksphoto on Facebook)](images/breadpool_jr_aoa_vs_rat_city_10_7_2023.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
+            <figcaption style="font-size: 12px">
+                HR, AoA vs. Rat City, October, 2023<br>
+                Credit: [Jonathan Works Photography](https://www.facebook.com/worksphoto "worksphoto on Facebook"){ target=_blank } :octicons-link-external-24:
             </figcaption>
         </figure>
 
