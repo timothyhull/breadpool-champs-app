@@ -218,7 +218,7 @@ Please click to expand the sections below for detailed information about what yo
 
     === "What I Bring To A Crew"
 
-        As IPR (front or rear), you can expect me to consistently exhibit and excel at:
+        As IPR, front or rear, you can expect me to consistently exhibit and excel at:
 
         - Comfort and confidence working from the front or rear IPR positions, depending on the position preference of my HR/CHR.
         - Ability to define and track pack location plus adapt to the to the pack definition metrics of my peer IPR.
@@ -272,7 +272,14 @@ Please click to expand the sections below for detailed information about what yo
 
     === "What I Bring To A Crew"
 
-        TODO 2
+        I take the ALTR role very seriously and seek opportunities to serve as an ALTR.  You can expect me to volunteer to serve as an ALTR with enthusiasm, engagement, and a focus on helping my officiating peers excel. As an ALTR, you can expect me to consistently exhibit and excel at:
+
+        - Preparing myself physically before a game such that I could be activated at any moment of need, and maintaining that physical readiness throughout a game.
+        - Maintaining situational awareness of game action so I am ready to enter a game or provide relevant feedback at any moment.
+        - Readiness for activation to any position.
+        - Readiness to provide individual or crew feedback at the request of the HR/CHR.
+        - Understanding how to accurately record essential OR information.
+        - Readiness to report game summary information (team/or penalty counts, number of timeouts remaining, etc.) to the HR/CHR at their request.
 
         <figure markdown>
         ![Alternate Referee, RCR Home Team Champs, June, 2024 - Credit: Divo](images/breadpool_altr_rcr_champs_6_8_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
