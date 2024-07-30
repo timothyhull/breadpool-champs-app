@@ -71,22 +71,6 @@
         </figcaption>
     </figure>
 
-=== "Inspiration"
-
-    - I seek to inspire people who have physical disabilities, just like me, to do more than they or perhaps the world believes they are capable of.
-    - I am a physically disabled U.S. Army veteran, and I believe I fit within the category of people with hidden disabilities.
-    - When serve in an SO role, nobody sees me and thinks I’m disabled, guesses I have an extensive injury history that includes 20 x surgeries, or has any idea how much daily work I do to physically function, gear up and skate, and excel at high-intensity physical activities.
-    - Intense rehabilitation to recover from injuries is my superpower. For example, I served as an SO less than two weeks after a total hip replacement last year because I spent hours and hours each day rehabilitating, strengthening, and specifically training to be ready to skate.
-    - **I want people with physical disabilities to see me as an example that's it’s possible for them to experience the joy and fulfillment from strenuous sports and activities.**
-
-    <figure markdown>
-        ![Outside Pack Referee, RCR GNR vs. Texas Hustlers, November, 2023 - Credit: Jonathan Works Photography (worksphoto on Facebook)](images/breadpool_opr_gnr_vs_tx_11_18_23.png){ width="350" style="filter: drop-shadow(0 0 0.2rem black)"}
-        <figcaption style="font-size: 12px">
-            OPR, RCR GNR vs. Texas Hustlers, November, 2023<br>
-            Credit: [Jonathan Works Photography](https://www.facebook.com/worksphoto "worksphoto on Facebook"){ target=_blank } :octicons-link-external-24:
-        </figcaption>
-    </figure>
-
 === "WFTDA Certification"
 
     I am not a WFTDA-certified official at this time.  However, achieving SO and NSO certification is very important to me.  For me, becoming a certified official and continuously seeking higher-level certification is symbolic of:
@@ -112,47 +96,67 @@
 
 ---
 
-## My Goals - TODO
+## What I'm Applying For
 
-I seek the opportunity to serve as an OPR, JR, or IPR.  I have more experience serving as an OPR or JR than I do as an IPR, although no matter which role I serve...
+TODO - summary of positions I'm applying for
 
-I train to officiate like a competitor, like I have to be the best, like good is the enemy of great.
-
----
-
-## Officiating Positioning Methodology
+Positional preference
 
 ??? bread "OPR"
 
-    TODO
-
-    === "Rear"
+    === "Positioning Methodology"
 
         TODO 1
 
-    === "Middle"
+    === "What I Bring To A Crew"
 
         TODO 2
-
-    === "Front"
-
-        TODO 3
 
 ??? bread "JR"
 
-    TODO
-
-??? bread "IPR"
-
-    TODO
-
-    === "Rear"
+    === "Positioning Methodology"
 
         TODO 1
 
-    === "Front"
+    === "What I Bring To A Crew"
 
         TODO 2
+
+??? bread "IPR"
+
+    === "Positioning Methodology"
+
+        TODO 1
+
+    === "What I Bring To A Crew"
+
+        TODO 2
+
+---
+
+## What This Means To Me
+
+=== "Inspiration"
+
+    - I seek to inspire people who have physical disabilities, just like me, to do more than they or perhaps the world believes they are capable of.
+    - I am a physically disabled U.S. Army veteran, and I believe I fit within the category of people with hidden disabilities.
+    - When serve in an SO role, nobody sees me and thinks I’m disabled, guesses I have an extensive injury history that includes 20 x surgeries, or has any idea how much daily work I do to physically function, gear up and skate, and excel at high-intensity physical activities.
+    - Intense rehabilitation to recover from injuries is my superpower. For example, I served as an SO less than two weeks after a total hip replacement last year because I spent hours and hours each day rehabilitating, strengthening, and specifically training to be ready to skate.
+    - **I want people with physical disabilities to see me as an example that's it’s possible for them to experience the joy and fulfillment from strenuous sports and activities.**
+
+    <figure markdown>
+        ![Outside Pack Referee, RCR GNR vs. Texas Hustlers, November, 2023 - Credit: Jonathan Works Photography (worksphoto on Facebook)](images/breadpool_opr_gnr_vs_tx_11_18_23.png){ width="350" style="filter: drop-shadow(0 0 0.2rem black)"}
+        <figcaption style="font-size: 12px">
+            OPR, RCR GNR vs. Texas Hustlers, November, 2023<br>
+            Credit: [Jonathan Works Photography](https://www.facebook.com/worksphoto "worksphoto on Facebook"){ target=_blank } :octicons-link-external-24:
+        </figcaption>
+    </figure>
+
+=== "Hope"
+
+    - I've loved competitive athletics my whole life.  I lost the ability to compete
+
+TODO - I train to officiate like a competitor, like I have to be the best, like good is the enemy of great.
 
 ---
 
