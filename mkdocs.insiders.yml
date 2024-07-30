@@ -10,7 +10,7 @@ theme:
   features:
     - content.code.annotate  # Insiders
     - content.footnote.tooltips  # Insiders
-    - content.tabs.link  # Insiders
+    # - content.tabs.link  # Insiders
     - content.tooltips  # Insiders
     - navigation.expand
     - navigation.footer
