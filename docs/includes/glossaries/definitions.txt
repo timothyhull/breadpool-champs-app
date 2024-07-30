@@ -27,6 +27,7 @@
 *[PBM]: Penalty Box Manager
 *[PBT]: Penalty Box Timer
 *[PLT]: Penalty Lineup Tracker
+*[PT]: Physical Therapy
 *[RCR]: Rose City Rollers
 *[SBO]: Scoreboard Operator
 *[SK]: Scorekeeper
