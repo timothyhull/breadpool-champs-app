@@ -80,7 +80,7 @@ Below are links to some of my recent officiating experiences for various game si
 
 ## Video Example #4
 
-??? video "Use of Slow, Clear, and Visible Hand Signals :material-cursor-default-click:"
+??? video "Use of Slow, Clear, and Visible Hand Signals #1 :material-cursor-default-click:"
 
     === "Overview :material-cursor-default-click:"
 
@@ -135,7 +135,7 @@ Below are links to some of my recent officiating experiences for various game si
 
 ## Video Example #6
 
-??? video "Use of Discretion and Judgment to Make a No-Call :material-cursor-default-click:"
+??? video "Use of Discretion and Judgment to Make a No-Call #1 :material-cursor-default-click:"
 
     === "Overview :material-cursor-default-click:"
 
@@ -351,7 +351,7 @@ Below are links to some of my recent officiating experiences for various game si
 
 ## Video Example #14
 
-??? video "Use of Slow, Clear, and Visible Hand Signals (Second Example) :material-cursor-default-click:"
+??? video "Use of Slow, Clear, and Visible Hand Signals #2 :material-cursor-default-click:"
 
     === "Overview :material-cursor-default-click:"
 
@@ -372,6 +372,35 @@ Below are links to some of my recent officiating experiences for various game si
     </center>
     <center>
         <br>[https://youtu.be/BgDs6dRxRRs?t=1653 :octicons-link-external-24:](https://youtu.be/BgDs6dRxRRs?t=1653){ target=_blank }
+    </center>
+
+---
+
+## Video Example #15
+
+??? video "Use of Discretion and Judgment to Make a No-Call #2 :material-cursor-default-click:"
+
+    === "Overview :material-cursor-default-click:"
+
+        - At the 16:19 mark of this video, while serving as rear OPR, I observe White #422 initiate a block that causes Purple #117 to step the right-front wheel of their right skate OOB.
+        - I monitor Purple #117's next actions and determine they cut White #422 by immediately returning to an in-bounds and upright position in front of White #422.
+        - The jam ends as I'm raising my arms to issue Purple #117 a cut penalty.
+
+    === "Outcome :material-cursor-default-click:"
+    
+        - I do not issue a penalty to Purple #117 under the basis that the jam ends before I could be 100% sure they were not taking action to cede the cut.
+
+    === "Importance :material-cursor-default-click:"
+
+        - This video demonstrates the process I use each time I observe action that may warrant a penalty, in addition to assessing game impact, making a mental note of which players took which actions, etc.
+        - Each time I observe action that may warrant a penalty, I try to find any rules-supported reason that will allow me to *not* penalize a player.
+        - Although this strategy isn't perfect and sometimes results in me failing to issue a penalty that I should issue, I take the act of penalizing and removing a player from the track seriously, and I would rather mistakenly leave a player on the track than erroneously send them to the penalty box and potentially impact the competitive balance of a game.
+
+    <center>
+        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/BgDs6dRxRRs?start=976" title="https://youtu.be/BgDs6dRxRRs?t=976" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </center>
+    <center>
+        <br>[https://youtu.be/BgDs6dRxRRs?t=976 :octicons-link-external-24:](https://youtu.be/BgDs6dRxRRs?t=976){ target=_blank }
     </center>
 
 ---
