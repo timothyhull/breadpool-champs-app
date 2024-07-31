@@ -514,3 +514,32 @@ Below are links to some of my recent officiating experiences for various game si
     </center>
 
 ---
+
+## Video Example #19
+
+??? video "Attention to Details to Avoid Issuing a Penalty :material-cursor-default-click:"
+
+    === "Overview :material-cursor-default-click:"
+
+        - At the 4:32 mark of this video, while serving as rear OPR, I observed Purple #48 initiate a block on White #42 using a legal blocking zone on a legal target zone.
+        - The block causes White #42 to fall on top of Purple #88 who is seemingly in a down position.
+        - I blow my whistle to issue a misconduct penalty to Purple #48 for blocking White #42 into a downed player (Purple #88).
+
+    === "Outcome :material-cursor-default-click:"
+    
+        - Although I blew my whistle inadvertently, I observed that Purple #88 met the criteria for "upright" at the time White #42 makes contact with them (as a result of Purple #48's block).
+        - I used a non-standard hand signal (hand waive) to indicate I have no penalty to issue/report.
+
+    === "Importance :material-cursor-default-click:"
+
+        - The way I positioned myself allowed me to observe specific details I needed to avoid issuing a penalty, even though the contact had the visual appearance of potentially warranting a penalty.
+        - This video demonstrates the close attention I pay to the details of game actions and how the results of those actions should be interpreted by the WFTDA rules.
+
+    <center>
+        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/BgDs6dRxRRs?start=270" title="https://youtu.be/BgDs6dRxRRs?t=270" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </center>
+    <center>
+        <br>[https://youtu.be/BgDs6dRxRRs?t=270 :octicons-link-external-24:](https://youtu.be/BgDs6dRxRRs?t=2235){ target=_blank }
+    </center>
+
+---
