@@ -377,3 +377,32 @@ Below are links to some of my recent officiating experiences for various game si
     <center>
         <br>[https://youtu.be/qx-EYWrAn5k?&t=2211 :octicons-link-external-24:](https://youtu.be/qx-EYWrAn5k?&t=2211){ target=_blank }
     </center>
+
+---
+
+## Video Example #15
+
+??? video "Use of Slow, Clear, and Visible Hand Signals (Second Example) :material-cursor-default-click:"
+
+    === "Overview :material-cursor-default-click:"
+
+        - At the 27:41 mark of this video, while serving as rear OPR, I observe Purple #07 initiate forceful contact to the head of White #215, and decide to penalize Purple #07 for a high block.
+        - I use deliberately, a slow and clear and visual cue to ensure my peer officials are aware of the penalized action.
+
+    === "Outcome :material-cursor-default-click:"
+    
+        - In the course of issuing the penalty to Purple #07, several blockers skate in non-derby direction.  I make a rapid movement to accelerate laterally in non-derby direction before coming to a sharp stop in alignment with the blockers reforming rear wall.
+        - Even though I had to maneuver my body rapidly, I completed the motion of the high block verbal cue while maneuvering myself.
+
+    === "Importance :material-cursor-default-click:"
+
+        - I believe this video demonstrates I have the skating skills, game awareness, and specific practice in the OPR role to successfully perform several actions at once, which improves my ability to effectively officiate and support my peers.
+
+    <center>
+        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/BgDs6dRxRRs?start=1653" title="https://youtu.be/BgDs6dRxRRs?t=1653" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </center>
+    <center>
+        <br>[https://youtu.be/BgDs6dRxRRs?t=1653 :octicons-link-external-24:](https://youtu.be/BgDs6dRxRRs?t=1653){ target=_blank }
+    </center>
+
+---
