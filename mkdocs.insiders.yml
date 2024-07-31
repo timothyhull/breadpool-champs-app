@@ -10,17 +10,18 @@ theme:
   features:
     - content.code.annotate  # Insiders
     - content.footnote.tooltips  # Insiders
-    - content.tabs.link  # Insiders
+    # - content.tabs.link  # Insiders
     - content.tooltips  # Insiders
     - navigation.expand
     - navigation.footer
+    - navigation.indexes
     - navigation.instant
     - navigation.instant.prefetch
     - navigation.instant.progress
     - navigation.path
     - navigation.sections
-    - navigation.tabs
-    - navigation.tabs.sticky
+    # - navigation.tabs
+    # - navigation.tabs.sticky
     - navigation.top
     - navigation.tracking
     - search.highlight
@@ -63,5 +64,7 @@ plugins:
   - git-revision-date-localized:
       enable_creation_date: true
       type: timeago
+  - glightbox:
+      auto_caption: true
   - search
   - offline  # Insiders

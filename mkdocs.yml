@@ -5,6 +5,8 @@ site_name: Breadpool's 2024 WFTDA Global Championship Officiating Application
 site_url: https://timothyhull.github.io/breadpool-champs-app
 nav:
   - Officiating Application: index.md
+  - Game Video Clips: game_video_clips.md
+  - Evaluation History: evaluations.md
 
 # Repository information
 edit_uri: ""
@@ -20,58 +22,31 @@ theme:
     admonition:
       example: material/format-list-numbered
     repo: fontawesome/brands/github
-  # Features - relocated to mkdocs.insiders.yml
+  # Features
   # features:
-  #   - navigation.expand
-  #   - navigation.instant
-  #   - navigation.sections
-  #   - navigation.tabs
-  #   - navigation.tabs.sticky
-  #   - navigation.top
-  #   - navigation.tracking
-  #   - search.highlight
-  #   - search.share
-  #   - search.suggest
-  #   - toc.integrate
+  # - relocated to mkdocs.insiders.yml
   font:
     text: Roboto
     code: Roboto Mono
   language: en
   logo: logos/breadpool.png
-  # Color palette - relocated to mkdocs.insiders.yml
+  # Color palette
   # palette:
-  #   # Palette toggle for light mode
-  #   - media: "(prefers-color-scheme: light)"
-  #     scheme: default
-  #     primary: indigo
-  #     accent: red
-  #     toggle:
-  #       icon: material/toggle-switch-off-outline
-  #       name: Switch to dark mode
-
-  #   # Palette toggle for dark mode
-  #   - media: "(prefers-color-scheme: dark)"
-  #     scheme: slate
-  #     primary: red
-  #     accent: light blue
-  #     toggle:
-  #       icon: material/toggle-switch
-  #       name: Switch to light mode
+  # - relocated to mkdocs.insiders.yml
+  # Shortcut keys
   shortcuts:
     help: 191     # ? key
     next: 78      # n key
     previous: 80  # p key
     search: 83    # s key
 
-# Plugins - relocated to mkdocs.insiders.yml
+# Plugins
 # plugins:
-#   - git-revision-date-localized:
-#       type: timeago
-#   - search
+#   - relocated to mkdocs.insiders.yml
 
 # Custom CSS
-# extra_css:
-# - stylesheets/admonitions.css
+extra_css:
+  - stylesheets/admonitions.css
 # - stylesheets/icons.css
 
 # Markdown extensions
@@ -95,7 +70,7 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.snippets:
       auto_append:
-        - docs/includes/definitions.txt
+        - docs/includes/glossaries/definitions.txt
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid

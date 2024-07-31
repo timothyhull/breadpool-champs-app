@@ -22,11 +22,21 @@ MD004: false                  # Unordered list style
 MD007:
   indent: 2                   # Unordered list indentation
 MD013:
-  line_length: 400            # Line length 80 is far too short
+  line_length: 1000           # Line length 80 is far too short
 MD026:
   punctuation: ".,;:!。，；:"  # List of not allowed
 MD029: false                  # Ordered list item prefix
-MD033: false                  # Allow inline HTML
+
+#####################
+# Allowed HTML tags #
+#####################
+MD033:
+  allowed_elements:
+    - br
+    - div
+    - figcaption
+    - figure
+
 MD036: false                  # Emphasis used instead of a heading
 
 #################

@@ -9,7 +9,7 @@ mkdocs
 mkdocs-material
 mkdocs-git-committers-plugin-2
 mkdocs-git-revision-date-localized-plugin
-mkdocs-print-site-plugin
+mkdocs-glightbox
 
 # Material for MkDocs Insiders features installed separately
 ## Installed automatically by "scripts/install-mkdocs-material-insiders.sh"
