@@ -4,13 +4,13 @@
 ![Breadpool (Timothy Hull) - Credit: Mckay Grundstein-Helvey (@mgh2pdx on Instagram)](images/breadpool_headshot.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
     <figcaption style="font-size: 12px">
         Breadpool (Timothy Hull)<br>
-        Credit: [Mckay Grundstein-Helvey](https://www.instagram.com/mgh2pdx "@mgh2pdx on Instagram"){ target=_blank } :octicons-link-external-24:
+        Credit: [Mckay Grundstein-Helvey :octicons-link-external-24:](https://www.instagram.com/mgh2pdx "@mgh2pdx on Instagram"){ target=_blank }
     </figcaption>
 </figure>
 
 !!! warning "Anti-Cheating Statement"
 
-    All changes to content on this site include date and time stamps to prove the application is complete before the due date.  You may [click here](https://github.com/timothyhull/breadpool-champs-app/commits/gh-pages "GitHub.io Changelog") to review the complete build history for this site, and [click here](https://github.com/timothyhull/breadpool-champs-app/commits "GitHub.com Changelog") to review the complete source code history.(1)
+    All changes to content on this site include date and time stamps to prove the application is complete before the due date.  You may [click here :octicons-link-external-24:](https://github.com/timothyhull/breadpool-champs-app/commits/gh-pages "GitHub.io Changelog"){ target=_blank } to review the complete build history for this site, and [click here :octicons-link-external-24:](https://github.com/timothyhull/breadpool-champs-app/commits "GitHub.com Changelog"){ target=_blank } to review the complete source code history.(1)
     { .annotate }
 
     1.  !!! magnifying-glass "View Date and Time Stamp Details"
@@ -54,7 +54,7 @@
     ![Jammer Referee, Franky Panky, New Jax vs. Red Stick, March, 2024 - Credit: Keith Ridge Derby Photos (keithridgederbyphotos on Facebook)](images/breadpool_opr_franky_panky_tampa_vs_dub_city_3_8_24.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
         <figcaption style="font-size: 12px">
             JR, Franky Panky, New Jax vs. Red Stick, March, 2024<br>
-            Credit: [Keith Ridge Derby Photos](https://www.facebook.com/keithridgederbyphotos "keithridgederbyphotos on Facebook"){ target=_blank } :octicons-link-external-24:
+            Credit: [Keith Ridge Derby Photos :octicons-link-external-24:](https://www.facebook.com/keithridgederbyphotos "keithridgederbyphotos on Facebook"){ target=_blank }
         </figcaption>
     </figure>
 
@@ -74,7 +74,7 @@
     ![Jammer Referee, 187 Killer Pads vs. Triple 8, RollerCon 2024 - Credit: WiK's Pic (@wick2o on Instagram)](images/breadpool_jr_187_vs_triple_8_7_12_24.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
         <figcaption style="font-size: 12px">
             JR, 187 Killer Pads vs. Triple 8, RollerCon 2024<br>
-            Credit: [WiK's Pics](https://www.instagram.com/wick2o "@wick2o on Instagram"){ target=_blank } :octicons-link-external-24:
+            Credit: [WiK's Pics :octicons-link-external-24:](https://www.instagram.com/wick2o "@wick2o on Instagram"){ target=_blank }
         </figcaption>
     </figure>
 
@@ -97,7 +97,7 @@
     ![Jam Timer, Female Division JRDA Playoffs: Santa Cruz, June, 2024 - Credit: Mckay Grundstein-Helvey (@mgh2pdx on Instagram)](images/breadpool_jt_jrda_f_playoffs_6_23_24.png){ width="350" style="filter: drop-shadow(0 0 0.2rem black)" }
         <figcaption style="font-size: 12px">
             JT, Female Division JRDA Playoffs: Santa Cruz, June, 2024 (Timothy Hull)<br>
-            Credit: [Mckay Grundstein-Helvey](https://www.instagram.com/mgh2pdx "@mgh2pdx on Instagram"){ target=_blank } :octicons-link-external-24:
+            Credit: [Mckay Grundstein-Helvey :octicons-link-external-24:](https://www.instagram.com/mgh2pdx "@mgh2pdx on Instagram"){ target=_blank }
         </figcaption>
     </figure>
 
@@ -129,7 +129,7 @@
         ![Referee, The Revolution 52, Puyallup, WA, July 2024 - Credit: Jason Tracy Photography (@pnwphotoj on Instagram)](images/breadpool_ref_rev_52_6_20_24.png){ width="350" style="filter: drop-shadow(0 0 0.2rem black)" }
             <figcaption style="font-size: 12px">
                 Referee, The Revolution 52, Puyallup, WA, July 2024<br>
-                Credit: [Jason Tracy Photography](https://www.instagram.com/pnwphotoj "@pnwphotoj on Instagram"){ target=_blank } :octicons-link-external-24:
+                Credit: [Jason Tracy Photography :octicons-link-external-24:](https://www.instagram.com/pnwphotoj "@pnwphotoj on Instagram"){ target=_blank }
             </figcaption>
         </figure>
 
@@ -153,7 +153,7 @@
         ![Jammer Referee, Ground Control vs. Y'allhalla, May, 2024 - Credit: Alvin Green Jr. Photography (@algreenjr1 on Instagram)](images/breadpool_jr_ground_control_vs_yallhalla_5_12_24.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
             <figcaption style="font-size: 12px">
                 JR, Ground Control vs. Y'allhalla, May, 2024<br>
-                Credit: [Alvin Green Jr. Photography](https://www.instagram.com/algreenjr1 "@algreenjr1 on Instagram"){ target=_blank } :octicons-link-external-24:
+                Credit: [Alvin Green Jr. Photography :octicons-link-external-24:](https://www.instagram.com/algreenjr1 "@algreenjr1 on Instagram"){ target=_blank }
             </figcaption>
         </figure>
 
@@ -189,7 +189,7 @@ Please click to expand the sections below for detailed information about what yo
     ![Jammer Referee, Franky Panky, Tampa vs. Dub City, March, 2024 - Credit: Keith Ridge Derby Photos (keithridgederbyphotos on Facebook)](images/breadpool_opr_franky_panky_tampa_vs_dub_city_3_8_24.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
         <figcaption style="font-size: 12px">
             JR, Franky Panky, Tampa vs. Dub City, March, 2024<br>
-            Credit: [Keith Ridge Derby Photos](https://www.facebook.com/keithridgederbyphotos "keithridgederbyphotos on Facebook"){ target=_blank } :octicons-link-external-24:
+            Credit: [Keith Ridge Derby Photos :octicons-link-external-24:](https://www.facebook.com/keithridgederbyphotos "keithridgederbyphotos on Facebook"){ target=_blank }
         </figcaption>
     </figure>
 
@@ -210,7 +210,7 @@ Please click to expand the sections below for detailed information about what yo
         ![Outside Pack Referee, WFTDA NA West Playoffs, June, 2024 - Credit: ShutHerUp Photography (ShutHerUpPhotography on Facebook)](images/breadpool_opr_na_west_playoffs_6_24.png){ width="250" style="filter: drop-shadow(0 0 0.2rem black)" }
             <figcaption style="font-size: 12px">
                 OPR, WFTDA NA West Playoffs, June, 2024<br>
-                Credit: [ShutHerUp Photography](https://www.facebook.com/ShutHerUpPhotography "ShutHerUpPhotography on Facebook"){ target=_blank } :octicons-link-external-24:
+                Credit: [ShutHerUp Photography :octicons-link-external-24:](https://www.facebook.com/ShutHerUpPhotography "ShutHerUpPhotography on Facebook"){ target=_blank }
             </figcaption>
         </figure>
 
@@ -241,7 +241,7 @@ Please click to expand the sections below for detailed information about what yo
         ![Outside Pack Referee, Female Division JRDA Playoffs: Santa Cruz, June, 2024 - Credit: Mckay Grundstein-Helvey (@mgh2pdx on Instagram)](images/breadpool_opr_jrda_playoffs_6_23_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
             <figcaption style="font-size: 12px">
                 OPR, Female Division JRDA Playoffs: Santa Cruz, June, 2024<br>
-                Credit: [Mckay Grundstein-Helvey](https://www.instagram.com/mgh2pdx "@mgh2pdx on Instagram"){ target=_blank } :octicons-link-external-24:
+                Credit: [Mckay Grundstein-Helvey :octicons-link-external-24:](https://www.instagram.com/mgh2pdx "@mgh2pdx on Instagram"){ target=_blank }
             </figcaption>
         </figure>
 
@@ -266,7 +266,7 @@ Please click to expand the sections below for detailed information about what yo
         ![Jammer Referee, Ground Control vs. Y'allhalla, May, 2024 - Credit: Alvin Green Jr. Photography (@algreenjr1 on Instagram)](images/breadpool_jr_ground_control_vs_yallhalla_5_11_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
             <figcaption style="font-size: 12px">
                 JR, Ground Control vs. Y'allhalla, May, 2024<br>
-                Credit: [Alvin Green Jr. Photography](https://www.instagram.com/algreenjr1 "@algreenjr1 on Instagram"){ target=_blank } :octicons-link-external-24:
+                Credit: [Alvin Green Jr. Photography :octicons-link-external-24:](https://www.instagram.com/algreenjr1 "@algreenjr1 on Instagram"){ target=_blank }
             </figcaption>
         </figure>
 
@@ -280,7 +280,7 @@ Please click to expand the sections below for detailed information about what yo
         ![Jammer Referee, AoA vs. Rat City, October, 2023 - Credit: Jonathan Works Photography (worksphoto on Facebook)](images/breadpool_jr_aoa_vs_rat_city_10_7_2023.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
             <figcaption style="font-size: 12px">
                 HR, AoA vs. Rat City, October, 2023<br>
-                Credit: [Jonathan Works Photography](https://www.facebook.com/worksphoto "worksphoto on Facebook"){ target=_blank } :octicons-link-external-24:
+                Credit: [Jonathan Works Photography :octicons-link-external-24:](https://www.facebook.com/worksphoto "worksphoto on Facebook"){ target=_blank }
             </figcaption>
         </figure>
 
@@ -308,7 +308,7 @@ Please click to expand the sections below for detailed information about what yo
         ![Inside Pack Referee, RCR Home Team Champs, June, 2024 - Credit: Jonathan Works Photography (worksphoto on Facebook)](images/breadpool_ipr_rcr_champs_6_8_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
             <figcaption style="font-size: 12px">
                 IPR, RCR Home Team Champs, June, 2024<br>
-                Credit: [Jonathan Works Photography](https://www.facebook.com/worksphoto "worksphoto on Facebook"){ target=_blank } :octicons-link-external-24:
+                Credit: [Jonathan Works Photography :octicons-link-external-24:](https://www.facebook.com/worksphoto "worksphoto on Facebook"){ target=_blank }
             </figcaption>
         </figure>
 
@@ -334,7 +334,7 @@ Please click to expand the sections below for detailed information about what yo
         ![Inside Pack Referee, Colorado Chaos, JRDA Sanctioned, May, 2024 - Credit: Alvin Green Jr. Photography (@algreenjr1 on Instagram)](images/breadpool_ipr_colorado_chaos_5_10_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
             <figcaption style="font-size: 12px">
                 IPR, Colorado Chaos, JRDA Sanctioned Game, May, 2024<br>
-                Credit: [Alvin Green Jr. Photography](https://www.instagram.com/algreenjr1 "@algreenjr1 on Instagram"){ target=_blank } :octicons-link-external-24:
+                Credit: [Alvin Green Jr. Photography :octicons-link-external-24:](https://www.instagram.com/algreenjr1 "@algreenjr1 on Instagram"){ target=_blank }
             </figcaption>
         </figure>
 
@@ -454,7 +454,7 @@ I believe the best officiating happens when a crew behaves like a selfless, supp
     ![Outside Pack Referee, RCR GNR vs. Texas Hustlers, November, 2023 - Credit: Jonathan Works Photography (worksphoto on Facebook)](images/breadpool_opr_gnr_vs_tx_11_18_23.png){ width="350" style="filter: drop-shadow(0 0 0.2rem black)" }
         <figcaption style="font-size: 12px">
             OPR, RCR GNR vs. Texas Hustlers, November, 2023<br>
-            Credit: [Jonathan Works Photography](https://www.facebook.com/worksphoto "worksphoto on Facebook"){ target=_blank } :octicons-link-external-24:
+            Credit: [Jonathan Works Photography :octicons-link-external-24:](https://www.facebook.com/worksphoto "worksphoto on Facebook"){ target=_blank }
         </figcaption>
     </figure>
 
@@ -494,7 +494,7 @@ Thank you for the opportunity to apply and for considering my application.  If y
 ![Outside Pack Referee, Franky Panky JRDA Sanctioned, March, 2024 - Credit: Keith Ridge Derby Photos (keithridgederbyphotos on Facebook)](images/breadpool_opr_franky_panky_jrda_sanctioned_3_8_24.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
     <figcaption style="font-size: 12px">
         OPR, Franky Panky JRDA Sanctioned, March, 2024<br>
-        Credit: [Keith Ridge Derby Photos](https://www.facebook.com/keithridgederbyphotos "keithridgederbyphotos on Facebook"){ target=_blank } :octicons-link-external-24:
+        Credit: [Keith Ridge Derby Photos :octicons-link-external-24:](https://www.facebook.com/keithridgederbyphotos "keithridgederbyphotos on Facebook"){ target=_blank }
     </figcaption>
 </figure>
 
@@ -515,6 +515,6 @@ Thank you for the opportunity to apply and for considering my application.  If y
     ![Jammer Referee, Franky Panky, New Jax vs. Red Stick, March, 2024 - Credit: Keith Ridge Derby Photos (keithridgederbyphotos on Facebook)](images/breadpool_opr_franky_panky_tampa_vs_dub_city_3_8_24.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
         <figcaption style="font-size: 12px">
             JR, Franky Panky, New Jax vs. Red Stick, March, 2024<br>
-            Credit: [Keith Ridge Derby Photos](https://www.facebook.com/keithridgederbyphotos "keithridgederbyphotos on Facebook"){ target=_blank } :octicons-link-external-24:
+            Credit: [Keith Ridge Derby Photos :octicons-link-external-24:](https://www.facebook.com/keithridgederbyphotos "keithridgederbyphotos on Facebook"){ target=_blank }
         </figcaption>
     </figure>
