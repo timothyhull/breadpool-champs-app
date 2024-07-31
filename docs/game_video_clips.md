@@ -2,6 +2,7 @@
 
 - ALTR activation CCRD
 - HR coach conversation
+- HH vs HR SSSS (IPR)
 
 ## Overview
 
@@ -25,7 +26,7 @@ Below are links to some of my recent officiating experiences for various game si
         <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/kmz2zZvcbzs?start=1217" title="https://youtu.be/kmz2zZvcbzs?t=1217" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </center>
     <center>
-        <br>[https://youtu.be/kmz2zZvcbzs?t=1217](https://youtu.be/kmz2zZvcbzs?t=1217){ target=_blank } :octicons-link-external-24:
+        <br>[https://youtu.be/kmz2zZvcbzs?t=1217 :octicons-link-external-24:](https://youtu.be/kmz2zZvcbzs?t=1217){ target=_blank }
     </center>
 
 ---
@@ -52,12 +53,12 @@ Below are links to some of my recent officiating experiences for various game si
         <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/kmz2zZvcbzs?start=4299" title="https://youtu.be/kmz2zZvcbzs?start=4299" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </center>
     <center>
-        <br>[https://youtu.be/kmz2zZvcbzs?start=4299](https://youtu.be/kmz2zZvcbzs?start=4299){ target=_blank } :octicons-link-external-24:
+        <br>[https://youtu.be/kmz2zZvcbzs?start=4299 :octicons-link-external-24:](https://youtu.be/kmz2zZvcbzs?start=4299){ target=_blank }
     </center>
 
 ---
 
-## Video Example # 3
+## Video Example #3
 
 ??? video "Humility, Willingness to Admit I Make Mistakes :material-cursor-default-click:"
 
@@ -76,13 +77,14 @@ Below are links to some of my recent officiating experiences for various game si
         <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/3M_NepfZ2Wg?start=1171" title="https://3M_NepfZ2Wg?start=1171" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </center>
     <center>
-        <br>[https://youtu.be/3M_NepfZ2Wg?t=1171](https://youtu.be/3M_NepfZ2Wg?t=1171){ target=_blank } :octicons-link-external-24:
+        <br>[https://youtu.be/3M_NepfZ2Wg?t=1171 :octicons-link-external-24:](https://youtu.be/3M_NepfZ2Wg?t=1171){ target=_blank }
     </center>
+
 ---
 
-## Video Example # 4
+## Video Example #4
 
-??? video "Use of Slow, Clear, and Visible hand signals  :material-cursor-default-click:"
+??? video "Use of Slow, Clear, and Visible Hand Signals :material-cursor-default-click:"
 
     === "Overview :material-cursor-default-click:"
 
@@ -103,5 +105,85 @@ Below are links to some of my recent officiating experiences for various game si
         <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/BvyVWitw714?start=40735" title="https://youtu.be/BvyVWitw714?&t=40735" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </center>
     <center>
-        <br>[https://youtu.be/BvyVWitw714?&t=40735](https://youtu.be/BvyVWitw714?&t=40735){ target=_blank } :octicons-link-external-24:
+        <br>[https://youtu.be/BvyVWitw714?&t=40735 :octicons-link-external-24:](https://youtu.be/BvyVWitw714?&t=40735){ target=_blank }
+    </center>
+
+---
+
+## Video Example #5
+
+??? video "Observing Detailed Action at High Speed and Immediately Issuing Accurate Points :material-cursor-default-click:"
+
+    === "Overview :material-cursor-default-click:"
+
+        - At the ≈22:42 mark in this video, while serving as a JR, I observe my jammer, White #408, who does not have lead jammer status, initiate and successfully complete an apex jump during a call-off by Purple jammer #46.
+
+    === "Outcome :material-cursor-default-click:"
+    
+        - I was able to be in a position to observe my jammer initiate the apex jump while fully in-bounds, and land one skate in bounds in front of three opposing blockers before the end of the fourth jam-ending whistle.
+        - I immediately signaled the three earned points, before the third set of jam-ending whistles.
+
+    === "Importance :material-cursor-default-click:"
+
+        - I believe this situation demonstrates I have the capacity to process a lot of information simultaneously, be in the precise position to observe the location of jammer and blocker hips at the exact moment the jam ends, and observe the exact position of the jammer’s feet before they leave the track and as they land.
+        - Whenever possible, it’s important to me to signal points as immediately as possible as a mechanism to show players and coaches that I have confidence the points I’m reporting are accurate.
+
+    <center>
+        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/kmz2zZvcbzs?start=1356" title="https://youtu.be/kmz2zZvcbzs?&t=1356" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </center>
+    <center>
+        <br>[https://youtu.be/kmz2zZvcbzs?&t=1356 :octicons-link-external-24:](https://youtu.be/kmz2zZvcbzs?&t=1356){ target=_blank }
+    </center>
+
+---
+
+## Video Example #6
+
+??? video "Use of Discretion and Judgment to Make a No-Call :material-cursor-default-click:"
+
+    === "Overview :material-cursor-default-click:"
+
+        - At the ≈4:14:45 mark in this video, while serving as a JR, I observe Black #63 move slightly in non-derby direction to initiate a block on my jammer, White #916, that causes my jammer to fall.
+        - I blew my whistle to issue a direction penalty to Black #63, although I made the assessment that the contact was not the reason White #916 fell.
+
+    === "Outcome :material-cursor-default-click:"
+    
+        - I determined White #916 fell because they slipped on a metal maintenance cover built into the concrete track, and used my discretion and judgment to not issue a penalty to Black #63.
+
+    === "Importance :material-cursor-default-click:"
+
+        - While this decision may seem trivial, this game was closely contested and I felt the doubt I had about whether or not the contact initiated by Black #63 was sufficient to justify a no-call in an effort to keep skaters on the track and in competition unless I am certain a penalty should be issued.  After reviewing the video later in the day, I believe I made the correct call.
+
+    <center>
+        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/Sfq9SNzx4ms?start=15276" title="https://youtu.be/Sfq9SNzx4ms?t=15276" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </center>
+    <center>
+        <br>[https://youtu.be/Sfq9SNzx4ms?t=15276 :octicons-link-external-24:](https://youtu.be/Sfq9SNzx4ms?t=15276){ target=_blank }
+    </center>
+
+---
+
+## Video Example #7
+
+??? video "Track, Pack, and Engagement Zone Location Awareness :material-cursor-default-click:"
+
+    === "Overview :material-cursor-default-click:"
+
+        - At the ≈1:00:35 mark in this video, while serving as a JR and my jammer, White #33, standing in the penalty box, I raise my right hand and finger to indicate who I believe the foremost pack skater is, so I can assess the position of the front engagement zone and be sure that White #33 legally reenters the track after they are released from the penalty box.
+        - I continued to monitor the foremost pack skater’s location until White #33 left the penalty box and reentered the track, which occurs at the ≈1:00:43 mark in this video.
+
+    === "Outcome :material-cursor-default-click:"
+
+        - Although White #33’s reentry point is not visible in the video, I carefully monitored the position of the front engagement zone and determined that White #33 entered approximately 18.5’ in front of White #1975 (before White #1975 left the pack and enters the front engagement zone themselves).
+        - I waited for White #33 to make a derby move, and they continued to skate forward instead of ceding the illegal reentry, so assessed an illegal reentry penalty to White #33.
+
+    === "Importance :material-cursor-default-click:"
+
+        - This is an example of the attention to detail I pay in order to ensure gameplay is safe and fair. 
+
+    <center>
+        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/JNTUqZu2KLc?start=3631" title="https://youtu.be/JNTUqZu2KLc?t=3631" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </center>
+    <center>
+        <br>[https://youtu.be/JNTUqZu2KLc?t=3631 :octicons-link-external-24:](https://youtu.be/JNTUqZu2KLc?t=3631){ target=_blank }
     </center>
