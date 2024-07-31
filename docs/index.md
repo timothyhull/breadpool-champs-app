@@ -24,6 +24,8 @@
             </figcaption>
         </figure>
 
+---
+
 ## About Me
 
 === "Introduction"
@@ -93,24 +95,44 @@
         </figcaption>
     </figure>
 
-=== "My Application By The Numbers"
+=== "My Officiating Background"
 
-    - **44K** - miles flown to officiate in the previous year.
-    - **229** - games officiated in the previous two years.
-    - **134** - games officiated in the previous year.
-    - **100+** - hours at a PT's office since 9/19/2023 to be ready to submit this application.
-    - **60+** - hours I spent preparing this application.
-    - **18** - events officiated in the previous year.
-    - **16** - out-of-state trips to officiate derby in the previous year.
-    - **0** - regrets for all of my work and sacrifice to be ready for this moment.
+    === "Non-Derby Officiating"
 
-    <figure markdown>
-    ![Jammer Referee, Franky Panky, New Jax vs. Red Stick, March, 2024 - Credit: Keith Ridge Derby Photos (keithridgederbyphotos on Facebook)](images/breadpool_opr_franky_panky_tampa_vs_dub_city_3_8_24.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
-        <figcaption style="font-size: 12px">
-            JR, Franky Panky, New Jax vs. Red Stick, March, 2024<br>
-            Credit: [Keith Ridge Derby Photos](https://www.facebook.com/keithridgederbyphotos "keithridgederbyphotos on Facebook"){ target=_blank } :octicons-link-external-24:
-        </figcaption>
-    </figure>
+        I am newer to officiating roller derby, although I am not new to officiating.  
+
+        I’ve been competing in sports throughout my life, including over 20 years of Brazilian Jiu-Jitsu competition, and officiating is one of the ways I contribute to serving future generations of competitors while honoring the people who have officiated for my own competitive athletic experiences.
+
+        I started officiating when I was sixteen, operating the scoreboard at high school basketball games, and I've since officiated:
+
+        - High school football.
+        - High school Army JROTC drill competition.
+        - U.S. Army recreational flag football.
+        - BJJ tournaments at the local, regional, and international levels.
+
+        <figure markdown>
+        ![Referee, The Revolution 52, Puyallup, WA, July 2024 - Credit: Jason Tracy Photography (@pnwphotoj on Instagram)](images/breadpool_ref_rev_52_6_20_24.png){ width="350" style="filter: drop-shadow(0 0 0.2rem black)" }
+            <figcaption style="font-size: 12px">
+                Referee, The Revolution 52, Puyallup, WA, July 2024<br>
+                Credit: [Jason Tracy Photography](https://www.instagram.com/pnwphotoj "@pnwphotoj on Instagram"){ target=_blank } :octicons-link-external-24:
+            </figcaption>
+        </figure>
+
+    === "Derby Officiating"
+
+        I began my derby officiating journey in August of 2022, although somewhat by accident.  My daughter was new to the roller derby community and wanted to spend more time on skates than was available to her in practices and scrimmages.  She decided to start attending officiating practice and asked that I join her so she wouldn't feel alone.
+        
+        I wanted to support my daughter and the roller derby community, and having skated and officiated in different capacities for the majority of my life, I felt comfortable giving roller derby officiating a shot.  I had no idea that I would leave that practice feeling like officiating roller derby was *the* thing I was meant to do.
+        
+        Since that day, I've poured my heart and soul into becoming a better official, believing I can serve people, many of whom live within social margins, in a way that allows them to live safer, more fulfilling lives.
+
+        <figure markdown>
+        ![Jammer Referee, Ground Control vs. Y'allhalla, May, 2024 - Credit: Alvin Green Jr. Photography (@algreenjr1 on Instagram)](images/breadpool_jr_ground_control_vs_yallhalla_5_12_24.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
+            <figcaption style="font-size: 12px">
+                JR, Ground Control vs. Y'allhalla, May, 2024<br>
+                Credit: [Alvin Green Jr. Photography](https://www.instagram.com/algreenjr1 "@algreenjr1 on Instagram"){ target=_blank } :octicons-link-external-24:
+            </figcaption>
+        </figure>
 
 ---
 
@@ -317,87 +339,6 @@ Please click to expand the sections below for detailed information about what yo
 
 ---
 
-## What This Means To Me
-
-=== "Inspiration"
-
-    I am a physically disabled U.S. Army veteran, and I believe I fit within the category of people with hidden disabilities. I seek to inspire people who have physical disabilities, just like me, to do more than they or perhaps the world believes they are capable of.
-    
-    When serve in an SO role, nobody sees me and thinks I’m disabled, guesses I have an extensive injury history that includes 20 x surgeries, nor has any idea how much daily work I do to physically function, gear up and skate, and excel at high-intensity physical activities.
-    
-    Intense rehabilitation to recover from injuries is my superpower. For example, I served as an SO less than two weeks after a total hip replacement last year because I spent hours and hours each day rehabilitating, strengthening, and specifically training to be ready to skate.
-    
-    **I want people with physical disabilities to see me as an example that's it’s possible for them to experience the joy and fulfillment from strenuous sports and activities.**
-
-    <figure markdown>
-    ![Outside Pack Referee, RCR GNR vs. Texas Hustlers, November, 2023 - Credit: Jonathan Works Photography (worksphoto on Facebook)](images/breadpool_opr_gnr_vs_tx_11_18_23.png){ width="350" style="filter: drop-shadow(0 0 0.2rem black)" }
-        <figcaption style="font-size: 12px">
-            OPR, RCR GNR vs. Texas Hustlers, November, 2023<br>
-            Credit: [Jonathan Works Photography](https://www.facebook.com/worksphoto "worksphoto on Facebook"){ target=_blank } :octicons-link-external-24:
-        </figcaption>
-    </figure>
-
-=== "New Hope"
-
-    I've loved competing athletics my whole life.  I love the grind of physical preparation, the struggle of mental preparation, the joy of successes, the pain of failures, recovering from the devastation of injuries, and doing it all over again for the next contest.
-    
-    Military service disabilities and sports injuries now prevent me from competing in the sports I've spent most of my life learning, playing, and loving.  Losing the ability to compete in these sports in recent years was heartbreaking, and left me feeling empty and lost.
-
-    Officiating for roller derby has given me the chance to feel like I can still compete intensely.  I train to officiate officiate roller derby games in a way that gives me the feeling I can still do things.  I train to officiate like a competitor, like I have to be the best, like good is the enemy of great.
-
-    Working to try and be a championship-level roller derby official has given me new hope that there's still a way for me to do what I've always loved, and I've poured my soul into doing everything I can to have a shot to be on a WFTDA Championship crew.
-
-    <figure markdown>
-    ![Inside Pack Referee, RCR Home Team Champs, June, 2024 - Credit: Divo](images/breadpool_ipr_rcr_champs_2_6_8_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
-        <figcaption style="font-size: 12px">
-            IPR, RCR Home Team Champs, June, 2024<br>
-            Credit: Divo
-        </figcaption>
-    </figure>
-
----
-
-## My Officiating Background
-
-=== "Non-Derby Officiating"
-
-    I am newer to officiating for roller derby, although I am not new to officiating.  
-
-    I’ve been competing in sports throughout my life, including over 20 years of Brazilian Jiu-Jitsu competition, and officiating is one of the ways I contribute to serving future generations of competitors while honoring the people who have officiated for my own competitive athletic experiences.
-
-    I started officiating when I was sixteen, operating the scoreboard at high school basketball games, and I've since officiated:
-
-    - High school football.
-    - High school Army JROTC drill competition.
-    - U.S. Army recreational flag football.
-    - BJJ tournaments at the local, regional, and international levels.
-
-    <figure markdown>
-    ![Referee, The Revolution 52, Puyallup, WA, July 2024 - Credit: Jason Tracy Photography (@pnwphotoj on Instagram)](images/breadpool_ref_rev_52_6_20_24.png){ width="350" style="filter: drop-shadow(0 0 0.2rem black)" }
-        <figcaption style="font-size: 12px">
-            Referee, The Revolution 52, Puyallup, WA, July 2024<br>
-            Credit: [Jason Tracy Photography](https://www.instagram.com/pnwphotoj "@pnwphotoj on Instagram"){ target=_blank } :octicons-link-external-24:
-        </figcaption>
-    </figure>
-
-=== "Derby Officiating"
-
-    I began my derby officiating journey in August of 2022, although somewhat by accident.  My daughter was new to the roller derby community and wanted to spend more time on skates than was available to her in practices and scrimmages.  She decided to start attending officiating practice and asked that I join her so she wouldn't feel alone.
-    
-    I wanted to support my daughter and the roller derby community, and having skated and officiated in different capacities for the majority of my life, I felt comfortable giving roller derby officiating a shot.  I had no idea that I would leave that practice feeling like officiating roller derby was *the* thing I was meant to do.
-    
-    Since that day, I've poured my heart and soul into becoming a better official, believing I can serve people, many of whom live within social margins, in a way that allows them to live safer, more fulfilling lives.
-
-    <figure markdown>
-    ![Jammer Referee, Ground Control vs. Y'allhalla, May, 2024 - Credit: Alvin Green Jr. Photography (@algreenjr1 on Instagram)](images/breadpool_jr_ground_control_vs_yallhalla_5_12_24.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
-        <figcaption style="font-size: 12px">
-            JR, Ground Control vs. Y'allhalla, May, 2024<br>
-            Credit: [Alvin Green Jr. Photography](https://www.instagram.com/algreenjr1 "@algreenjr1 on Instagram"){ target=_blank } :octicons-link-external-24:
-        </figcaption>
-    </figure>
-
----
-
 ## How I Officiate
 
 I believe the best officiating happens when a crew behaves like a selfless, supportive, and blameless team that focuses on being better today than they were yesterday.  These are the qualities you can expect from me as a member of an officiating crew:
@@ -477,6 +418,46 @@ I believe the best officiating happens when a crew behaves like a selfless, supp
 
 ---
 
+## What This Means To Me
+
+=== "Inspiration"
+
+    I am a physically disabled U.S. Army veteran, and I believe I fit within the category of people with hidden disabilities. I seek to inspire people who have physical disabilities, just like me, to do more than they or perhaps the world believes they are capable of.
+    
+    When serve in an SO role, nobody sees me and thinks I’m disabled, guesses I have an extensive injury history that includes 20 x surgeries, nor has any idea how much daily work I do to physically function, gear up and skate, and excel at high-intensity physical activities.
+    
+    Intense rehabilitation to recover from injuries is my superpower. For example, I served as an SO less than two weeks after a total hip replacement last year because I spent hours and hours each day rehabilitating, strengthening, and specifically training to be ready to skate.
+    
+    **I want people with physical disabilities to see me as an example that's it’s possible for them to experience the joy and fulfillment from strenuous sports and activities.**
+
+    <figure markdown>
+    ![Outside Pack Referee, RCR GNR vs. Texas Hustlers, November, 2023 - Credit: Jonathan Works Photography (worksphoto on Facebook)](images/breadpool_opr_gnr_vs_tx_11_18_23.png){ width="350" style="filter: drop-shadow(0 0 0.2rem black)" }
+        <figcaption style="font-size: 12px">
+            OPR, RCR GNR vs. Texas Hustlers, November, 2023<br>
+            Credit: [Jonathan Works Photography](https://www.facebook.com/worksphoto "worksphoto on Facebook"){ target=_blank } :octicons-link-external-24:
+        </figcaption>
+    </figure>
+
+=== "New Hope"
+
+    I've loved competing athletics my whole life.  I love the grind of physical preparation, the struggle of mental preparation, the joy of successes, the pain of failures, recovering from the devastation of injuries, and doing it all over again for the next contest.
+    
+    Military service disabilities and sports injuries now prevent me from competing in the sports I've spent most of my life learning, playing, and loving.  Losing the ability to compete in these sports in recent years was heartbreaking, and left me feeling empty and lost.
+
+    Officiating for roller derby has given me the chance to feel like I can still compete intensely.  I train to officiate officiate roller derby games in a way that gives me the feeling I can still do things.  I train to officiate like a competitor, like I have to be the best, like good is the enemy of great.
+
+    Working to try and be a championship-level roller derby official has given me new hope that there's still a way for me to do what I've always loved, and I've poured my soul into doing everything I can to have a shot to be on a WFTDA Championship crew.
+
+    <figure markdown>
+    ![Inside Pack Referee, RCR Home Team Champs, June, 2024 - Credit: Divo](images/breadpool_ipr_rcr_champs_2_6_8_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
+        <figcaption style="font-size: 12px">
+            IPR, RCR Home Team Champs, June, 2024<br>
+            Credit: Divo
+        </figcaption>
+    </figure>
+
+---
+
 ## Conclusion
 
 I believe the events of my life prepared me for this opportunity, for this moment.  The intersection of my choices, my experiences, my successes, my failures, my dreams, and my life's purpose combined to make this the one thing I've wanted so badly that I've poured my entire life into having the chance.
@@ -492,3 +473,22 @@ Thank you for the opportunity to apply and for considering my application.
 </figure>
 
 ---
+
+!!! numbers "My Application By The Numbers"
+
+    - **44K** - miles flown to officiate in the previous year.
+    - **229** - games officiated in the previous two years.
+    - **134** - games officiated in the previous year.
+    - **100+** - hours at a PT's office since 9/19/2023 to be ready to submit this application.
+    - **60+** - hours I spent preparing this application.
+    - **18** - events officiated in the previous year.
+    - **16** - out-of-state trips to officiate derby in the previous year.
+    - **0** - regrets for all of my work and sacrifice to be ready for this moment.
+
+    <figure markdown>
+    ![Jammer Referee, Franky Panky, New Jax vs. Red Stick, March, 2024 - Credit: Keith Ridge Derby Photos (keithridgederbyphotos on Facebook)](images/breadpool_opr_franky_panky_tampa_vs_dub_city_3_8_24.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
+        <figcaption style="font-size: 12px">
+            JR, Franky Panky, New Jax vs. Red Stick, March, 2024<br>
+            Credit: [Keith Ridge Derby Photos](https://www.facebook.com/keithridgederbyphotos "keithridgederbyphotos on Facebook"){ target=_blank } :octicons-link-external-24:
+        </figcaption>
+    </figure>
