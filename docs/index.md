@@ -26,9 +26,15 @@
 
 ---
 
+!!! tip "Navigation"
+
+    The content of my application appears in several sections, various tabs, and expandable note boxes.  Click or tap anywhere you see the :material-cursor-default-click: icon to view each part of my application.
+
+---
+
 ## About Me
 
-=== "Introduction"
+=== "Introduction :material-cursor-default-click:"
 
     I'm **Breadpool**(1), and after a year of specific and intense preparation for this moment, this is my application to serve as a member of an officiating crew at the 2024 WFTDA Global Championship Tournament.
     { .annotate }
@@ -52,7 +58,7 @@
         </figcaption>
     </figure>
 
-=== "Profile"
+=== "Profile :material-cursor-default-click:"
 
     - **Name:** Breadpool (Timothy Hull)
     - **Pronouns:** He/Him
@@ -72,7 +78,7 @@
         </figcaption>
     </figure>
 
-=== "WFTDA Certification"
+=== "WFTDA Certification :material-cursor-default-click:"
 
     I am not a WFTDA-certified official at this time.  However, achieving SO and NSO certification is very important to me.  For me, becoming a certified official and continuously seeking higher-level certification is symbolic of:
     
@@ -95,20 +101,29 @@
         </figcaption>
     </figure>
 
-=== "My Officiating Background"
+=== "My Officiating Background :material-cursor-default-click:"
 
-    === "Non-Derby Officiating"
+    === "Non-Derby Officiating :material-cursor-default-click:"
 
-        I am newer to officiating roller derby, although I am not new to officiating.  
-
-        I’ve been competing in sports throughout my life, including over 20 years of Brazilian Jiu-Jitsu competition, and officiating is one of the ways I contribute to serving future generations of competitors while honoring the people who have officiated for my own competitive athletic experiences.
-
-        I started officiating when I was sixteen, operating the scoreboard at high school basketball games, and I've since officiated:
+        I am newer to officiating roller derby, although I've been officiating various sports and competitive activities most of my life.  I started officiating when I was sixteen, operating the scoreboard at high school basketball games, and I've since officiated:
 
         - High school football.
         - High school Army JROTC drill competition.
         - U.S. Army recreational flag football.
         - BJJ tournaments at the local, regional, and international levels.
+
+        I’ve been competing in sports throughout my life, including over 20 years of Brazilian Jiu-Jitsu competition, and, for me, officiating is one of the ways I contribute to serving future generations of competitors while honoring the people who have officiated for my own competitive athletic experiences.
+
+        Although each sport has unique officiating requirements and nuances, I find there are many common elements to the role of officiating across sports.  I make this point because I believe one of the reasons I've been able to integrate effectively with the roller derby officiating community within a few years is my prior officiating experience:
+
+        - Conducting myself in keeping with the professional nature of an official.
+        - Communicating effectively with players, coaches, other officials, staff, and spectators.
+        - Understanding that even the nicest people sometimes become elevated during competition, and affording them the space to be elevated without judging them or taking things personally.
+        - Deescalating intense situations between players, coaches, officials, etc.
+        - Not allowing player, coach, or crowd reactions to impact my judgment or responses.
+        - Observing and remembering the details of high-speed gameplay actions.
+        - Understanding the importance of allowing players to determine the outcome of contests.
+        - Remaining calm, composed, and effective during high-stakes competition.
 
         <figure markdown>
         ![Referee, The Revolution 52, Puyallup, WA, July 2024 - Credit: Jason Tracy Photography (@pnwphotoj on Instagram)](images/breadpool_ref_rev_52_6_20_24.png){ width="350" style="filter: drop-shadow(0 0 0.2rem black)" }
@@ -118,13 +133,21 @@
             </figcaption>
         </figure>
 
-    === "Derby Officiating"
+    === "Derby Officiating :material-cursor-default-click:"
 
         I began my derby officiating journey in August of 2022, although somewhat by accident.  My daughter was new to the roller derby community and wanted to spend more time on skates than was available to her in practices and scrimmages.  She decided to start attending officiating practice and asked that I join her so she wouldn't feel alone.
         
         I wanted to support my daughter and the roller derby community, and having skated and officiated in different capacities for the majority of my life, I felt comfortable giving roller derby officiating a shot.  I had no idea that I would leave that practice feeling like officiating roller derby was *the* thing I was meant to do.
         
         Since that day, I've poured my heart and soul into becoming a better official, believing I can serve people, many of whom live within social margins, in a way that allows them to live safer, more fulfilling lives.
+
+        Where I happen to live affords me access to more opportunities to officiate roller derby than many people have, and I have access to highly-experienced officials to learn from.  I do everything I can to use my privilege for good by officiating for leagues and teams who most need extra support. That means I frequently officiate roller derby:
+        
+        - Outside of my home league, often in rural areas.
+        - For junior roller derby leagues and teams.
+        - For beginner-level teams, including those who play modified-contact games.
+        - For marginalized communities, teams, athletes, etc.
+        - Whether or not the gameplay is sanctioned or adheres to regulation play guidelines.
 
         <figure markdown>
         ![Jammer Referee, Ground Control vs. Y'allhalla, May, 2024 - Credit: Alvin Green Jr. Photography (@algreenjr1 on Instagram)](images/breadpool_jr_ground_control_vs_yallhalla_5_12_24.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
@@ -144,7 +167,7 @@ Although I am not as strong of an IPR as I am an OPR or JR, I included the IPR r
 
 Please click to expand the sections below for detailed information about what you can expect from me and how I position myself in each SO role.
 
-??? bread "What You Can Expect From Me"
+??? bread "What You Can Expect From Me :material-cursor-default-click:"
 
     In any SO position, you can expect me to consistently exhibit and excel at:
 
@@ -170,9 +193,9 @@ Please click to expand the sections below for detailed information about what yo
         </figcaption>
     </figure>
 
-??? whistle "OPR-Specific"
+??? whistle "OPR-Specific :material-cursor-default-click:"
 
-    === "What I Bring To A Crew"
+    === "What I Bring To A Crew :material-cursor-default-click:"
 
         As an OPR, you can expect me to consistently exhibit and excel at:
 
@@ -191,7 +214,7 @@ Please click to expand the sections below for detailed information about what yo
             </figcaption>
         </figure>
 
-    === "Positioning Methodology"
+    === "Positioning Methodology :material-cursor-default-click:"
 
         - As a **rear** OPR, I am, generally:
 
@@ -222,9 +245,9 @@ Please click to expand the sections below for detailed information about what yo
             </figcaption>
         </figure>
 
-??? whistle "JR"
+??? whistle "JR :material-cursor-default-click:"
 
-    === "What I Bring To A Crew"
+    === "What I Bring To A Crew :material-cursor-default-click:"
 
         As a JR, you can expect me to consistently exhibit and excel at:
 
@@ -247,7 +270,7 @@ Please click to expand the sections below for detailed information about what yo
             </figcaption>
         </figure>
 
-    === "Positioning Methodology"
+    === "Positioning Methodology :material-cursor-default-click:"
 
         - Before each jam, I identify my jammer and align myself with their position, making sure I can observe their actions before and after the jam starting whistle.
         - Precise alignment with my jammer throughout the duration of each jam in a way that allows me to continuously and accurately observe my jammer's position relative to other players.
@@ -261,9 +284,9 @@ Please click to expand the sections below for detailed information about what yo
             </figcaption>
         </figure>
 
-??? whistle "IPR"
+??? whistle "IPR :material-cursor-default-click:"
 
-    === "What I Bring To A Crew"
+    === "What I Bring To A Crew :material-cursor-default-click:"
 
         As IPR, front or rear, you can expect me to consistently exhibit and excel at:
 
@@ -289,7 +312,7 @@ Please click to expand the sections below for detailed information about what yo
             </figcaption>
         </figure>
 
-    === "Positioning Methodology"
+    === "Positioning Methodology :material-cursor-default-click:"
 
         - As a **front** IPR, I am, generally:
 
@@ -315,9 +338,9 @@ Please click to expand the sections below for detailed information about what yo
             </figcaption>
         </figure>
 
-??? clipboard "ALTR"
+??? clipboard "ALTR :material-cursor-default-click:"
 
-    === "What I Bring To A Crew"
+    === "What I Bring To A Crew :material-cursor-default-click:"
 
         I take the ALTR role very seriously and seek opportunities to serve as an ALTR.  You can expect me to volunteer to serve as an ALTR with enthusiasm, engagement, and a focus on helping my officiating peers excel. As an ALTR, you can expect me to consistently exhibit and excel at:
 
@@ -343,7 +366,7 @@ Please click to expand the sections below for detailed information about what yo
 
 I believe the best officiating happens when a crew behaves like a selfless, supportive, and blameless team that focuses on being better today than they were yesterday.  These are the qualities you can expect from me as a member of an officiating crew:
 
-??? bread "1. My Mindset"
+??? bread "1. My Mindset :material-cursor-default-click:"
 
     - I approach officiating just like I do playing any competitive sport, with the exception that my opponent isn't another person or team.
     - In my mind, **mistakes** are the opponent I ferociously train to beat, while recognizing mistakes are a relentless opponent that will never allow me to be rest.
@@ -352,7 +375,7 @@ I believe the best officiating happens when a crew behaves like a selfless, supp
     - "Winning" means my peers and I supported safe, fair, and gameplay in which the competing teams feel like they control the outcome.
     - I give my all to be the best teammate anyone has ever had, someone who my peers trust, feel safe with, and enjoy being around, and the most humble empathetic official anyone has ever known.
 
-??? bread "2. Extreme Positivity"
+??? bread "2. Extreme Positivity :material-cursor-default-click:"
 
     - I show up with high enthusiasm, friendliness, excitement, and positivity to share with the officials I serve with, no matter how challenging game conditions might be.
     - Regardless of the circumstances, I bring fist bumps, high-fives, and verbal "Let's go!" cues to support and encourage my peers throughout the duration of a contest.
@@ -360,33 +383,33 @@ I believe the best officiating happens when a crew behaves like a selfless, supp
     - I have the backs of my on- and off-skates crewmates, *always*, and they can count on me to encourage them in difficult situations.
     - When my officiating peers and leadership need me to make adjustments, I don’t dig my heels in about doing things a certain way, I give them my full support and do what they need me to do.
 
-??? bread "3. Strenuous Preparation"
+??? bread "3. Strenuous Preparation :material-cursor-default-click:"
 
     - I practice developing and improving officiating skills, on- and off-skates at least 4 hours per week, and often upwards of 10 hours per week.
     - I actively seek feedback from other officials and relentlessly study game video to continuously learn and improve, and to position myself to best support safe and fair gameplay.
     - I physically train and condition 5-12 hours per week to maintain a high level of fitness, improve my ability to be in the best position to observe game action, and ensure I will not experience physical fatigue no matter how strenuous the environmental or game conditions might be.
     - I regularly study roller derby rules and cases to continuously develop a better understanding of roller derby rules theory because I believe learning to understand rules theory helps me quickly work through complex situations in a way that supports the best and safest possible gameplay experience.
 
-??? bread "4. Empathic Listening"
+??? bread "4. Empathic Listening :material-cursor-default-click:"
 
     - I actively listen to officials, players, and coaches with genuine effort and concern to understand their points of view.
     - I seek to build trust by showing officials and teams they are heard and understood, even in cases where we may disagree with each other.
     - I actively solicit feedback from my peer officials by telling them no feedback will hurt my feelings.
     - For me, feedback is information I can use to be better today than I was yesterday, and I want to understand my mistakes, not ignore or hide from them.
 
-??? bread "5. Clear and Kind Communication"
+??? bread "5. Clear and Kind Communication :material-cursor-default-click:"
 
     - I speak to everyone with courtesy and respect, no matter how I am spoken to.
     - I do everything I can to actively communicate information with other officials in a way that promotes smooth, continuous game flow.
 
-??? bread "6. Keeping Athletes on the Track"
+??? bread "6. Keeping Athletes on the Track :material-cursor-default-click:"
 
     - I believe gameplay is best when athletes are on the track, not in the penalty box, and I observe game action in a way that seeks to avoid issuing penalties whenever possible.
     - For any action that might create sufficient game impact to warrant penalties, I describe the game impact to myself in a way I can recite during an official review *before* I issue any penalties (e.g., "Low block on yellow 2-4; caused purple 2-4 to go down").
     - I maximize the use of verbal warnings, prescribed by gameplay rules, to help athletes avoid committing penalties.
     - When I issue penalties, I include as much "3-star" information as possible to help athletes understand my basis for issuing penalties and help them avoid being assessed with the same penalty again (e.g., "Yellow 2-4, forearm; bracing on an opponent.")
 
-??? bread "7. Zone Ownership"
+??? bread "7. Zone Ownership :material-cursor-default-click:"
 
     - I focus on officiating specifically within the confines of my area/zone of responsibility.
     - Said another way, I avoid immediately issuing penalties for actions I may not have the best point of view to observe during a jam.
@@ -394,13 +417,13 @@ I believe the best officiating happens when a crew behaves like a selfless, supp
 
     Santa Cruz C vs. G example with CMF.
 
-??? bread "8. Hustle"
+??? bread "8. Hustle :material-cursor-default-click:"
 
     - No matter what I do, I move with the utmost sense of purpose, often sprinting back and forth, to show everyone around me that my concern for serving the teams and peers I officiate with is equivalent to that of the highest-level competitors.
 
     - If I end up on the ground, I will be back on my feet instantaneously.  Jiu-Jitsu and Judo backgrounds, plus something I practice.
 
-??? bread annotate "9. Versatility"
+??? bread annotate "9. Versatility :material-cursor-default-click:"
 
     - Although this application is specific to SO roles, I work hard to continuously build skill and experience at each officiating position, on- and off-skates because I believe learning and practicing each role helps make me a better official and teammate for my SO and NSO peers. (1)
     - I actively work to keep my OHD balanced between SO and NSO roles, officiating ≈2/3 of games in SO roles and ≈1/3 of games in NSO roles.
@@ -410,7 +433,7 @@ I believe the best officiating happens when a crew behaves like a selfless, supp
 
     Although I practice working with CRG extensively, including IGRF and statsbook preparation, I do not have game experience in the role of HNSO.
 
-??? bread "10. Courage To Do What's Right"
+??? bread "10. Courage To Do What's Right :material-cursor-default-click:"
 
     Accept consequences for my actions.
     Santa Cruz S-OOB example.
@@ -420,7 +443,7 @@ I believe the best officiating happens when a crew behaves like a selfless, supp
 
 ## What This Means To Me
 
-=== "Inspiration"
+=== "Inspiration :material-cursor-default-click:"
 
     I am a physically disabled U.S. Army veteran, and I believe I fit within the category of people with hidden disabilities. I seek to inspire people who have physical disabilities, just like me, to do more than they or perhaps the world believes they are capable of.
     
@@ -438,7 +461,7 @@ I believe the best officiating happens when a crew behaves like a selfless, supp
         </figcaption>
     </figure>
 
-=== "New Hope"
+=== "New Hope :material-cursor-default-click:"
 
     I've loved competing athletics my whole life.  I love the grind of physical preparation, the struggle of mental preparation, the joy of successes, the pain of failures, recovering from the devastation of injuries, and doing it all over again for the next contest.
     
