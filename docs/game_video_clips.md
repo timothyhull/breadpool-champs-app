@@ -404,3 +404,37 @@ Below are links to some of my recent officiating experiences for various game si
     </center>
 
 ---
+
+## Video Example #16
+
+??? video "Use of Discretion and Judgment to Make a No-Call #3 :material-cursor-default-click:"
+
+    === "Overview :material-cursor-default-click:"
+
+        - At the 37:18 mark of this video, while serving as rear OPR, I observe White #39 initiate a block that causes Purple #07 to step the left-front wheel of their left skate OOB.
+        - From my point-of-view, it appeared that Purple #07 cut by returning to an upright and in-bounds position in front of White #39.
+        - Purple #07 does not cede the apparent cut, and I am slightly behind a position that would allow me to accurately determine the exact position of White #39 and Purple #07.
+
+    === "Outcome :material-cursor-default-click:"
+    
+        - I do not issue a penalty to Purple #07 under the basis that I was not in position to determine if Purple #07 actually cuts White #39.
+        - I use a no-earned-pass visual cue to indicate to my peers that I cannot issue a cut penalty based on the information I have.
+        - When I review the video, it is clear to me that I missed a legitimate cut because I was too far behind the action.
+        - While I would love to be in the best possible position to observe the most relevant game action at all times, this is a case where I did not anticipate gameplay sufficiently and ended up about .5 seconds late getting to where I needed to be to observe Purple #07 cut White #39.
+
+    === "Importance :material-cursor-default-click:"
+
+        - Although I'm disappointed in myself for the mistake, I recognize I will make mistakes in every game, and I want to do the best I can to avoid worsening a situation.
+        - This video demonstrates I am not going to guess at whether or not I should issue a penalty; I either have the information I need, or I don't.
+        - Had I been asked about the situation by a player or coach, or had their been an OR, I would have responded by stating, "I was not in position to accurately observe the action."
+        - While that response is not ideal, I would rather fall on that sword than issue a penalty without the appropriate vantage point and have my CHR have to manage complaints or an OR that asserts I was not in position to issue a penalty I just issued.
+        - Anecdotally, reviewing this game footage provided an opportunity to learn to better anticipate how to position myself in similar situations.
+
+    <center>
+        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/BgDs6dRxRRs?start=2235" title="https://youtu.be/BgDs6dRxRRs?t=2235" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </center>
+    <center>
+        <br>[https://youtu.be/BgDs6dRxRRs?t=2235 :octicons-link-external-24:](https://youtu.be/BgDs6dRxRRs?t=2235){ target=_blank }
+    </center>
+
+---
