@@ -518,9 +518,9 @@ Thank you for the opportunity to apply and for considering my application.  If y
     - **0** - regrets for all of my work and sacrifice to be ready for this moment.
 
     <figure markdown>
-    ![Jammer Referee, Franky Panky, New Jax vs. Red Stick, March, 2024 - Credit: Keith Ridge Derby Photos (keithridgederbyphotos on Facebook)](images/breadpool_opr_franky_panky_tampa_vs_dub_city_3_8_24.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
+    ![Jammer Referee, Franky Panky, Tampa vs. Dub City, March, 2024 - Credit: Keith Ridge Derby Photos (keithridgederbyphotos on Facebook)](images/breadpool_opr_franky_panky_tampa_vs_dub_city_3_8_24.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
         <figcaption style="font-size: 12px">
-            JR, Franky Panky, New Jax vs. Red Stick, March, 2024<br>
+            JR, Franky Panky, Tampa vs. Dub City, March, 2024<br>
             Credit: [Keith Ridge Derby Photos :octicons-link-external-24:](https://www.facebook.com/keithridgederbyphotos "keithridgederbyphotos on Facebook"){ target=_blank }
         </figcaption>
     </figure>
