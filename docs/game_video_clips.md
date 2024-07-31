@@ -187,3 +187,29 @@ Below are links to some of my recent officiating experiences for various game si
     <center>
         <br>[https://youtu.be/JNTUqZu2KLc?t=3631 :octicons-link-external-24:](https://youtu.be/JNTUqZu2KLc?t=3631){ target=_blank }
     </center>
+
+---
+
+## Video Example #8
+
+??? video "Awareness of Unconventionally Using an Illegal Blocking Zone to Gain Position :material-cursor-default-click:"
+
+    === "Overview :material-cursor-default-click:"
+
+        - At the ≈2:20:04 mark in this video, while serving as a JR, I observed Black #77 initiate a jump in the apex of turns 1 and 2.
+        - I observed Black #77 use their hand to brace themselves on my jammer, White #18, during their apex jump, and successfully gain position on White #18 and White #417.
+
+    === "Outcome :material-cursor-default-click:"
+
+        - While maintaining position to follow my jammer, I issued a forearm penalty to Black #77 with the additional verbal cue, “*Bracing on an opponent*.”
+
+    === "Importance :material-cursor-default-click:"
+
+        - I believe this example shows I have the capacity to assess the game impact of illegal actions quickly and appropriately penalize athletes who gain an advantage using, in this case, an illegal blocking zone, even in ways that may not seem obvious.
+
+    <center>
+        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/Sfq9SNzx4ms?start=8397" title="https://youtu.be/Sfq9SNzx4ms?&t=8397" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </center>
+    <center>
+        <br>[https://youtu.be/Sfq9SNzx4ms?&t=8397 :octicons-link-external-24:](https://youtu.be/Sfq9SNzx4ms?&t=8397){ target=_blank }
+    </center>
