@@ -1,5 +1,13 @@
 # Breadpool's Application
 
+<figure markdown>
+![Breadpool (Timothy Hull) - Credit: Mckay Grundstein-Helvey (@mgh2pdx on Instagram)](images/breadpool_headshot.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
+    <figcaption style="font-size: 12px">
+        Breadpool (Timothy Hull)<br>
+        Credit: [Mckay Grundstein-Helvey](https://www.instagram.com/mgh2pdx "@mgh2pdx on Instagram"){ target=_blank } :octicons-link-external-24:
+    </figcaption>
+</figure>
+
 !!! warning "Anti-Cheating Statement"
 
     All changes to content on this site include date and time stamps to prove the application is complete before the due date.  You may [click here](https://github.com/timothyhull/breadpool-champs-app/commits/gh-pages "GitHub.io Changelog") to review the complete build history for this site, and [click here](https://github.com/timothyhull/breadpool-champs-app/commits "GitHub.com Changelog") to review the complete source code history.(1)
@@ -34,21 +42,11 @@
     
     Whether or not you select me to be a member of an officiating crew, I hope the information and attention to detail in this application demonstrate how much this opportunity means to me, how badly I want to earn a place on a crew, and that I've given absolutely everything I have to warrant your consideration.
 
-    ??? numbers "My Application By The Numbers (click to expand)"
-
-        - **229** - games officiated in the previous two years.
-        - **134** - games officiated in the previous year.
-        - **100+** - hours at a PT's office since 9/19/2023 to be ready to submit this application.
-        - **50+** - hours I spent preparing this application.
-        - **18** - events officiated in the previous year.
-        - **16** - out-of-state trips to officiate derby in the previous year.
-        - **0** - regrets for all of my work and sacrifice to be ready for this moment.
-
-    <figure markdown>
-    ![Breadpool (Timothy Hull) - Credit: Mckay Grundstein-Helvey (@mgh2pdx on Instagram)](images/breadpool_headshot.png){ width="300" style="filter: drop-shadow(0 0 0.2rem black)" }
+     <figure markdown>
+    ![Jammer Referee, Franky Panky, New Jax vs. Red Stick, March, 2024 - Credit: Keith Ridge Derby Photos (keithridgederbyphotos on Facebook)](images/breadpool_opr_franky_panky_tampa_vs_dub_city_3_8_24.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
         <figcaption style="font-size: 12px">
-            Breadpool (Timothy Hull)<br>
-            Credit: [Mckay Grundstein-Helvey](https://www.instagram.com/mgh2pdx "@mgh2pdx on Instagram"){ target=_blank } :octicons-link-external-24:
+            JR, Franky Panky, New Jax vs. Red Stick, March, 2024<br>
+            Credit: [Keith Ridge Derby Photos](https://www.facebook.com/keithridgederbyphotos "keithridgederbyphotos on Facebook"){ target=_blank } :octicons-link-external-24:
         </figcaption>
     </figure>
 
@@ -65,10 +63,10 @@
     - **Fun Fact:** BJJ Black Belt
 
     <figure markdown>
-    ![Jammer Referee, 187 Killer Pads vs. Triple 8, RollerCon 2024 - Credit: Jenni Weber Photography (@jenniwebberphotography on Instagram)](images/breadpool_jr_187_vs_triple_8_7_12_24.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
+    ![Jammer Referee, 187 Killer Pads vs. Triple 8, RollerCon 2024 - Credit: WiK's Pic (@wick2o on Instagram)](images/breadpool_jr_187_vs_triple_8_7_12_24.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
         <figcaption style="font-size: 12px">
             JR, 187 Killer Pads vs. Triple 8, RollerCon 2024<br>
-            Credit: [Jenni Weber Photography](https://www.instagram.com/jenniwebberphotography "@jenniwebberphotography on Instagram"){ target=_blank } :octicons-link-external-24:
+            Credit: [WiK's Pics](https://www.instagram.com/wick2o "@wick2o on Instagram"){ target=_blank } :octicons-link-external-24:
         </figcaption>
     </figure>
 
@@ -79,7 +77,7 @@
     1. My ongoing commitment to seek self-improvement.
     2. Demonstrating I support the WFTDA and their officiating procedures.
 
-    ??? clipboard "Certification Timeline and Progress"
+    !!! clipboard "Certification Timeline and Progress"
 
         - I started the process to become a certified official in September of 2022 by studying for and passing WFTDA's online SO and NSO officiating certification courses.
         - At the beginning of 2023, I set a personal goal to build sufficient game experience to credibly apply for Level I SO and NSO certifications in 2024.
@@ -92,6 +90,24 @@
         <figcaption style="font-size: 12px">
             JT, Female Division JRDA Playoffs: Santa Cruz, June, 2024 (Timothy Hull)<br>
             Credit: [Mckay Grundstein-Helvey](https://www.instagram.com/mgh2pdx "@mgh2pdx on Instagram"){ target=_blank } :octicons-link-external-24:
+        </figcaption>
+    </figure>
+
+=== "My Application By The Numbers"
+
+    - **229** - games officiated in the previous two years.
+    - **134** - games officiated in the previous year.
+    - **100+** - hours at a PT's office since 9/19/2023 to be ready to submit this application.
+    - **50+** - hours I spent preparing this application.
+    - **18** - events officiated in the previous year.
+    - **16** - out-of-state trips to officiate derby in the previous year.
+    - **0** - regrets for all of my work and sacrifice to be ready for this moment.
+
+    <figure markdown>
+    ![Jammer Referee, Franky Panky, New Jax vs. Red Stick, March, 2024 - Credit: Keith Ridge Derby Photos (keithridgederbyphotos on Facebook)](images/breadpool_opr_franky_panky_tampa_vs_dub_city_3_8_24.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
+        <figcaption style="font-size: 12px">
+            JR, Franky Panky, New Jax vs. Red Stick, March, 2024<br>
+            Credit: [Keith Ridge Derby Photos](https://www.facebook.com/keithridgederbyphotos "keithridgederbyphotos on Facebook"){ target=_blank } :octicons-link-external-24:
         </figcaption>
     </figure>
 
