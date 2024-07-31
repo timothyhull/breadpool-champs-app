@@ -489,9 +489,9 @@ I believe the best officiating happens when a crew behaves like a selfless, supp
 
 ## Conclusion
 
-I believe the events of my life prepared me for this opportunity, for this moment.  The intersection of my choices, my experiences, my successes, my failures, my dreams, and my life's purpose combined to make this the one thing I've wanted so badly that I've poured my entire life into having the chance.
+I believe the unique circumstances of my life prepared me for this opportunity.  The intersection of my circumstances, choices, experiences, successes, failures, dreams, and my life's purpose combined to make this the one thing I've wanted so badly that I've poured my entire life into having the chance.
 
-Thank you for the opportunity to apply and for considering my application.
+Thank you for the opportunity to apply and for considering my application.  If you select me to be a member of an officiating crew, I will reward your decision with the dedication, preparation, and performance of a champion.
 
 <figure markdown>
 ![Outside Pack Referee, Franky Panky JRDA Sanctioned, March, 2024 - Credit: Keith Ridge Derby Photos (keithridgederbyphotos on Facebook)](images/breadpool_opr_franky_panky_jrda_sanctioned_3_8_24.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
