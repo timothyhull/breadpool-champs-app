@@ -240,3 +240,30 @@ Below are links to some of my recent officiating experiences for various game si
     <center>
         <br>[https://youtu.be/BvyVWitw714?t=37417 :octicons-link-external-24:](https://youtu.be/BvyVWitw714?t=37417){ target=_blank }
     </center>
+
+---
+
+## Video Example #10
+
+??? video "Body Positioning, Lateral Movement, Rapid Acceleration/Acceleration, Advanced Stop Techniques, and Player Positioning Awareness. :material-cursor-default-click:"
+
+    === "Overview :material-cursor-default-click:"
+
+        - This video clip is an entire half of a derby game from Y’Allstars 2024, where I served as a JR for Beast Side Roller Derby.
+        - Beast Side fielded extremely talented and fast jammers who presented many challenges to effectively officiate.
+
+    === "Outcome :material-cursor-default-click:"
+
+        - While imperfect, I believe I did a good job maintaining position at the hips of my jammers, accurately tracking points, signaling lead jammer status accurately, and calling off jams precisely.- Anecdotally, the track surface was highly abrasive concrete, causing many officials and athletes to grind toe stops down to their posts and, of course, requiring replacements.
+        - I adapted to the track conditions by almost entirely using hockey stops and power slides, avoiding the use of toe stops as much as possible, and ensuring I would not experience an equipment failure during gameplay.
+
+    === "Importance :material-cursor-default-click:"
+
+        - I believe my ability to almost entirely use wheel-based stops with fast-moving jammers shows that I have the skating skill capacity to adapt to various track conditions and remain an effective official.
+
+    <center>
+        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/JNTUqZu2KLc" title="https://youtu.be/JNTUqZu2KLc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </center>
+    <center>
+        <br>[https://youtu.be/JNTUqZu2KLc :octicons-link-external-24:](https://youtu.be/JNTUqZu2KLc){ target=_blank }
+    </center>
