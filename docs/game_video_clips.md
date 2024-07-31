@@ -438,3 +438,44 @@ Below are links to some of my recent officiating experiences for various game si
     </center>
 
 ---
+
+## Video Example #17
+
+??? video "Positioning Precision, Hustle, & Peer Communication :material-cursor-default-click:"
+
+    === "Overview :material-cursor-default-click:"
+
+        - The 1:15:44 mark of this video is the start of jam 17 in period 2.
+        - This is a playoff game that determines which team will earn a position in the 2024 WFTDA Global Championship Tournament.
+
+    === "Outcome :material-cursor-default-click:"
+    
+        - I am the rear OPR, and although nothing extraordinary happens in this jam, I believe this jam is a good example oh how you can expect me to officiate for any level of play.
+
+    === "Importance :material-cursor-default-click:"
+
+        - You will observe me:
+        
+            1. Continuously adjusting my position to have as precise a point of view of relevant game action as possible.
+            2. Using sharp movements to accelerate and decelerate, even in small spaces, to improve my positioning precision.
+            3. Sprinting, even in small spaces, to be exactly where I need to be.
+            4. Using lateral movement techniques like tracking, cross-pulls, and power slides that allow me to keep my body facing the pack, give me the widest possible angle to observe game action, and afford me the flexibility to quickly change direction and accelerate at any moment.
+            5. Using non-standard visual cues, hand signals, and head movements to relay information to my peer officials.
+
+        - At the 1:16:35 mark, one of the JRs issues a penalty to White #39, who appears to illegally exit the track.
+        
+            1. Understanding the severity of issuing a player a second penalty, especially in a playoff game, I point at the player to get the attention of my CHR so they can determine if they want to issue a second penalty (they do).
+
+        - At the 1:16:46 mark, the front OPR issues a penalty to Purple #11 (blocker) that the front IPR repeats, in order to relay the call to the player.
+
+            1. Purple #117 (jammer) hears the repeated penalty call, and, apparently believing they have their own penalty, leaves the track to self-report to the penalty box.
+            2. Suspecting #117 may not have a penalty, I immediately start pointing and verbally relaying my observation to my peer officials who return Purple #117 to the track with only minimal impact to gameplay.
+
+    <center>
+        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/BgDs6dRxRRs?start=4544" title="https://youtu.be/BgDs6dRxRRs?t=4544" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </center>
+    <center>
+        <br>[https://youtu.be/BgDs6dRxRRs?t=4545 :octicons-link-external-24:](https://youtu.be/BgDs6dRxRRs?t=4544){ target=_blank }
+    </center>
+
+---
