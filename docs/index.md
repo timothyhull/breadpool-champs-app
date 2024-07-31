@@ -95,10 +95,11 @@
 
 === "My Application By The Numbers"
 
+    - **44K** - miles flown to officiate in the previous year.
     - **229** - games officiated in the previous two years.
     - **134** - games officiated in the previous year.
     - **100+** - hours at a PT's office since 9/19/2023 to be ready to submit this application.
-    - **50+** - hours I spent preparing this application.
+    - **60+** - hours I spent preparing this application.
     - **18** - events officiated in the previous year.
     - **16** - out-of-state trips to officiate derby in the previous year.
     - **0** - regrets for all of my work and sacrifice to be ready for this moment.
@@ -320,11 +321,13 @@ Please click to expand the sections below for detailed information about what yo
 
 === "Inspiration"
 
-    - I seek to inspire people who have physical disabilities, just like me, to do more than they or perhaps the world believes they are capable of.
-    - I am a physically disabled U.S. Army veteran, and I believe I fit within the category of people with hidden disabilities.
-    - When serve in an SO role, nobody sees me and thinks I’m disabled, guesses I have an extensive injury history that includes 20 x surgeries, or has any idea how much daily work I do to physically function, gear up and skate, and excel at high-intensity physical activities.
-    - Intense rehabilitation to recover from injuries is my superpower. For example, I served as an SO less than two weeks after a total hip replacement last year because I spent hours and hours each day rehabilitating, strengthening, and specifically training to be ready to skate.
-    - **I want people with physical disabilities to see me as an example that's it’s possible for them to experience the joy and fulfillment from strenuous sports and activities.**
+    I am a physically disabled U.S. Army veteran, and I believe I fit within the category of people with hidden disabilities. I seek to inspire people who have physical disabilities, just like me, to do more than they or perhaps the world believes they are capable of.
+    
+    When serve in an SO role, nobody sees me and thinks I’m disabled, guesses I have an extensive injury history that includes 20 x surgeries, nor has any idea how much daily work I do to physically function, gear up and skate, and excel at high-intensity physical activities.
+    
+    Intense rehabilitation to recover from injuries is my superpower. For example, I served as an SO less than two weeks after a total hip replacement last year because I spent hours and hours each day rehabilitating, strengthening, and specifically training to be ready to skate.
+    
+    **I want people with physical disabilities to see me as an example that's it’s possible for them to experience the joy and fulfillment from strenuous sports and activities.**
 
     <figure markdown>
     ![Outside Pack Referee, RCR GNR vs. Texas Hustlers, November, 2023 - Credit: Jonathan Works Photography (worksphoto on Facebook)](images/breadpool_opr_gnr_vs_tx_11_18_23.png){ width="350" style="filter: drop-shadow(0 0 0.2rem black)" }
@@ -334,11 +337,15 @@ Please click to expand the sections below for detailed information about what yo
         </figcaption>
     </figure>
 
-=== "Hope"
+=== "New Hope"
 
-    I've loved competitive athletics my whole life.  I lost the ability to compete
+    I've loved competing athletics my whole life.  I love the grind of physical preparation, the struggle of mental preparation, the joy of successes, the pain of failures, recovering from the devastation of injuries, and doing it all over again for the next contest.
+    
+    Military service disabilities and sports injuries now prevent me from competing in the sports I've spent most of my life learning, playing, and loving.  Losing the ability to compete in these sports in recent years was heartbreaking, and left me feeling empty and lost.
 
-    Todo - I train to officiate like a competitor, like I have to be the best, like good is the enemy of great.
+    Officiating for roller derby has given me the chance to feel like I can still compete intensely.  I train to officiate officiate roller derby games in a way that gives me the feeling I can still do things.  I train to officiate like a competitor, like I have to be the best, like good is the enemy of great.
+
+    Working to try and be a championship-level roller derby official has given me new hope that there's still a way for me to do what I've always loved, and I've poured my soul into doing everything I can to have a shot to be on a WFTDA Championship crew.
 
     <figure markdown>
     ![Inside Pack Referee, RCR Home Team Champs, June, 2024 - Credit: Divo](images/breadpool_ipr_rcr_champs_2_6_8_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
