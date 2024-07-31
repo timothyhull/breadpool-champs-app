@@ -473,7 +473,7 @@ I believe the best officiating happens when a crew behaves like a selfless, supp
     
     !!! quote
     
-        There are people here who've officiated at the WFTDA Championship-level.  If you're willing to show up, work your butt off, and be humble about it, you might get a chance to do the same someday."
+        *"There are people here who've officiated at the WFTDA Championship-level.  If you're willing to show up, work your butt off, and be humble about it, you might get a chance to do the same someday."*
         
     That moment offered me a chance to experience competition in a way that I thought was gone forever, and gave me hope that I could once again feel the joy of training to be a champion.  Driven by that hope, I've poured my soul into doing *everything* I can to have a shot to be a member of a WFTDA Championship officiating crew.
 
