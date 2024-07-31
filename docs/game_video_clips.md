@@ -479,3 +479,38 @@ Below are links to some of my recent officiating experiences for various game si
     </center>
 
 ---
+
+## Video Example #18
+
+??? video "Using Skating Techniques Recover and Maintain Accurate Positioning" :material-cursor-default-click:"
+
+    === "Overview :material-cursor-default-click:"
+
+        - At the ≈1:45:47 mark in this video, while serving as front IPR, the pack is about to transition from "all" to "front." 
+        - I am monitoring the pack movement and use a verbal and visual cue to inform players and officials that I temporarily assumed control of the primary pack definition responsibility from the rear IPR.
+        - In the transition of the pack definition to my responsibility, Blue #26 accelerates forward more quickly than I anticipate while they chase Green jammer forward.
+        - I end up slightly out of the optimal position, with Blue #26 now in front of my position and the rest of the pack gaining speed. 
+
+    === "Outcome :material-cursor-default-click:"
+
+        - I never want to be out of position, although this sort of situation is something I routinely practice and drill so I can get back into position immediately.
+        - I sprint forward to catch Blue #26 just as they begin to reduce their speed, so I transition to a power slide technique that allows me to return to the appropriate position, observe the status of the, and stay out of the path of the Blue jammer's JR.
+        - At the end of the power slide, as the JR and I approach turn 3, I use a two-stage pivot technique, shifting to my right and then back to my left to ensure I:
+
+            1. Make sure the Blue JR has a clear path to remain in position with their jammer.
+            2. Quickly shift to a position along the inside boundary, looking back at the pack, that allows me to observe the rear OPR, the status of the pack, and player actions.
+
+    === "Importance :material-cursor-default-click:"
+
+        - These actions may seem unremarkable, although I want to point out they do not happen, at least for me, by accident.
+        - These are the sorts of skating techniques I practice every week.  I frequently study game film to understand how I can move myself to improve my positioning, develop drills that help me build new skills, and repeat the drills until I perform the actions in a game without having to think about them.
+        - I share this so you are aware of the sort effort and discipline you can expect from me during my preparation to be a member of any officiating crew.
+
+    <center>
+        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/qx-EYWrAn5k?start=6346" title="https://youtu.be/qx-EYWrAn5k?&t=6346" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </center>
+    <center>
+        <br>[https://youtu.be/qx-EYWrAn5k?&t=6346 :octicons-link-external-24:](https://youtu.be/qx-EYWrAn5k?&t=6346){ target=_blank }
+    </center>
+
+---
