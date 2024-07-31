@@ -293,37 +293,6 @@ Below are links to some of my recent officiating experiences for various game si
         <br>[https://youtu.be/hWdVqVpOs2w?t=3458 :octicons-link-external-24:](https://youtu.be/hWdVqVpOs2w?t=3458){ target=_blank }
     </center>
 
----
-
-## Video Example #12
-
-??? video "Controlled, Mid-Corner, Rapid Stop and While Maintaining Position  :material-cursor-default-click:"
-
-    === "Overview :material-cursor-default-click:"
-
-        - At the ≈57:45 mark in this video, while serving as a JR, my jammer, White #700 will earn lead, rapidly exit the front engagement zone, and approach the pack at high speed.
-        - My jammer realizes they do not have much time before the opposing will approach the pack and score points for themselves.
-        - My jammer rapidly decelerates and negotiates the pack for a few seconds before calling-off the jam.
-        - The players in this game are all RCR TT skaters, making the game representative of elite-level play.
-
-    === "Outcome :material-cursor-default-click:"
-
-        - I had to rapidly accelerate to maintain alignment with my jammer on their scoring trip, respond to and match their rapid deceleration in a compressed space (the middle of a turn), maintain accurate alignment with my jammer to track earned passes, and respond to the call-off request the jam immediately.
-        - I used a single-leg backward plow stop technique to perform a controlled stop that allowed me to remain in position, not occupy more space than absolutely necessary, and move laterally through the apex of the turn in alignment with my jammer.
-
-    === "Importance :material-cursor-default-click:"
-
-        - I specifically practice this exact stop technique and scenario because it is difficult to get right, and I believe this example demonstrates I exhibit the skating skills and body positioning required to officiate fast-moving derby with elite-level players and teams.
-
-    <center>
-        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/hWdVqVpOs2w?start=3458" title="https://youtu.be/hWdVqVpOs2w?t=3458" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    </center>
-    <center>
-        <br>[https://youtu.be/hWdVqVpOs2w?t=3458 :octicons-link-external-24:](https://youtu.be/hWdVqVpOs2w?t=3458){ target=_blank }
-    </center>
-
----
-
 ## Video Example #13
 
 ??? video "ALTR Readiness and Rapid Activation  :material-cursor-default-click:"
