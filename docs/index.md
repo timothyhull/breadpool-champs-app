@@ -201,7 +201,7 @@ Please click to expand the sections below for detailed information about what yo
 
 ??? whistle "JR"
 
-        === "What I Bring To A Crew"
+    === "What I Bring To A Crew"
 
         As a JR, you can expect me to consistently exhibit and excel at:
 
@@ -304,6 +304,7 @@ Please click to expand the sections below for detailed information about what yo
         - Readiness to provide individual or crew feedback at the request of the HR/CHR.
         - Understanding how to accurately record essential OR information.
         - Readiness to report game summary information (team/or penalty counts, number of timeouts remaining, etc.) to the HR/CHR at their request.
+        - Attentiveness to the condition of the track, tape, rope, etc. and maintenance support.
 
         <figure markdown>
         ![Alternate Referee, RCR Home Team Champs, June, 2024 - Credit: Divo](images/breadpool_altr_rcr_champs_6_8_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
