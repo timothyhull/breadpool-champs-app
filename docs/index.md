@@ -77,7 +77,7 @@
     - **Fun Fact:** BJJ Black Belt
 
     <figure markdown>
-    ![Jammer Referee, 187 Killer Pads vs. Triple 8, RollerCon 2024 - Credit: WiK's Pic (@wick2o on Instagram)](images/breadpool_jr_187_vs_triple_8_7_12_24.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
+    ![Jammer Referee, 187 Killer Pads vs. Triple 8, RollerCon 2024 - Credit: WiK's Pic (@wick2o on Instagram)](images/breadpool_jr_187_vs_triple_8_2_7_12_24.png){ width="500" style="filter: drop-shadow(0 0 0.2rem black)" }
         <figcaption style="font-size: 12px">
             JR, 187 Killer Pads vs. Triple 8, RollerCon 2024<br>
             Credit: [WiK's Pics :octicons-link-external-24:](https://www.instagram.com/wick2o "@wick2o on Instagram"){ target=_blank }
