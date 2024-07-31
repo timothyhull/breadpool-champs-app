@@ -30,6 +30,12 @@
 
     The content of my application appears in several sections, various tabs, and expandable note boxes.  Click or tap anywhere you see the :material-cursor-default-click: icon to view each part of my application.
 
+    A Table of Contents menu appears on the left-side of all pages to provide you with quick access to three separate pages:
+
+    1. [My Officiating Application](./index.md "Officiating Application") (this page).
+    2. [Game Video Clips](./game_video_clips.md "Game Video Clips") that detail specific instances of my officiating performance for your review.
+    3. [My WFTDA Evaluations History](./evaluations.md "Evaluations") for your review.
+
 ---
 
 ## About Me
