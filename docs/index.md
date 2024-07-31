@@ -370,10 +370,10 @@ I believe the best officiating happens when a crew behaves like a selfless, supp
 
     - I approach officiating just like I do playing any competitive sport, with the exception that my opponent isn't another person or team.
     - In my mind, **mistakes** are the opponent I ferociously train to beat, while recognizing mistakes are a relentless opponent that will never allow me to be rest.
-    - I respect my opponent, although I do not fear them on any stage.
-    - I seek to challenge my opponent at the highest levels because I'm driven to "win," and I do whatever it takes to be successful on the biggest stages.
-    - "Winning" means my peers and I supported safe, fair, and gameplay in which the competing teams feel like they control the outcome.
-    - I give my all to be the best teammate anyone has ever had, someone who my peers trust, feel safe with, and enjoy being around, and the most humble empathetic official anyone has ever known.
+    - I respect my opponent, although I do not fear them.
+    - I seek to challenge my opponent at the highest levels because I'm driven to "win," and I prepare to be successful in the biggest moments.
+    - "Winning" means my peers and I supported safe, fair gameplay in which the competing teams feel like they control the outcome.
+    - I give my all to be the best teammate anyone has ever had, always seeking self-improvement and working to be someone who my peers trust, feel safe with, and love to work with.
 
 ??? bread "2. Extreme Positivity :material-cursor-default-click:"
 
