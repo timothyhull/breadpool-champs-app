@@ -6,7 +6,7 @@ Below are exact copies of each of my historical WFTDA officiating evaluations. I
 
 ## Evaluation #1
 
-??? info "Y'AllStars - 22-25 February, 2024"
+??? clipboard "Y'AllStars - 22-25 February, 2024"
 
     === "Overview"
 
@@ -33,7 +33,7 @@ Below are exact copies of each of my historical WFTDA officiating evaluations. I
 
 ## Evaluation #2
 
-??? info "Y'AllStars - 22-25 February, 2024"
+??? clipboard "Y'AllStars - 22-25 February, 2024"
 
     === "Overview"
 
