@@ -112,7 +112,7 @@
         - U.S. Army recreational flag football.
         - BJJ tournaments at the local, regional, and international levels.
 
-        I’ve been competing in sports throughout my life, including over 20 years of Brazilian Jiu-Jitsu competition, and, for me, officiating is one of the ways I contribute to serving future generations of competitors while honoring the people who have officiated for my own competitive athletic experiences.
+        I’ve been competing in sports throughout my life, including over 20 years of Brazilian Jiu-Jitsu competition. Officiating is one way I contribute to serving future generations of competitors while honoring the people who have officiated for my own competitive athletic experiences.
 
         Although each sport has unique officiating requirements and nuances, I find there are many common elements to the role of officiating across sports.  I make this point because I believe one of the reasons I've been able to integrate effectively with the roller derby officiating community within a few years is my prior officiating experience:
 
@@ -141,7 +141,7 @@
         
         Since that day, I've poured my heart and soul into becoming a better official, believing I can serve people, many of whom live within social margins, in a way that allows them to live safer, more fulfilling lives.
 
-        Where I happen to live affords me access to more opportunities to officiate roller derby than many people have, and I have access to highly-experienced officials to learn from.  I do everything I can to use my privilege for good by officiating for leagues and teams who most need extra support. That means I frequently officiate roller derby:
+        Where I happen to live affords me access to more opportunities to officiate roller derby than many people have, and I have access to highly experienced officials to learn from.  I do everything I can to use my privilege for good by officiating for leagues and teams that most need extra support. That means I frequently officiate roller derby:
         
         - Outside of my home league, often in rural areas.
         - For junior roller derby leagues and teams.
@@ -161,9 +161,9 @@
 
 ## What I'm Applying For
 
-I wish to serve as a member of an SO crew as an **OPR**, **JR**, or **IPR**.  I prefer to serve in an OPR or JR role, with no specific precedence between the two because I believe I am capable of officiating admirably in these roles for any level of play, including the highest-level play in the world.
+I wish to serve as a member of an SO crew as an **OPR**, **JR**, or **IPR**.  I prefer to serve in an OPR or JR role, with no specific precedence between the two, because I believe I can officiate admirably in these roles for any level of play, including the highest-level play in the world.
 
-Although I am not as strong of an IPR as I am an OPR or JR, I included the IPR role in my application because I want TOSP, the THR, and the CHRs to know they can confidently staff me in an IPR role if necessary (planned or unplanned), or in the ALTR role, knowing I can immediately enter a game with confidence and effectiveness in any SO role.
+Although I am not as strong of an IPR as I am an OPR or JR, I included the IPR role in my application because I want TOSP, the THR, and the CHRs to know they can confidently staff me in an IPR role, if necessary (planned or unplanned), or in the ALTR role, knowing I can immediately enter a game with confidence and effectiveness in any SO role.
 
 Please click to expand the sections below for detailed information about what you can expect from me and how I position myself in each SO role.
 
@@ -178,7 +178,7 @@ Please click to expand the sections below for detailed information about what yo
     - Awareness of detailed information about the actions I observe that includes player-specific details (team and jersey number).
     - Continuous and dynamic positioning and repositioning to always be in the best position to observe game action.
     - Clear, slow, and slightly prolonged whistle blasts to help my peer officials in SO and NSO roles understand where and when to turn their attention.
-    - Highly-visible, deliberately slow, and consistently repeated verbal and visual cues to help my peer officials in SO and NSO roles understand exactly what I am observing and reporting.
+    - Highly visible, deliberately slow, and consistently repeated verbal and visual cues to help my peer officials in SO and NSO roles understand exactly what I am observing and reporting.
     - Delivering verbal and visual cues, including issuing penalties, while maintaining the appropriate positioning for my SO role.
     - Maintaining observation of players before, during, and after each jam to ensure any potential contact or communication between teams has coverage.
     - Tracking the number of players and the positions for each player on each team before and during a jam.
@@ -199,12 +199,12 @@ Please click to expand the sections below for detailed information about what yo
 
         As an OPR, you can expect me to consistently exhibit and excel at:
 
-        - Demonstrating high-proficiency at each OPR position and the capacity to switch between any OPR position at any time without disrupting gameplay or creating a gap in coverage.
-        - Being the earliest and most-decisive "dropping" OPR in the world, seeking to rapidly stop, accelerate in non-derby direction, and recover a new position whenever the speed of the pack has even the slightest position to put me and my peers out of position.
+        - Demonstrating high proficiency at each OPR position and the capacity to switch between any OPR position at any time without disrupting gameplay or creating a in coverage gap.
+        - Being the earliest and most decisive "dropping" OPR in the world, seeking to rapidly stop, accelerate in non-derby direction, and recover a new position whenever the speed of the pack has even the slightest position to put me and my peers out of position.
         - Awareness of earned passes within my zone, to support the JR's on my crew with accurate points reporting.
         - Frequently communicating with my OPR peers to ensure our collective positioning and ability to observe game actions is optimal.
         - Non-verbal communication with players (pointing) reporting to and returning from the penalty box to help ensure they enter and exit the track safely.
-        - Lateral movement that allows me to predominantly face my entire body toward the pack, giving me the best possible view of the pack and allowing me to rapidly accelerate and decelerate in any direction, at any time.
+        - Lateral movement that allows me to predominantly face my entire body toward the pack, giving me the best possible view of the pack and allowing me to rapidly accelerate and decelerate in any direction at any time.
 
         <figure markdown>
         ![Outside Pack Referee, WFTDA NA West Playoffs, June, 2024 - Credit: ShutHerUp Photography (ShutHerUpPhotography on Facebook)](images/breadpool_opr_na_west_playoffs_6_24.png){ width="250" style="filter: drop-shadow(0 0 0.2rem black)" }
@@ -220,15 +220,15 @@ Please click to expand the sections below for detailed information about what yo
 
             1. Parallel with a well-defined rear wall.
             2. Ready to rapidly accelerate in non-derby direction to follow and remain even with players up to the trailing edge of the rear engagement zone.
-            3. Shifting to be slightly behind the rear wall when jammers approach, so I can observe contact to the real wall.
-            3. Shifting to be slightly in front of the real wall to observe for illegal blocking techniques that create game impact.
+            3. Shifting slightly behind the rear wall when jammers approach, so I can observe contact to the rear wall.
+            3. Shifting slightly in front of the rear wall to observe for illegal blocking techniques that create game impact.
             4. In position to observe player positioning relative to the jammer line and outside boundary at the start of each jam.
 
         - As a **middle** OPR, I am, generally:
 
             1. Parallel with a well-defined front wall of 3+ blockers wall.
             2. Ready to rapidly accelerate in non-derby direction to observe the rear wall from the front when the front wall has 2 or fewer blockers.
-            3. Ready to reposition to be parallel with the rear wall when the rear OPR follows blockers moving in non-derby direction to the edge of the rear engagement zone, and ready to return to observing the front wall as the rear OPR reassumes control of the real wall.
+            3. Ready to reposition to be parallel with the rear wall when the rear OPR follows blockers moving in non-derby direction to the edge of the rear engagement zone, and ready to return to observing the front wall as the rear OPR reassumes control of the rear wall.
             4. In position to observe player positioning relative to the pivot line and outside boundary at the start of each jam.
 
         - As a **front** OPR, I am, generally:
@@ -274,7 +274,7 @@ Please click to expand the sections below for detailed information about what yo
 
         - Before each jam, I identify my jammer and align myself with their position, making sure I can observe their actions before and after the jam starting whistle.
         - Precise alignment with my jammer throughout the duration of each jam in a way that allows me to continuously and accurately observe my jammer's position relative to other players.
-        - Frequent use of wheel stopping techniques (hockey stops, power slides, etc.) to keep alignment with my jammer as they dynamically move within the pack and throughout the track.
+        - Frequent use of wheel-stopping techniques (hockey stops, power slides, etc.) to keep alignment with my jammer as they dynamically move within the pack and throughout the track.
 
         <figure markdown>
         ![Jammer Referee, AoA vs. Rat City, October, 2023 - Credit: Jonathan Works Photography (worksphoto on Facebook)](images/breadpool_jr_aoa_vs_rat_city_10_7_2023.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
@@ -290,7 +290,7 @@ Please click to expand the sections below for detailed information about what yo
 
         As IPR, front or rear, you can expect me to consistently exhibit and excel at:
 
-        - Comfort and confidence working from the front or rear IPR positions, depending on the position preference of my HR/CHR.
+        - Comfort and confidence working from the front or rear IPR positions, depending on my HR/CHR's position preference.
         - Ability to define and track pack location plus adapt to the to the pack definition metrics of my peer IPR.
         - Ability to adapt to the pack reformation penalty metrics of my peer IPR such that reformation penalty distribution is fair and consistent.
         - Ability to monitor the precise location of skaters to accurately report pack conditions and movement.
@@ -298,7 +298,7 @@ Please click to expand the sections below for detailed information about what yo
         - Clear and loud verbal and visual cues that allow players to quickly understand and respond to warnings before penalty assessment.
         - Ability to rapidly and dynamically change my positioning and focus as game conditions and pack activities dictate.
         - Capacity to relay information information between officials, including relaying penalties from OPRs to PLTs.
-        - Capacity to relay to JRs which players are OOP, NOTT, etc. and when, to support JRs accurately tracking and reporting points.
+        - Capacity to relay to JRs which players are OOP, NOTT, etc. and when, to support JRs accurate tracking and points reporting.
         - Ongoing communication with other officials about pack location and player positioning relative to the pack, specifically communicating the location of jammers relative to the pack and front engagement zone to JRs.
         - Awareness of where players re-enter the track relative to the front engagement zone.
         - Ability to "chase down" and issue an OOP warning to a pivot who leaves the front engagement zone while believing they are a jammer, after unsuccessfully taking a star pass.
@@ -325,8 +325,8 @@ Please click to expand the sections below for detailed information about what yo
 
             1. Centered on the pack when the pack is well-defined.
             2. Ready to rapidly accelerate in non-derby direction to follow and remain even with players up to the trailing edge of the rear engagement zone.
-            3. Shifting to be slightly behind the rear wall when jammers approach, so I can observe contact to the real wall.
-            4. Shifting to be slightly in front of the real wall to observe for illegal blocking techniques that create game impact.
+            3. Shifting slightly behind the rear wall when jammers approach, so I can observe contact to the rear wall.
+            4. Shifting slightly in front of the rear wall to observe for illegal blocking techniques that create game impact.
             5. Ready to move out of the path of both JRs and quickly recover my original position.
             6. In position to observe player positioning relative to the jammer line and inside boundary at the start of each jam.
 
@@ -418,8 +418,8 @@ I believe the best officiating happens when a crew behaves like a selfless, supp
 ??? bread "8. Hustle :material-cursor-default-click:"
 
     - No matter what I do, I move with the utmost sense of purpose, often sprinting back and forth, to show everyone around me that my concern for serving the teams and peers I officiate with is equivalent to that of the highest-level competitors.
-    - I apply the skills I've developed in over 20 years of Jiu-Jitsu and Judo training and competition to reduce the probability that I will fall, and to recover from a fall with precision and explosiveness.
-    - If I end up on the ground, I maintain eye contact with my zone of coverage to the extent possible, and return to my assigned responsibilities immediately, even if I have discomfort from whatever took me down.
+    - I apply the skills I've developed in over 20 years of Jiu-Jitsu and Judo training and competition to reduce the probability that I will fall and to recover from a fall with precision and explosiveness.
+    - If I end up on the ground, I maintain eye contact with my zone of coverage to the extent possible, and return to my assigned responsibilities immediately, even if I am in discomfort from whatever took me down.
 
 ??? bread annotate "9. Versatility :material-cursor-default-click:"
 
@@ -433,8 +433,8 @@ I believe the best officiating happens when a crew behaves like a selfless, supp
 
 ??? bread "10. Courage To Do What's Right :material-cursor-default-click:"
 
-    - Making split-second, difficult decisions are simply part of being an official, and I believe that applies to all levels in all sports.
-    - Of course, there are no prescriptive guidelines for what the "right" thing to do is, although my peers can count on me to use good judgement, be decisive in key moments, and own responsibility for the decisions I make, whatever the outcome.
+    - Making split-second, difficult decisions is simply part of being an official, and I believe that applies to all levels in all sports.
+    - Of course, there are no prescriptive guidelines for what the "right" thing to do is, although my peers can count on me to use good judgment, be decisive in key moments, and own responsibility for the decisions I make, whatever the outcome.
 
 ---
 
@@ -448,7 +448,7 @@ I believe the best officiating happens when a crew behaves like a selfless, supp
     
     Intense rehabilitation to recover from injuries is my superpower. For example, I served as an SO less than two weeks after a total hip replacement last year because I spent hours and hours each day rehabilitating, strengthening, and specifically training to be ready to skate.
     
-    **I want people with physical disabilities to see me as an example that's it’s possible for them to experience the joy and fulfillment from strenuous sports and activities.**
+    **I want people with physical disabilities to see me as an example that it’s possible for them to experience the joy and fulfillment from strenuous sports and activities.**
 
     <figure markdown>
     ![Outside Pack Referee, RCR GNR vs. Texas Hustlers, November, 2023 - Credit: Jonathan Works Photography (worksphoto on Facebook)](images/breadpool_opr_gnr_vs_tx_11_18_23.png){ width="350" style="filter: drop-shadow(0 0 0.2rem black)" }
@@ -464,15 +464,15 @@ I believe the best officiating happens when a crew behaves like a selfless, supp
     
     Military service disabilities and sports injuries now prevent me from competing in the sports I've spent most of my life learning, playing, and loving.  Losing the ability to compete in these sports in recent years crushed me, leaving me feeling without purpose and desperate for a way to fill the competitive athletic void in my life.
 
-    Officiating roller derby has allowed me to feel like my chance to participate in competitive athletic activities isn't yet over because, at least for the time being, my body still allows me to roller skate with high-intensity.  Even though I am not a competitor on the track, officating allows me to experience the joy of competitive preparation through intense physical training, rules study, video analysis, and practicing with of peers who push me to be better every day.
+    Officiating roller derby has allowed me to feel like my chance to participate in competitive athletic activities isn't yet over because, at least for the time being, my body still allows me to roller skate with high intensity.  Even though I am not a competitor on the track, officiating allows me to experience the joy of competitive preparation through intense physical training, rules study, video analysis, and practicing with peers who push me to be better every day.
 
     The first time I attended a roller derby officiating practice, one of the coaches told me:
     
     !!! quote
     
-        *"There are people here who've officiated at the WFTDA Championship-level.  If you're willing to show up, work your butt off, and be humble about it, you might get a chance to do the same someday."*
+        *"There are people here who've officiated at the WFTDA Championship level.  If you're willing to show up, work your butt off, and be humble about it, you might get a chance to do the same someday."*
         
-    That moment offered me a chance to experience competition in a way that I thought was gone forever, and gave me hope that I could once again feel the joy of training to be a champion.  Driven by that hope, I've poured my soul into doing *everything* I can to have a shot to be a member of a WFTDA Championship officiating crew.
+    That moment offered me a chance to experience competition in a way that I thought was gone forever, and gave me hope that I could once again feel the joy of training to be a champion.  Driven by that hope, I've poured my soul into doing *everything* I can to have a shot at being a member of a WFTDA Championship officiating crew.
 
     <figure markdown>
     ![Inside Pack Referee, RCR Home Team Champs, June, 2024 - Credit: Divo](images/breadpool_ipr_rcr_champs_2_6_8_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
