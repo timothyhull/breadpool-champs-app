@@ -521,8 +521,8 @@ Below are links to some of my recent officiating experiences for various game si
 
     === "Overview :material-cursor-default-click:"
 
-        - At the 4:32 mark of this video, while serving as rear OPR, I observed Purple #48 initiate a block on White #42 using a legal blocking zone on a legal target zone.
-        - The block causes White #42 to fall on top of Purple #88 who is seemingly in a down position.
+        - At the 4:32 mark of this video, while serving as rear OPR, I observed Purple #48 initiate a block on White #42 with a legal blocking zone to a legal target zone.
+        - Purple #48's block causes White #42 to fall on top of Purple #88 who is seemingly in a down position at the time of the contact.
         - I blow my whistle to issue a misconduct penalty to Purple #48 for blocking White #42 into a downed player (Purple #88).
 
     === "Outcome :material-cursor-default-click:"
