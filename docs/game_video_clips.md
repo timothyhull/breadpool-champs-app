@@ -1,9 +1,5 @@
 # Game Video Clips
 
-- ALTR activation CCRD
-- HR coach conversation
-- HH vs HR SSSS (IPR)
-
 ## Overview
 
 Below are links to some of my recent officiating experiences for various game situations that I believe highlight why I will perform at a high level as a WFTDA Championship official:
@@ -245,7 +241,7 @@ Below are links to some of my recent officiating experiences for various game si
 
 ## Video Example #10
 
-??? video "Body Positioning, Lateral Movement, Rapid Acceleration/Acceleration, Advanced Stop Techniques, and Player Positioning Awareness. :material-cursor-default-click:"
+??? video "Body Positioning, Lateral Movement, Rapid Acceleration/Acceleration, Advanced Stop Techniques, and Player Positioning Awareness :material-cursor-default-click:"
 
     === "Overview :material-cursor-default-click:"
 
@@ -266,4 +262,118 @@ Below are links to some of my recent officiating experiences for various game si
     </center>
     <center>
         <br>[https://youtu.be/JNTUqZu2KLc :octicons-link-external-24:](https://youtu.be/JNTUqZu2KLc){ target=_blank }
+    </center>
+
+---
+
+## Video Example #11
+
+??? video "Controlled, Mid-Corner, Rapid Stop and While Maintaining Position  :material-cursor-default-click:"
+
+    === "Overview :material-cursor-default-click:"
+
+        - At the ≈57:45 mark in this video, while serving as a JR, my jammer, White #700 will earn lead, rapidly exit the front engagement zone, and approach the pack at high speed.
+        - My jammer realizes they do not have much time before the opposing will approach the pack and score points for themselves.
+        - My jammer rapidly decelerates and negotiates the pack for a few seconds before calling-off the jam.
+        - The players in this game are all RCR TT skaters, making the game representative of elite-level play.
+
+    === "Outcome :material-cursor-default-click:"
+
+        - I had to rapidly accelerate to maintain alignment with my jammer on their scoring trip, respond to and match their rapid deceleration in a compressed space (the middle of a turn), maintain accurate alignment with my jammer to track earned passes, and respond to the call-off request the jam immediately.
+        - I used a single-leg backward plow stop technique to perform a controlled stop that allowed me to remain in position, not occupy more space than absolutely necessary, and move laterally through the apex of the turn in alignment with my jammer.
+
+    === "Importance :material-cursor-default-click:"
+
+        - I specifically practice this exact stop technique and scenario because it is difficult to get right, and I believe this example demonstrates I exhibit the skating skills and body positioning required to officiate fast-moving derby with elite-level players and teams.
+
+    <center>
+        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/hWdVqVpOs2w?start=3458" title="https://youtu.be/hWdVqVpOs2w?t=3458" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </center>
+    <center>
+        <br>[https://youtu.be/hWdVqVpOs2w?t=3458 :octicons-link-external-24:](https://youtu.be/hWdVqVpOs2w?t=3458){ target=_blank }
+    </center>
+
+---
+
+## Video Example #12
+
+??? video "Controlled, Mid-Corner, Rapid Stop and While Maintaining Position  :material-cursor-default-click:"
+
+    === "Overview :material-cursor-default-click:"
+
+        - At the ≈57:45 mark in this video, while serving as a JR, my jammer, White #700 will earn lead, rapidly exit the front engagement zone, and approach the pack at high speed.
+        - My jammer realizes they do not have much time before the opposing will approach the pack and score points for themselves.
+        - My jammer rapidly decelerates and negotiates the pack for a few seconds before calling-off the jam.
+        - The players in this game are all RCR TT skaters, making the game representative of elite-level play.
+
+    === "Outcome :material-cursor-default-click:"
+
+        - I had to rapidly accelerate to maintain alignment with my jammer on their scoring trip, respond to and match their rapid deceleration in a compressed space (the middle of a turn), maintain accurate alignment with my jammer to track earned passes, and respond to the call-off request the jam immediately.
+        - I used a single-leg backward plow stop technique to perform a controlled stop that allowed me to remain in position, not occupy more space than absolutely necessary, and move laterally through the apex of the turn in alignment with my jammer.
+
+    === "Importance :material-cursor-default-click:"
+
+        - I specifically practice this exact stop technique and scenario because it is difficult to get right, and I believe this example demonstrates I exhibit the skating skills and body positioning required to officiate fast-moving derby with elite-level players and teams.
+
+    <center>
+        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/hWdVqVpOs2w?start=3458" title="https://youtu.be/hWdVqVpOs2w?t=3458" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </center>
+    <center>
+        <br>[https://youtu.be/hWdVqVpOs2w?t=3458 :octicons-link-external-24:](https://youtu.be/hWdVqVpOs2w?t=3458){ target=_blank }
+    </center>
+
+---
+
+## Video Example #13
+
+??? video "ALTR Readiness and Rapid Activation  :material-cursor-default-click:"
+
+    === "Overview :material-cursor-default-click:"
+
+        - At the ≈3:50:29 mark in this video, while serving as the ALTR, jam 7 of the 2nd period ends, and the rear OPR approaches me in at the side of the track to indicate they need temporary relief.
+
+    === "Outcome :material-cursor-default-click:"
+
+        - In the ALTR role, I keep myself ready to enter the game at any moment of need.
+        - I was able to sit, safely remove my helmet, remove the black NSO top that covered my referee stripes, replace my helmet, and position myself for activation before jam 8 started.
+
+    === "Importance :material-cursor-default-click:"
+
+        - I don't think it's ordinary to activate an ALTR without having to stop the game clock, and I am proud that my state of preparedness kept the game clock moving.
+        - I believe this video shows an example of the importance I place on the ALTR role, how I do whatever I can to keep from disrupting game flow, and the level of readiness I maintain in the ALTR role.
+    <center>
+        Embedded playback is not available for this video. Please click the link below to watch.
+        <br>[https://fb.watch/rh_w7Nh_7b :octicons-link-external-24:](https://fb.watch/rh_w7Nh_7b){ target=_blank }
+    </center>
+
+---
+
+## Video Example #14
+
+??? video "ALTR Readiness and Rapid Activation  :material-cursor-default-click:"
+
+    === "Overview :material-cursor-default-click:"
+
+        - At the ≈36:57 mark in this video, while serving as front IPR, I observe Green #51 force Blue #21 OOB using an illegal blocking zone (forearm).
+        - Having sufficient information to determine the contact and resulting game impact meet the criteria to issue a penalty, I issue a forearm penalty to green #51.
+        - The jam ends a few seconds later, and the Green "A" approaches me to express that they believe the action did not have sufficient impact to warrant a penalty.
+
+    === "Outcome :material-cursor-default-click:"
+
+        - Although I felt comfortable with my decision to issue the penalty, I did not argue my case to the Green "A" because I thought doing so would be counterproductive.
+        - I patiently listened to the Green "A" express their disagreement/dissatisfaction, validated their argument by by nodding and saying "okay" to acknowledge their feedback.
+        - The Green "A" returned to their bench and the next jam started without incident.
+
+    === "Importance :material-cursor-default-click:"
+
+        - For me, this action is a key element to officiating effectively and building trust with players and coaches.
+        - I believed the Green "A" wanted to express their opinion to me, not argue with me, and I feel confident that arguing would have escalated the situation.
+        - I estimated that Green "A" needed to express frustration, and I want to earn their trust by listening to understand them, not listening to respond to or arguing with them.
+        - I believe this video shows an example of how I treat others with respect and kindness at all times, even when competitive emotions run high.
+
+    <center>
+        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/qx-EYWrAn5k?start=2211" title="https://youtu.be/qx-EYWrAn5k?&t=2211" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </center>
+    <center>
+        <br>[https://youtu.be/qx-EYWrAn5k?&t=2211 :octicons-link-external-24:](https://youtu.be/qx-EYWrAn5k?&t=2211){ target=_blank }
     </center>
