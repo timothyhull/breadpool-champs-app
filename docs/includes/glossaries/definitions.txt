@@ -53,7 +53,8 @@
 *[THNSO]: Tournament Head Non-Skating Official
 *[THR]: Tournament Head Referee
 *[TOSP]: Tournament Officiating Selection Panel
-*[TTO]: Team Timeout
+*[TT]: Travel Team
+*[TTO]: Team Timeouts
 *[TTOs]: Team Timeouts
 *[USA]: United States of America
 *[WFTDA]: Women's Flat Track Derby Association
