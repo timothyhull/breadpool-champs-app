@@ -482,7 +482,7 @@ Below are links to some of my recent officiating experiences for various game si
 
 ## Video Example #18
 
-??? video "Using Skating Techniques Recover and Maintain Accurate Positioning" :material-cursor-default-click:"
+??? video "Using Skating Techniques Recover and Maintain Accurate Positioning :material-cursor-default-click:"
 
     === "Overview :material-cursor-default-click:"
 
