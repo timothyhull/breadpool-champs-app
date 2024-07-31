@@ -293,7 +293,7 @@ Below are links to some of my recent officiating experiences for various game si
         <br>[https://youtu.be/hWdVqVpOs2w?t=3458 :octicons-link-external-24:](https://youtu.be/hWdVqVpOs2w?t=3458){ target=_blank }
     </center>
 
-## Video Example #13
+## Video Example #12
 
 ??? video "ALTR Readiness and Rapid Activation  :material-cursor-default-click:"
 
@@ -317,7 +317,7 @@ Below are links to some of my recent officiating experiences for various game si
 
 ---
 
-## Video Example #14
+## Video Example #13
 
 ??? video "ALTR Readiness and Rapid Activation  :material-cursor-default-click:"
 
@@ -349,7 +349,7 @@ Below are links to some of my recent officiating experiences for various game si
 
 ---
 
-## Video Example #15
+## Video Example #14
 
 ??? video "Use of Slow, Clear, and Visible Hand Signals (Second Example) :material-cursor-default-click:"
 
