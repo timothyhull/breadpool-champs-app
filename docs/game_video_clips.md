@@ -213,3 +213,30 @@ Below are links to some of my recent officiating experiences for various game si
     <center>
         <br>[https://youtu.be/Sfq9SNzx4ms?&t=8397 :octicons-link-external-24:](https://youtu.be/Sfq9SNzx4ms?&t=8397){ target=_blank }
     </center>
+
+---
+
+## Video Example #9
+
+??? video "Awareness/Tracking of a Non-Initiator Cut While Remaining in Position :material-cursor-default-click:"
+
+    === "Overview :material-cursor-default-click:"
+
+        - At the ≈10:23:44 mark in this video, while serving as rear OPR, I observe Black #211 initiate a block that sends Red Jammer out-of-bounds.
+        - I also observe that Black Pivot gains superior position over Red Jammer just before Red Jammer is blocked out of bounds.
+        - Red Jammer re-enters the track behind Black #211, although I follow Black Pivot as they skate in non-derby direction, Red Jammer re-enters the track in front of Black Pivot, cutting Black Pivot, and fails to cede the cut.
+
+    === "Outcome :material-cursor-default-click:"
+
+        - Although I do not issue the penalty (indicated by my not using a swoop hand signal) since some of the action occurred outside my zone of responsibility, I blow my whistle and signal to the IPRs and JR that I have sufficient information to issue a cut penalty to Red Jammer for illegally gaining position on Black Pivot.  Red Jammer’s JR issues the cut penalty.
+
+    === "Importance :material-cursor-default-click:"
+
+        - I believe this video shows I am capable of tracking and communicating player positioning in a situation where player movement is fast, pack movement is dynamic, and officials need to communicate individual pieces of information amongst each other to make sure we, as a crew, neither issue penalties where they aren’t warranted, nor fail to issue penalties when they are warranted.
+
+    <center>
+        <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/BvyVWitw714?start=37417" title="https://youtu.be/BvyVWitw714?t=37417" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </center>
+    <center>
+        <br>[https://youtu.be/BvyVWitw714?t=37417 :octicons-link-external-24:](https://youtu.be/BvyVWitw714?t=37417){ target=_blank }
+    </center>
