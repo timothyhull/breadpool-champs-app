@@ -1,0 +1,60 @@
+*[ALTN]: Alternate Non-Skating Official
+*[ALTR]: Alternate Referee
+*[AoA]: Axles of Annihilation
+*[BJJ]: Brazilian Jiu-Jitsu
+*[CHNSO]: Crew Head Non-Skating Official
+*[CHNSOs]: Crew Head Non-Skating Officials
+*[CHR]: Crew Head Referee
+*[CHRs]: Crew Head Referees
+*[CRG]: Carolina Roller Girls Scoreboard Software
+*[ePLT]: Electronic Penalty Lineup Tracker
+*[ePLTs]: Electronic Penalty Lineup Trackers
+*[GNR]: Guns N Rollers
+*[HNSO]: Head Non-Skating Official
+*[HNSOs]: Head Non-Skating Officials
+*[HR]: Head Referee
+*[HRs]: Head Referees
+*[IBJJF]: International Brazilian Jiu-Jitsu Federation
+*[IGRF]: Interleague Game Reporting Form
+*[IPR]: Inside Pack Referee
+*[IPRs]: Inside Pack Referees
+*[JR]: Jammer Referee
+*[JRs]: Jammer Referees
+*[JT]: Jam Timer
+*[JRDA]: Junior Roller Derby Association
+*[JROTC]: Junior Reserve Officer Training Corps
+*[MRDA]: Men's Roller Derby Association
+*[NA]: North America
+*[NOTT]: Not-On-The-Track
+*[NSO]: Non-Skating Official
+*[NSOs]: Non-Skating Officials
+*[OOP]: Out-Of-Play
+*[OOS]: Overview of Officiating Skill
+*[OOSs]: Overviews of Officiating Skill
+*[OPR]: Outside Pack Referee
+*[OPRs]: Outside Pack Referees
+*[OR]: Official Review
+*[ORs]: Official Reviews
+*[OHD]: Officiating History Document
+*[OTO]: Official Timeout
+*[OTOs]: Official Timeouts
+*[PBM]: Penalty Box Manager
+*[PBT]: Penalty Box Timer
+*[PBTs]: Penalty Box Timers
+*[PLT]: Penalty Lineup Tracker
+*[PLTs]: Penalty Lineup Trackers
+*[PT]: Physical Therapy
+*[RCR]: Rose City Rollers
+*[SBO]: Scoreboard Operator
+*[SK]: Scorekeeper
+*[SKs]: Scorekeepers
+*[SO]: Skating Official
+*[SOs]: Skating Official
+*[THNSO]: Tournament Head Non-Skating Official
+*[THR]: Tournament Head Referee
+*[TOSP]: Tournament Officiating Selection Panel
+*[TT]: Travel Team
+*[TTO]: Team Timeouts
+*[TTOs]: Team Timeouts
+*[USA]: United States of America
+*[WFTDA]: Women's Flat Track Derby Association
