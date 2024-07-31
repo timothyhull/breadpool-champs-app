@@ -463,13 +463,19 @@ I believe the best officiating happens when a crew behaves like a selfless, supp
 
 === "New Hope :material-cursor-default-click:"
 
-    I've loved competing athletics my whole life.  I love the grind of physical preparation, the struggle of mental preparation, the joy of successes, the pain of failures, recovering from the devastation of injuries, and doing it all over again for the next contest.
+    I've loved intense athletic competition for as long as I can remember, first competing in a running race at the age of 5.  I love the grind of physical preparation, the struggle of mental readiness, the joy of successes, the pain of failures, and even the process to recover from the devastation of injuries, just for the chance to compete again.
     
-    Military service disabilities and sports injuries now prevent me from competing in the sports I've spent most of my life learning, playing, and loving.  Losing the ability to compete in these sports in recent years was heartbreaking, and left me feeling empty and lost.
+    Military service disabilities and sports injuries now prevent me from competing in the sports I've spent most of my life learning, playing, and loving.  Losing the ability to compete in these sports in recent years crushed me, leaving me feeling without purpose and desperate for a way to fill the competitive athletic void in my life.
 
-    Officiating for roller derby has given me the chance to feel like I can still compete intensely.  I train to officiate officiate roller derby games in a way that gives me the feeling I can still do things.  I train to officiate like a competitor, like I have to be the best, like good is the enemy of great.
+    Officiating roller derby has allowed me to feel like my chance to participate in competitive athletic activities isn't yet over because, at least for the time being, my body still allows me to roller skate with high-intensity.  Even though I am not a competitor on the track, officating allows me to experience the joy of competitive preparation through intense physical training, rules study, video analysis, and practicing with of peers who push me to be better every day.
 
-    Working to try and be a championship-level roller derby official has given me new hope that there's still a way for me to do what I've always loved, and I've poured my soul into doing everything I can to have a shot to be on a WFTDA Championship crew.
+    The first time I attended a roller derby officiating practice, one of the coaches told me:
+    
+    !!! quote
+    
+        There are people here who've officiated at the WFTDA Championship-level.  If you're willing to show up, work your butt off, and be humble about it, you might get a chance to do the same someday."
+        
+    That moment offered me a chance to experience competition in a way that I thought was gone forever, and gave me hope that I could once again feel the joy of training to be a champion.  Driven by that hope, I've poured my soul into doing *everything* I can to have a shot to be a member of a WFTDA Championship officiating crew.
 
     <figure markdown>
     ![Inside Pack Referee, RCR Home Team Champs, June, 2024 - Credit: Divo](images/breadpool_ipr_rcr_champs_2_6_8_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
