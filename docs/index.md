@@ -205,8 +205,8 @@ Please click to expand the sections below for detailed information about what yo
 
         As an OPR, you can expect me to consistently exhibit and excel at:
 
-        - Demonstrating high proficiency at each OPR position and the capacity to switch between any OPR position at any time without disrupting gameplay or creating a in coverage gap.
-        - Being the earliest and most decisive "dropping" OPR in the world, seeking to rapidly stop, accelerate in non-derby direction, and recover a new position whenever the speed of the pack has even the slightest position to put me and my peers out of position.
+        - Demonstrating high proficiency at each OPR position and the capacity to switch between any OPR position at any time without disrupting gameplay or creating a coverage gap.
+        - Being the earliest and most decisive "dropping" OPR in the world, seeking to rapidly stop, accelerate in non-derby direction, and recover a new position whenever the speed of the pack has even the slightest potential to put me and my peers out of position.
         - Awareness of earned passes within my zone, to support the JR's on my crew with accurate points reporting.
         - Frequently communicating with my OPR peers to ensure our collective positioning and ability to observe game actions is optimal.
         - Non-verbal communication with players (pointing) reporting to and returning from the penalty box to help ensure they enter and exit the track safely.
@@ -232,7 +232,7 @@ Please click to expand the sections below for detailed information about what yo
 
         - As a **middle** OPR, I am, generally:
 
-            1. Parallel with a well-defined front wall of 3+ blockers wall.
+            1. Parallel with a well-defined front wall of 3+ blockers.
             2. Ready to rapidly accelerate in non-derby direction to observe the rear wall from the front when the front wall has 2 or fewer blockers.
             3. Ready to reposition to be parallel with the rear wall when the rear OPR follows blockers moving in non-derby direction to the edge of the rear engagement zone, and ready to return to observing the front wall as the rear OPR reassumes control of the rear wall.
             4. In position to observe player positioning relative to the pivot line and outside boundary at the start of each jam.
@@ -241,7 +241,7 @@ Please click to expand the sections below for detailed information about what yo
 
             1. 7-12 feet in front of the pack, directly next to the outside boundary looking in non-derby direction when the front wall has 3+ blockers.
             2. Ready to rapidly transition to be parallel with a front wall of 2 or fewer blockers while maintaining a position that prevents blockers from getting forward of my position.
-            3. Ready to reposition to be parallel with the front wall when the middle OPR positions themselves to be parallel with the rear wall, and ready to return to a position forward of the front wall.
+            3. Ready to reposition to be parallel with the front wall when the middle OPR positions themselves to be parallel with the rear wall, and ready to return to a position forward of the front wall when the middle OPR positions themselves to be parallel with the front wall.
 
         <figure markdown>
         ![Outside Pack Referee, Female Division JRDA Playoffs: Santa Cruz, June, 2024 - Credit: Mckay Grundstein-Helvey (@mgh2pdx on Instagram)](images/breadpool_opr_jrda_playoffs_6_23_24.png){ width="400" style="filter: drop-shadow(0 0 0.2rem black)" }
