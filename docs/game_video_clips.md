@@ -67,7 +67,8 @@ Below are links to some of my recent officiating experiences for various game si
         - While this is hardly ideal, I recognize I will make mistakes, and it is important to me to immediately and specifically apologize as a mechanism to acknowledge my errors and attempt to build trust with players, coaches, and my peers.
 
     === "Importance :material-cursor-default-click:"
-        - I want to show the people I serve that I care deeply about getting things right and that I will not use/abuse the power afforded to me as an official as a platform to insist I am correct.  My apology to the coach is not visible on the video stream, although you will see that I apologize to the player before approaching their bench to speak with their coach.
+        - I want to show the people I serve that I care deeply about getting things right and that I will not use/abuse the power afforded to me as an official as a platform to insist I am correct.
+        - My apology to the coach is not visible on the video stream, although you will see that I apologize to the player before approaching their bench to speak with their coach.
 
     <center>
         <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/3M_NepfZ2Wg?start=1171" title="https://3M_NepfZ2Wg?start=1171" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -148,7 +149,8 @@ Below are links to some of my recent officiating experiences for various game si
 
     === "Importance :material-cursor-default-click:"
 
-        - While this decision may seem trivial, this game was closely contested and I felt the doubt I had about whether or not the contact initiated by Black #63 was sufficient to justify a no-call in an effort to keep skaters on the track and in competition unless I am certain a penalty should be issued.  After reviewing the video later in the day, I believe I made the correct call.
+        - While this decision may seem trivial, this game was closely contested and I felt the doubt I had about whether or not the contact initiated by Black #63 was sufficient to justify a no-call in an effort to keep skaters on the track and in competition unless I am certain a penalty should be issued.
+        - After reviewing the video later in the day, I believe I made the correct call.
 
     <center>
         <iframe align="middle" width="560" height="315" src="https://www.youtube.com/embed/Sfq9SNzx4ms?start=15276" title="https://youtu.be/Sfq9SNzx4ms?t=15276" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -188,7 +190,7 @@ Below are links to some of my recent officiating experiences for various game si
 
 ## Video Example #8
 
-??? video "Awareness of the Unconventional use of an Illegal Blocking Zone to Gain Position :material-cursor-default-click:"
+??? video "Awareness of the Unconventional Use of an Illegal Blocking Zone to Gain Position :material-cursor-default-click:"
 
     === "Overview :material-cursor-default-click:"
 
@@ -197,7 +199,7 @@ Below are links to some of my recent officiating experiences for various game si
 
     === "Outcome :material-cursor-default-click:"
 
-        - While maintaining position to follow my jammer, I issued a forearm penalty to Black #77 with the additional verbal cue, “*Bracing on an opponent*.”
+        - While maintaining position to follow my jammer, I issued a forearm penalty to Black #77 with the additional verbal cue, “*bracing on an opponent*.”
 
     === "Importance :material-cursor-default-click:"
 
@@ -220,11 +222,13 @@ Below are links to some of my recent officiating experiences for various game si
 
         - At the ≈10:23:44 mark in this video, while serving as rear OPR, I observe Black #211 initiate a block that sends Red Jammer out-of-bounds.
         - I also observe that Black Pivot gains superior position over Red Jammer just before Red Jammer is blocked out of bounds.
-        - Red Jammer re-enters the track behind Black #211, although I follow Black Pivot as they skate in non-derby direction, Red Jammer re-enters the track in front of Black Pivot, cutting Black Pivot, and fails to cede the cut.
+        - Red Jammer re-enters the track behind Black #211, and I follow Black Pivot as they skate in non-derby direction.
+        - Red Jammer re-enters the track in front of Black Pivot, cutting Black Pivot, and fails to cede the cut.
 
     === "Outcome :material-cursor-default-click:"
 
-        - Although I do not issue the penalty (indicated by my not using a swoop hand signal) since some of the action occurred outside my zone of responsibility, I blow my whistle and signal to the IPRs and JR that I have sufficient information to issue a cut penalty to Red Jammer for illegally gaining position on Black Pivot.  Red Jammer’s JR issues the cut penalty.
+        - Although I do not issue the penalty (indicated by my not using a swoop hand signal) since some of the action occurred outside my zone of responsibility, I blow my whistle and signal to the IPRs and JR that I have sufficient information to issue a cut penalty to Red Jammer for illegally gaining position on Black Pivot.
+        - Red Jammer’s JR issues the cut penalty.
 
     === "Importance :material-cursor-default-click:"
 
@@ -250,7 +254,8 @@ Below are links to some of my recent officiating experiences for various game si
 
     === "Outcome :material-cursor-default-click:"
 
-        - While imperfect, I believe I did a good job maintaining position at the hips of my jammers, accurately tracking points, signaling lead jammer status accurately, and calling off jams precisely.- Anecdotally, the track surface was highly abrasive concrete, causing many officials and athletes to grind toe stops down to their posts and, of course, requiring replacements.
+        - While imperfect, I believe I did a good job maintaining position at the hips of my jammers, accurately tracking points, signaling lead jammer status accurately, and calling off jams precisely.
+        - Anecdotally, the track surface was highly abrasive concrete, causing many officials and athletes to grind toe stops down to their posts and, of course, requiring replacements.
         - I adapted to the track conditions by almost entirely using hockey stops and power slides, avoiding the use of toe stops as much as possible, and ensuring I would not experience an equipment failure during gameplay.
 
     === "Importance :material-cursor-default-click:"
@@ -279,7 +284,7 @@ Below are links to some of my recent officiating experiences for various game si
 
     === "Outcome :material-cursor-default-click:"
 
-        - I had to rapidly accelerate to maintain alignment with my jammer on their scoring trip, respond to and match their rapid deceleration in a compressed space (the middle of a turn), maintain accurate alignment with my jammer to track earned passes, and respond to the call-off request the jam immediately.
+        - I had to rapidly accelerate to maintain alignment with my jammer on their scoring trip, respond to and match their rapid deceleration in a compressed space (the middle of a turn), maintain accurate alignment with my jammer to track earned passes, and respond to the jam call-off request immediately.
         - I used a single-leg backward plow stop technique to perform a controlled stop that allowed me to remain in position, not occupy more space than absolutely necessary, and move laterally through the apex of the turn in alignment with my jammer.
 
     === "Importance :material-cursor-default-click:"
@@ -299,7 +304,7 @@ Below are links to some of my recent officiating experiences for various game si
 
     === "Overview :material-cursor-default-click:"
 
-        - At the ≈3:50:29 mark in this video, while serving as the ALTR, jam 7 of the 2nd period ends, and the rear OPR approaches me in at the side of the track to indicate they need temporary relief.
+        - At the ≈3:50:29 mark in this video, while serving as the ALTR, jam 7 of the 2nd period ends, and the rear OPR approaches me at the side of the track to indicate they need temporary relief.
 
     === "Outcome :material-cursor-default-click:"
 
@@ -324,7 +329,7 @@ Below are links to some of my recent officiating experiences for various game si
     === "Overview :material-cursor-default-click:"
 
         - At the ≈36:57 mark in this video, while serving as front IPR, I observe Green #51 force Blue #21 OOB using an illegal blocking zone (forearm).
-        - Having sufficient information to determine the contact and resulting game impact meet the criteria to issue a penalty, I issue a forearm penalty to green #51.
+        - Having sufficient information to determine the contact initiation and resulting game impact meet the criteria to issue a penalty, I issue a forearm penalty to green #51.
         - The jam ends a few seconds later, and the Green "A" approaches me to express that they believe the action did not have sufficient impact to warrant a penalty.
 
     === "Outcome :material-cursor-default-click:"
@@ -482,7 +487,7 @@ Below are links to some of my recent officiating experiences for various game si
 
 ## Video Example #18
 
-??? video "Using Skating Techniques Recover and Maintain Accurate Positioning :material-cursor-default-click:"
+??? video "Use of Skating Techniques Recover and Maintain Accurate Positioning :material-cursor-default-click:"
 
     === "Overview :material-cursor-default-click:"
 
@@ -494,7 +499,7 @@ Below are links to some of my recent officiating experiences for various game si
     === "Outcome :material-cursor-default-click:"
 
         - I never want to be out of position, although this sort of situation is something I routinely practice and drill so I can get back into position immediately.
-        - I sprint forward to catch Blue #26 just as they begin to reduce their speed, so I transition to a power slide technique that allows me to return to the appropriate position, observe the status of the, and stay out of the path of the Blue jammer's JR.
+        - I sprint forward to catch Blue #26 just as they begin to reduce their speed, so I transition to a power slide technique that allows me to return to the appropriate position, observe the status of the players in my zone, and stay out of the path of the Blue jammer's JR.
         - At the end of the power slide, as the JR and I approach turn 3, I use a two-stage pivot technique, shifting to my right and then back to my left to ensure I:
 
             1. Make sure the Blue JR has a clear path to remain in position with their jammer.
